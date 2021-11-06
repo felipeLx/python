@@ -170,3 +170,67 @@ if(album_year < 1980) or (album_year > 1989):
     print ("Album was not made in the 1980's")
 else:
     print("The Album was made in the 1980's ")
+
+rating = 8.5
+if rating > 8:
+    print('this album is amazing')
+
+rating = 7
+if rating > 8:
+    print('This album is amazing')
+elif rating <= 8:
+    print('This album is ok')
+
+album_year = 1979
+if album_year < 1980 or album_year == 1993 or album_year == 1991:
+    print('Album Year: ', album_year)
+
+squares=['red', 'yellow', 'green', 'purple', 'blue']
+
+for i, square in enumerate(squares):
+    print(i, square)
+
+dates = [1982, 1980, 1973, 2000]
+
+i = 0
+year = dates[0]
+
+while(year != 1973):    
+    print(year)
+    i = i + 1
+    year = dates[i]
+    
+
+print("It took ", i ,"repetitions to get out of loop.")
+
+PlayListRatings = [10, 9.5, 10, 8, 7.5, 5, 10, 10]
+i = 0
+rating = PlayListRatings[0]
+
+while(i < len(PlayListRatings) and rating >= 6):
+    print(rating)
+    i=i+1
+    rating = PlayListRatings[i]
+
+squares = ['orange', 'orange', 'purple', 'blue ', 'orange']
+new_squares = []
+i = 0
+
+while(i < len(squares) and squares[i] == 'orange'):
+    new_squares.append(squares[i])
+    squares.remove(squares[i])
+    i = i + 1
+    print('new square', new_squares)
+    print('old square', squares)
+
+myFavouriteBand = 'AC/DC'
+def getBandRating(bandname):
+    myFavouriteBand = "Deep Purple"
+    if bandname == myFavouriteBand:
+        return 10.0
+    else:
+        return 0.0
+
+print("AC/DC's rating is:",getBandRating("AC/DC"))
+print("Deep Purple's rating is: ",getBandRating("Deep Purple"))
+print("My favourite band is:",myFavouriteBand)
