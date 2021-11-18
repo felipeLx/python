@@ -1,0 +1,11 @@
+
+Artistc; 
+Album; 
+    Released;
+    Length;
+    Genre; 
+    Music recording sales (millions);
+    Claimed sales (millions);
+    Released;
+    Soundtrack;
+    Rating (friends);
