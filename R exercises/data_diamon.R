@@ -1,3 +1,5 @@
+library(dplyr)
+
 ?diamonds
 diamonds %>%
   select(color, price) %>%
