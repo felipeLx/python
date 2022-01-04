@@ -15,3 +15,6 @@ plt.legend(['X²', 'Vertical lines'])
 plt.xlabel('X')
 plt.ylabel('X squared')
 plt.show()
+
+def function():
+    print('hello')
