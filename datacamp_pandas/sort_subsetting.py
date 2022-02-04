@@ -26,9 +26,10 @@ dogs["height_cm"] > 50
 
 subsetting based on text area or date
 dogs[dogs["breed"] == "Labrador"]
-dogs[dogs["date_of_birth] > "2015-01-01"]
+dogs[dogs["date_of_birth"] > "2015-01-01"]
 
 subsetting based on multiple condition
+dogs[(dogs["color"] == "Brown") | (dogs["color"] == "Black")] 
 is_lab = dogs["breed"] = "Labrador"
 is_brown = dogs["color"] = "Brown"
 dogs[is_lab & is_brow]
@@ -42,4 +43,11 @@ ind_state = homelessness[["individuals", "state"]]
 
 # Print the head of the result
 print(ind_state.head())
+
+# The Mojave Desert states
+canu = ["California", "Arizona", "Nevada", "Utah"]
+
+# Filter for rows in the Mojave Desert states
+mojave_homelessness = homelessness[homelessness["state"].isin(canu)]
+
 '''''
