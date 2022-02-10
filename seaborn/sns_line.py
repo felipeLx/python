@@ -39,3 +39,10 @@ sns.relplot(x="model_year", y="horsepower", markers=True, dashes=False,
             ci=None, style="origin", 
             hue="origin") 
 
+# recap
+"""
+FaceGrid - relplot() catplot() -> can create subplots
+AxesSubplots - scatterplot() countplot() -> only create a single plot
+"""
+g = sns.catplot(x="model_year", y="horsepower",data=gdp_data, kind="box") 
+g.fig.suptitle("New Title", y=1.03)

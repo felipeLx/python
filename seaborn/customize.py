@@ -56,3 +56,29 @@ sns.set_palette(custom_palette)
 # Create the box plot of age distribution by gender
 sns.catplot(x="Gender", y="Age", 
             data=survey_data, kind="box")
+
+g = sns.catplot(x="Region", y="Birthrate", data=gdp_data, kind="box", col="Group")
+g.fig.suptitle("New Title", y=1.03)
+g.set_titles("This is {col_name}")
+
+g = sns.catplot(x="Region", y="Birthrate", data=gdp_data, kind="box")
+g.set(xlabel="New x Label", ylabel="New y Label")
+
+plt.xticks(rotation=90)
+
+
+# exercise
+# Create line plot
+g = sns.lineplot(x="model_year", y="mpg_mean", 
+                 data=mpg_mean,
+                 hue="origin")
+
+# Add a title "Average MPG Over Time"
+g.set_title("Average MPG Over Time")
+
+# Add x-axis and y-axis labels
+g.set(xlabel="Car Model Year", ylabel="Average MPG")
+
+
+# Show plot
+plt.show()
