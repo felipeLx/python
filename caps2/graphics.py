@@ -41,6 +41,10 @@ ax.set_xticks(x)
 ax.set_xticklabels(labels)
 ax.legend()
 
+plt.xticks(rotation=90)
+fig.tight_layout()
+
+plt.show()
 """
 def autolabel(rects):
     # Attach a text label above each bar in *rects*, displaying its height.
@@ -58,10 +62,6 @@ autolabel(rects3)
 autolabel(rects4)
 autolabel(rects5)
 """
-plt.xticks(rotation=90)
-fig.tight_layout()
-
-plt.show()
 
 """
 print(labels)
