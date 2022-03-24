@@ -3,13 +3,15 @@ import numpy as np
 import os
 
 # df = pd.read_csv('./met/')
-
+count_file_df = 0
+count_file_df1 = 0
 df = pd.DataFrame()
 df1 = pd.DataFrame()
+newdf = pd.DataFrame()
 
 for file in os.listdir('met'):
     if file.endswith('.CSV'):
-        df1 = pd.concat([df1, pd.read_csv(os.path.join('met', file), sep=';', encoding='latin1', skiprows=8)])
+        df1 = pd.concat([df1.reset_index(drop=True, inplace=True), pd.read_csv(os.path.join('met', file), sep=';', encoding='latin1', skiprows=8)])
         df1 = df1[['DATA (YYYY-MM-DD)', 'PRECIPITAÇÃO TOTAL, HORÁRIO (mm)']].rename(columns={'DATA (YYYY-MM-DD)': 'Date', 'PRECIPITAÇÃO TOTAL, HORÁRIO (mm)': 'Rain (mm)'})
         
         df1['Rain (mm)'] = df1['Rain (mm)'].replace('-9999', 0)
@@ -22,16 +24,22 @@ for file in os.listdir('met'):
         
         df1['Rain (mm)'] = df1['Rain (mm)'].astype('float')
         df1.reset_index(drop=True, inplace=True)
+        count_file_df1 += 1
+        print('df1', count_file_df1)
 
-        df = pd.concat([df, pd.read_csv(os.path.join('met', file), sep=';', encoding='latin1', skiprows=1, nrows=5)]).transpose()
-        newdf = pd.DataFrame(np.repeat(df.values[1:], len(df1), axis=0))
-        newdf = newdf.rename(columns={0:'Região', 1: 'Cod', 2: 'Lat', 3: 'Lon', 4: 'Alt'})
+        df = pd.concat([df.reset_index(drop=True, inplace=True), pd.read_csv(os.path.join('met', file), sep=';', encoding='latin1', skiprows=1, nrows=5)]).transpose()
+        df.reset_index(drop=True, inplace=True)
+        count_file_df += 1
+        print('df', count_file_df)
 
-        frames = [newdf, df1]
-        df_join = pd.concat(frames, axis = 1, join='inner') 
-        df_join = df_join.groupby(['Região', 'Lat', 'Lon', 'Alt', 'Year', 'Month'])['Rain (mm)'].sum().reset_index()
-        
+        df = pd.DataFrame(np.repeat(df.values[1:], len(df1), axis=0))
+        df = df.rename(columns={0:'Região', 1: 'Cod', 2: 'Lat', 3: 'Lon', 4: 'Alt'})
+
+frames = [df, df1]
+df_join = pd.concat(frames, axis = 1, join='inner') 
+df_join = df_join.groupby(['Região', 'Lat', 'Lon', 'Alt', 'Year', 'Month'])['Rain (mm)'].sum()
+
 
 # print(len(df1))
-print(df_join.head(12))
+print(df_join.info())
 # print(df1.head(10))
