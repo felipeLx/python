@@ -9,9 +9,6 @@ all_files = glob.glob(os.path.join(path, "*.CSV"))
 df_value = (pd.read_csv(f, sep=';', encoding='latin1', skiprows=8, header=0, usecols=[0,1,2], index_col=False) for f in all_files)
 c_df_value = pd.concat(df_value, ignore_index=True, axis=0, join='outer')
 
-for i in range(0,len(c_df_value)):
-    c_df_value['index'] = i
-    
 c_df_value = c_df_value[['DATA (YYYY-MM-DD)', 'PRECIPITAÇÃO TOTAL, HORÁRIO (mm)']].rename(columns={'DATA (YYYY-MM-DD)': 'Date', 'PRECIPITAÇÃO TOTAL, HORÁRIO (mm)': 'Rain (mm)'})
         
 c_df_value['Rain (mm)'] = c_df_value['Rain (mm)'].replace('-9999', 0)
@@ -24,25 +21,30 @@ c_df_value['Month'] = c_df_value.index.month
 
 c_df_value['Rain (mm)'] = c_df_value['Rain (mm)'].astype('float')
 c_df_value.reset_index(drop=True, inplace=True)
-# print(c_df_value.head(15000))
 
 df = pd.DataFrame()
-df = (pd.read_csv(f, sep=';', encoding='latin1', skiprows=2, nrows=5, header=None, index_col=False, usecols=[1]) for f in all_files)
-df2 = pd.concat(df, ignore_index=True, axis=0, join='outer')
-df2 = df2.transpose()
-df2 = pd.DataFrame(np.repeat(df2.values[0:], repeats=8760, axis=0), index=None)
-df2 = pd.DataFrame(df2.values.reshape(-1, 5))
+df = (pd.read_csv(f, sep=';', encoding='latin1', skiprows=2, nrows=5, header=None, usecols=[1]) for f in all_files)
 
-print(df2.head(10))
+df2 = pd.concat(df, ignore_index=True, axis=0, join='outer')
+print(df2.index)
+df2 = df2.transpose()
+df2 = pd.DataFrame(np.repeat(df2.values[0:], repeats=8760, axis=0))
+print(df2.index)
 df2 = df2.rename(columns={0:'Region', 1: 'Cod', 2: 'Lat', 3: 'Lon', 4: 'Alt'})
+# df2 = pd.DataFrame(pd.wide_to_long(df2, ['Region','Cod','Lat','Lon','Alt']))
+# df2 = pd.DataFrame(df2.values.reshape((len(all_files)*8760, 5)))
+# print(df2.head())
+
+"""
 unique_cols = df2.columns.unique().tolist()
 new_df = pd.DataFrame(
-        df2.values.reshape((-1, len(unique_cols)), order='C'),
+        df2.values.reshape((-1, len(unique_cols))),
         columns=unique_cols
     )
+print(new_df.head(10))
 # print(new_df.head(15000))
 # df_new = pd.wide_to_long(df2, i=-1, j='index', stubnames=[0,1,2,3,4])
-
+"""
 #print(df_new.head(15000))
 
 # df1 = pd.concat(pd.DataFrame(np.repeat(df, repeats=8760, axis=0)), ignore_index=True, axis=0, join='outer')
