@@ -31,10 +31,10 @@ result = PAB/PB # 0.992783
 print(result)
 """
 
-# conditional probability where disaster bigger than 1
+# conditional probability where disaster bigger than 1 and rain intesity bigger than 7.6
 PA = (6061+9458)/(6061+9458+1355+1939)
 PB = (9458+1939)/(6061+9458+1355+1939)
 PAB = (9458)/(6061+9458+1355+1939)
 
-result = PAB/PB # 0.992783
+result = PAB/PB # 0.829867
 print(result)
