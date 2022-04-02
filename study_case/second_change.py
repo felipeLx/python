@@ -41,4 +41,4 @@ flat_list = [item for sublist in df_list for item in sublist]
 
 df = pd.DataFrame(flat_list, columns=['State', 'Region', 'Code', 'Lat', 'Lon', 'Alt', 'Year', 'Month', 'Rain (mm)'])
 # print(df.head(15000))
-df.to_csv('br_rain_2019.csv', sep=';', index=False)
+df.to_csv('br_rain_2010-2021.csv', sep=';', index=False)

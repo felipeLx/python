@@ -9,10 +9,12 @@ df_rain = pd.read_csv('br_rain_2010-2021.csv', sep=';', encoding='latin1')
 
 df_disaster = pd.read_csv('disasters_2013-2021.csv', sep=';', encoding='latin1')
 
+"""
 # filter the months with the highest rain insident
 months_rain = [1,2, 3, 12]
 df_rain = df_rain.loc[df_rain['Month'].isin(months_rain)] 
 df_disaster = df_disaster.loc[df_disaster['Month'].isin(months_rain)]
+"""
 
 df = pd.merge(df_rain, df_disaster, on=['State', 'Year', 'Month'], how='inner')
 print(df.head())
@@ -24,8 +26,12 @@ df.to_csv('df_rain_disaster.csv', sep=';', index=False)
 cov_matrix = np.cov(df['Rain (mm)'], df['Disasters'], rowvar=True)
 print(cov_matrix)
 
+# conditional probability
+df['prob_rain'] = df['Rain (mm)'] / df['Rain (mm)'].sum()
+df['prob_disaster'] = df['Disasters'] / df['Disasters'].sum()
 
 
+# pearson r - correlation
 def pearson_r(x, y):
     corr_mat = np.corrcoef(x, y)
     return corr_mat[0, 1]
