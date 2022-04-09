@@ -5,7 +5,7 @@ import seaborn as sns
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 
-result = pd.read_csv('data/data_processed.csv', sep=';')
+result = pd.read_csv('data/data_processed.csv', sep=',')
 fixtures = pd.read_csv('data/fixtures.csv', sep=',')
 ranking = pd.read_csv('data/fifa_ranking.csv')
 
@@ -16,6 +16,7 @@ print(result.head())
 """
 
 # recreate ranking by history ranking from first in the ranking to the last
+ranking = ranking[ranking['rank_date'] >= '2018-01-01']
 ranking = ranking.groupby('country_full', as_index=False)['rank'].mean().round(0).sort_values(by='rank', ascending=True)
 #print(ranking.head(10))
 
@@ -24,28 +25,28 @@ team1 = fixtures['Team_1']
 team2 = fixtures['Team_2']
 teams = pd.concat([team1, team2], axis=0).drop_duplicates()
 # clean the world cup history to have just the teams that will participate in the next WorldCup
-result = result[(result['Home Team Name'].isin(teams)) | (result['Away Team Name'].isin(teams))]
-team_result = result.drop(['Year', 'Stage', 'Home Team Goals', 'Away Team Goals', 'Points'], axis=1)
+result = result[(result['home_team'].isin(teams)) | (result['away_team'].isin(teams))]
+team_result = result.drop(['Unnamed: 0', 'date', 'home_score', 'away_score', 'tournament', 'city', 'country', 'neutral', 'Points'], axis=1)
 # print(team_result.head())
 
 # teams best ranker: Brazil, Spain, Germany, Argentina, France, Netherlands, England and Portugal
-bra = result[(result['Home Team Name'] == 'Brazil') | (result['Away Team Name'] == 'Brazil')]
-esp = result[(result['Home Team Name'] == 'Spain') | (result['Away Team Name'] == 'Spain')]
-ger = result[(result['Home Team Name'] == 'Germany') | (result['Away Team Name'] == 'Germany')]
-arg = result[(result['Home Team Name'] == 'Argentina') | (result['Away Team Name'] == 'Argentina')]
-fra = result[(result['Home Team Name'] == 'France') | (result['Away Team Name'] == 'France')]
-net = result[(result['Home Team Name'] == 'Netherlands') | (result['Away Team Name'] == 'Netherlands')]
-eng = result[(result['Home Team Name'] == 'England') | (result['Away Team Name'] == 'England')]
-por = result[(result['Home Team Name'] == 'Portugal') | (result['Away Team Name'] == 'Portugal')]
+bra = result[(result['home_team'] == 'Brazil') | (result['away_team'] == 'Brazil')]
+esp = result[(result['home_team'] == 'Spain') | (result['away_team'] == 'Spain')]
+ger = result[(result['home_team'] == 'Germany') | (result['away_team'] == 'Germany')]
+arg = result[(result['home_team'] == 'Argentina') | (result['away_team'] == 'Argentina')]
+fra = result[(result['home_team'] == 'France') | (result['away_team'] == 'France')]
+net = result[(result['home_team'] == 'Netherlands') | (result['away_team'] == 'Netherlands')]
+eng = result[(result['home_team'] == 'England') | (result['away_team'] == 'England')]
+por = result[(result['home_team'] == 'Portugal') | (result['away_team'] == 'Portugal')]
 
 # transforming data
-final_result = pd.get_dummies(team_result, prefix=['T1', 'T2'], columns=['Home Team Name', 'Away Team Name'])
+final_result = pd.get_dummies(team_result, prefix=['T1', 'T2'], columns=['home_team', 'away_team'])
 # print(final_result.head())
 
 # building model
 x = final_result.drop(['Winner'], axis=1)
 y = final_result['Winner']
-x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3, random_state=42)
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3, random_state=50)
 
 # initialize model and fitting data
 model = LogisticRegression()
@@ -58,12 +59,13 @@ print('Test accuracy: ', test_score)
 # predicting the winner
 fixtures.insert(1, 'T1_position', fixtures['Team_1'].map(ranking.set_index('country_full')['rank']))
 fixtures.insert(2, 'T2_position', fixtures['Team_2'].map(ranking.set_index('country_full')['rank']))
-fixture = fixtures.iloc[:45,:]
+fixture = fixtures.iloc[:49,:]
 # print(fixture.head())
 
 # transforming the fixture
 final_set = fixture[['Team_1', 'Team_2']]
 final_set = pd.get_dummies(final_set, prefix=['T1', 'T2'], columns=['Team_1', 'Team_2'])
+
 
 for col in (set(final_result.columns) - set(final_set.columns)):
     final_set[col] = 0
@@ -79,13 +81,15 @@ for index, tuples in fixture.iterrows():
     print('Teams: ' + tuples['Team_1'] + ' vs ' + tuples['Team_2'])
     print('Winner: ' + prediction[index] + '\n')
 
+
+"""
 # prepare the data to plot
 for i in range(len(prediction)):
     fixture['Result'].iloc[i] = prediction[i]
 fixture['Result'].value_counts().plot(kind='bar')
 
 # combine parts to create a function
-"""
+
 def predict_result(matches,final_result,ranking,model,match_type):
     #obtaining team position 
     team_position=[]
