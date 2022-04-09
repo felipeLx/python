@@ -1,0 +1,5821 @@
+rank,country_full,rank_date
+82,Iraq,1992-12-31
+107,Mozambique,1992-12-31
+108,Indonesia,1992-12-31
+109,Antigua and Barbuda,1992-12-31
+110,Jordan,1992-12-31
+111,Sudan,1992-12-31
+112,Mauritius,1992-12-31
+113,Croatia,1992-12-31
+106,Fiji,1992-12-31
+114,Barbados,1992-12-31
+116,Oman,1992-12-31
+117,Guinea-Bissau,1992-12-31
+118,St. Lucia,1992-12-31
+119,Hong Kong,1992-12-31
+120,Panama,1992-12-31
+121,Grenada,1992-12-31
+122,Puerto Rico,1992-12-31
+115,Yemen,1992-12-31
+105,St. Vincent / Grenadines,1992-12-31
+104,Swaziland,1992-12-31
+103,Luxembourg,1992-12-31
+85,Ethiopia,1992-12-31
+86,Albania,1992-12-31
+87,Bolivia,1992-12-31
+88,Bahrain,1992-12-31
+89,Singapore,1992-12-31
+90,Congo,1992-12-31
+91,Malaysia,1992-12-31
+92,Uganda,1992-12-31
+93,Lithuania,1992-12-31
+94,Faroe Islands,1992-12-31
+95,Suriname,1992-12-31
+96,Syria,1992-12-31
+97,Burkina Faso,1992-12-31
+99,Latvia,1992-12-31
+100,Burundi,1992-12-31
+101,Togo,1992-12-31
+102,Angola,1992-12-31
+123,Tahiti,1992-12-31
+84,Liberia,1992-12-31
+124,South Africa,1992-12-31
+126,San Marino,1992-12-31
+149,Nepal,1992-12-31
+150,Gambia,1992-12-31
+151,Equatorial Guinea,1992-12-31
+152,Myanmar,1992-12-31
+153,Liechtenstein,1992-12-31
+154,Nicaragua,1992-12-31
+155,Chad,1992-12-31
+148,Central African Republic,1992-12-31
+156,Chinese Taipei,1992-12-31
+158,Namibia,1992-12-31
+159,Vanuatu,1992-12-31
+160,Aruba,1992-12-31
+161,Lebanon,1992-12-31
+162,Bahamas,1992-12-31
+163,Maldives,1992-12-31
+163,Rwanda,1992-12-31
+157,Philippines,1992-12-31
+147,Seychelles,1992-12-31
+146,Belarus,1992-12-31
+145,Pakistan,1992-12-31
+127,Benin,1992-12-31
+128,Guyana,1992-12-31
+129,Ukraine,1992-12-31
+130,Haiti,1992-12-31
+131,Slovenia,1992-12-31
+132,Estonia,1992-12-31
+133,Bangladesh,1992-12-31
+134,Mauritania,1992-12-31
+135,Cabo Verde,1992-12-31
+136,Solomon Islands,1992-12-31
+137,Libya,1992-12-31
+139,Botswana,1992-12-31
+140,Brunei Darussalam,1992-12-31
+141,Dominican Republic,1992-12-31
+142,Lesotho,1992-12-31
+143,India,1992-12-31
+144,Cuba,1992-12-31
+125,Venezuela,1992-12-31
+83,Guatemala,1992-12-31
+81,Niger,1992-12-31
+80,Tanzania,1992-12-31
+22,Cameroon,1992-12-31
+23,Scotland,1992-12-31
+24,USA,1992-12-31
+25,Mexico,1992-12-31
+26,Bulgaria,1992-12-31
+27,Côte d'Ivoire,1992-12-31
+28,Wales,1992-12-31
+21,Egypt,1992-12-31
+29,Yugoslavia,1992-12-31
+31,Greece,1992-12-31
+32,Zambia,1992-12-31
+33,Portugal,1992-12-31
+34,Austria,1992-12-31
+35,Colombia,1992-12-31
+36,Hungary,1992-12-31
+37,Costa Rica,1992-12-31
+30,Algeria,1992-12-31
+20,Poland,1992-12-31
+19,France,1992-12-31
+18,Czechoslovakia,1992-12-31
+1,Germany,1992-12-31
+2,Italy,1992-12-31
+3,Brazil,1992-12-31
+4,Sweden,1992-12-31
+5,England,1992-12-31
+6,Republic of Ireland,1992-12-31
+7,Netherland,1992-12-31
+8,Russia,1992-12-31
+9,Denmark,1992-12-31
+10,Argentina,1992-12-31
+11,Romania,1992-12-31
+12,Switzerland,1992-12-31
+13,Nigeria,1992-12-31
+14,Norway,1992-12-31
+15,Spain,1992-12-31
+16,Uruguay,1992-12-31
+17,Belgium,1992-12-31
+38,Tunisia,1992-12-31
+39,Ghana,1992-12-31
+40,Honduras,1992-12-31
+41,Morocco,1992-12-31
+63,Guinea,1992-12-31
+64,Israel,1992-12-31
+65,Ecuador,1992-12-31
+66,Japan,1992-12-31
+67,Jamaica,1992-12-31
+68,Paraguay,1992-12-31
+69,Mali,1992-12-31
+70,New Zealand,1992-12-31
+71,Kuwait,1992-12-31
+72,Cyprus,1992-12-31
+73,Malta,1992-12-31
+74,Madagascar,1992-12-31
+75,Thailand,1992-12-31
+76,Kenya,1992-12-31
+77,Korea DPR,1992-12-31
+78,Peru,1992-12-31
+79,Sierra Leone,1992-12-31
+62,Trinidad and Tobago,1992-12-31
+163,Somalia,1992-12-31
+61,Iran,1992-12-31
+59,United Arab Emirates,1992-12-31
+42,Turkey,1992-12-31
+43,Northern Ireland,1992-12-31
+44,Finland,1992-12-31
+45,Australia,1992-12-31
+46,Iceland,1992-12-31
+47,Chile,1992-12-31
+48,Saudi Arabia,1992-12-31
+49,Korea Republic,1992-12-31
+50,El Salvador,1992-12-31
+51,Senegal,1992-12-31
+52,Qatar,1992-12-31
+53,Malawi,1992-12-31
+54,Zimbabwe,1992-12-31
+55,Gabon,1992-12-31
+56,China PR,1992-12-31
+57,Canada,1992-12-31
+58,Bermuda,1992-12-31
+60,Zaire,1992-12-31
+57,Israel,1993-12-23
+63,Guinea,1993-12-23
+62,Korea DPR,1993-12-23
+61,Paraguay,1993-12-23
+60,Gabon,1993-12-23
+59,IR Iran,1993-12-23
+58,Bolivia,1993-12-23
+56,Senegal,1993-12-23
+84,Bermuda,1993-12-23
+54,Qatar,1993-12-23
+53,China PR,1993-12-23
+52,Turkey,1993-12-23
+51,United Arab Emirates,1993-12-23
+50,Hungary,1993-12-23
+49,Australia,1993-12-23
+48,Ecuador,1993-12-23
+47,Iceland,1993-12-23
+55,Chile,1993-12-23
+64,Kuwait,1993-12-23
+83,Malta,1993-12-23
+66,El Salvador,1993-12-23
+46,Zimbabwe,1993-12-23
+82,Syria,1993-12-23
+81,Niger,1993-12-23
+80,Jamaica,1993-12-23
+79,Malaysia,1993-12-23
+78,Bahrain,1993-12-23
+77,New Zealand,1993-12-23
+76,Sierra Leone,1993-12-23
+75,Singapore,1993-12-23
+74,Kenya,1993-12-23
+73,Peru,1993-12-23
+72,Cyprus,1993-12-23
+71,Zaire,1993-12-23
+70,Mali,1993-12-23
+69,Thailand,1993-12-23
+68,Yugoslavia,1993-12-23
+67,Malawi,1993-12-23
+65,Iraq,1993-12-23
+45,Finland,1993-12-23
+24,Scotland,1993-12-23
+43,Japan,1993-12-23
+20,Portugal,1993-12-23
+19,Czechoslovakia,1993-12-23
+18,Nigeria,1993-12-23
+17,Uruguay,1993-12-23
+16,Mexico,1993-12-23
+15,France,1993-12-23
+14,Russia,1993-12-23
+13,Romania,1993-12-23
+12,Switzerland,1993-12-23
+11,England,1993-12-23
+10,Republic of Ireland,1993-12-23
+9,Sweden,1993-12-23
+8,Argentina,1993-12-23
+7,Netherlands,1993-12-23
+6,Denmark,1993-12-23
+5,Spain,1993-12-23
+4,Norway,1993-12-23
+21,Colombia,1993-12-23
+44,Canada,1993-12-23
+22,USA,1993-12-23
+25,Belgium,1993-12-23
+42,Costa Rica,1993-12-23
+41,Korea Republic,1993-12-23
+40,Honduras,1993-12-23
+39,Northern Ireland,1993-12-23
+38,Saudi Arabia,1993-12-23
+37,Ghana,1993-12-23
+36,Austria,1993-12-23
+35,Algeria,1993-12-23
+34,Greece,1993-12-23
+33,Côte d'Ivoire,1993-12-23
+32,Tunisia,1993-12-23
+31,Bulgaria,1993-12-23
+30,Morocco,1993-12-23
+29,Wale,1993-12-23
+28,Poland,1993-12-23
+27,Zambia,1993-12-23
+26,Egypt,1993-12-23
+23,Cameroon,1993-12-23
+85,Lithuania,1993-12-23
+1,Germany,1993-12-23
+87,Jordan,1993-12-23
+148,Maldives,1993-12-23
+147,Cabo Verde,1993-12-23
+146,Laos,1993-12-23
+145,Haiti,1993-12-23
+144,Mauritania,1993-12-23
+143,Grenada,1993-12-23
+142,Pakistan,1993-12-23
+141,Tahiti,1993-12-23
+140,Botswana,1993-12-23
+139,St. Lucia,1993-12-23
+138,Lesotho,1993-12-23
+137,Belarus,1993-12-23
+136,Guyana,1993-12-23
+135,Vietnam,1993-12-23
+134,Slovenia,1993-12-23
+133,Mauritius,1993-12-23
+132,Panama,1993-12-23
+149,Solomon Islands,1993-12-23
+131,Guinea-Bissau,1993-12-23
+150,Slovakia,1993-12-23
+152,Libya,1993-12-23
+3,Brazil,1993-12-23
+166,St. Kitts and Nevis,1993-12-23
+166,Macau,1993-12-23
+166,Chad,1993-12-23
+165,Aruba,1993-12-23
+164,Vanuatu,1993-12-23
+163,Philippines,1993-12-23
+162,Equatorial Guinea,1993-12-23
+161,Chinese Taipei,1993-12-23
+160,Liechtenstein,1993-12-23
+159,Cuba,1993-12-23
+157,Seychelles,1993-12-23
+157,Central African Republic,1993-12-23
+156,Namibia,1993-12-23
+155,Nicaragua,1993-12-23
+154,Cayman Islands,1993-12-23
+153,Dominican Republic,1993-12-23
+151,Brunei Darussalam,1993-12-23
+130,Benin,1993-12-23
+129,St. Vincent / Grenadines,1993-12-23
+127,Burkina Faso,1993-12-23
+104,Mozambique,1993-12-23
+103,Congo,1993-12-23
+102,Angola,1993-12-23
+101,Burundi,1993-12-23
+100,India,1993-12-23
+99,Swaziland,1993-12-23
+98,Tanzania,1993-12-23
+97,Oman,1993-12-23
+96,Ethiopia,1993-12-23
+95,South Africa,1993-12-23
+94,Uganda,1993-12-23
+93,Venezuela,1993-12-23
+92,Albania,1993-12-23
+91,Yemen,1993-12-23
+90,Ukraine,1993-12-23
+89,Madagascar,1993-12-23
+88,Trinidad and Tobago,1993-12-23
+105,Puerto Rico,1993-12-23
+106,Indonesia,1993-12-23
+107,Fiji,1993-12-23
+108,Lebanon,1993-12-23
+126,Sri Lanka,1993-12-23
+125,Gambia,1993-12-23
+124,Nepal,1993-12-23
+123,Liberia,1993-12-23
+122,Croatia,1993-12-23
+121,San Marino,1993-12-23
+120,Guatemala,1993-12-23
+119,Sudan,1993-12-23
+86,Latvia,1993-12-23
+117,Suriname,1993-12-23
+116,Bangladesh,1993-12-23
+115,Faroe Islands,1993-12-23
+114,Barbados,1993-12-23
+113,Togo,1993-12-23
+112,Hong Kong,1993-12-23
+111,Luxembourg,1993-12-23
+110,Myanmar,1993-12-23
+109,Estonia,1993-12-23
+117,Antigua and Barbuda,1993-12-23
+2,Italy,1993-12-23
+123,Namibia,1994-12-20
+116,Sudan,1994-12-20
+117,Gambia,1994-12-20
+118,Moldova,1994-12-20
+119,Estonia,1994-12-20
+120,Fiji,1994-12-20
+121,Belarus,1994-12-20
+122,Guinea-Bissau,1994-12-20
+124,Myanmar,1994-12-20
+133,Faroe Islands,1994-12-20
+126,Burundi,1994-12-20
+127,Liberia,1994-12-20
+128,Luxembourg,1994-12-20
+129,Lebanon,1994-12-20
+130,Bangladesh,1994-12-20
+131,San Marino,1994-12-20
+132,Haiti,1994-12-20
+115,Ethiopia,1994-12-20
+125,Swaziland,1994-12-20
+114,Congo,1994-12-20
+93,Uganda,1994-12-20
+112,Puerto Rico,1994-12-20
+134,Indonesia,1994-12-20
+94,Mozambique,1994-12-20
+95,Singapore,1994-12-20
+96,Jamaica,1994-12-20
+97,Burkina Faso,1994-12-20
+98,Hong Kong,1994-12-20
+99,New Zealand,1994-12-20
+100,Albania,1994-12-20
+101,Yugoslavia,1994-12-20
+102,Bermuda,1994-12-20
+103,Yemen,1994-12-20
+104,Suriname,1994-12-20
+105,Syria,1994-12-20
+106,Angola,1994-12-20
+107,Barbados,1994-12-20
+108,Turkmenistan,1994-12-20
+109,India,1994-12-20
+110,Venezuela,1994-12-20
+111,Madagascar,1994-12-20
+113,Jordan,1994-12-20
+135,Lesotho,1994-12-20
+175,Chad,1994-12-20
+137,Mauritania,1994-12-20
+162,Maldives,1994-12-20
+163,Solomon Islands,1994-12-20
+164,Dominican Republic,1994-12-20
+165,Brunei Darussalam,1994-12-20
+166,Kyrgyz Republic,1994-12-20
+167,Libya,1994-12-20
+168,Nicaragua,1994-12-20
+169,Djibouti,1994-12-20
+170,Chinese Taipei,1994-12-20
+171,Philippines,1994-12-20
+172,Vanuatu,1994-12-20
+173,Aruba,1994-12-20
+174,Central African Republic,1994-12-20
+175,Cuba,1994-12-20
+175,Equatorial Guinea,1994-12-20
+175,St. Kitts and Nevis,1994-12-20
+175,Macau,1994-12-20
+175,Seychelles,1994-12-20
+92,Georgia,1994-12-20
+161,Cabo Verde,1994-12-20
+136,Antigua and Barbuda,1994-12-20
+160,Laos,1994-12-20
+158,Pakistan,1994-12-20
+138,Nepal,1994-12-20
+139,Sri Lanka,1994-12-20
+140,Panama,1994-12-20
+141,Armenia,1994-12-20
+142,Grenada,1994-12-20
+143,Benin,1994-12-20
+144,St. Vincent / Grenadines,1994-12-20
+145,Botswana,1994-12-20
+146,Mauritius,1994-12-20
+147,Azerbaijan,1994-12-20
+148,Tahiti,1994-12-20
+149,Guatemala,1994-12-20
+150,Cayman Islands,1994-12-20
+151,Vietnam,1994-12-20
+153,Kazakhstan,1994-12-20
+154,Guyana,1994-12-20
+155,Tajikistan,1994-12-20
+156,Liechtenstein,1994-12-20
+157,St. Lucia,1994-12-20
+159,Somalia,1994-12-20
+91,Trinidad and Tobago,1994-12-20
+80,El Salvador,1994-12-20
+89,Malaysia,1994-12-20
+24,Belgium,1994-12-20
+25,Côte d'Ivoire,1994-12-20
+26,Ghana,1994-12-20
+27,Saudi Arabia,1994-12-20
+28,Greece,1994-12-20
+29,Poland,1994-12-20
+30,Tunisia,1994-12-20
+31,Cameroon,1994-12-20
+22,Egypt,1994-12-20
+32,Scotland,1994-12-20
+34,Czech Republic,1994-12-20
+35,Korea Republic,1994-12-20
+36,Japan,1994-12-20
+37,Uruguay,1994-12-20
+38,Finland,1994-12-20
+39,Iceland,1994-12-20
+40,China PR,1994-12-20
+41,Wales,1994-12-20
+33,Morocco,1994-12-20
+21,Zambia,1994-12-20
+20,Portugal,1994-12-20
+19,France,1994-12-20
+90,North Macedonia,1994-12-20
+1,Brazil,1994-12-20
+2,Spain,1994-12-20
+3,Sweden,1994-12-20
+4,Italy,1994-12-20
+5,Germany,1994-12-20
+6,Netherlands,1994-12-20
+7,Switzerland,1994-12-20
+8,Norway,1994-12-20
+9,Republic of Ireland,1994-12-20
+10,Argentina,1994-12-20
+11,Romania,1994-12-20
+12,Nigeria,1994-12-20
+13,Russia,1994-12-20
+14,Denmark,1994-12-20
+15,Mexico,1994-12-20
+16,Bulgaria,1994-12-20
+17,Colombia,1994-12-20
+18,England,1994-12-20
+42,Israel,1994-12-20
+43,Slovakia,1994-12-20
+23,USA,1994-12-20
+45,Northern Ireland,1994-12-20
+69,Latvia,1994-12-20
+70,Niger,1994-12-20
+71,Oman,1994-12-20
+72,Peru,1994-12-20
+73,Bahrain,1994-12-20
+74,Tanzania,1994-12-20
+76,Sierra Leone,1994-12-20
+77,Ukraine,1994-12-20
+78,Malta,1994-12-20
+78,Uzbekistan,1994-12-20
+81,Slovenia,1994-12-20
+82,Malawi,1994-12-20
+83,Kenya,1994-12-20
+84,Korea DPR,1994-12-20
+85,Thailand,1994-12-20
+86,Togo,1994-12-20
+87,Paraguay,1994-12-20
+44,Bolivia,1994-12-20
+88,Iraq,1994-12-20
+68,Zaire,1994-12-20
+67,Cyprus,1994-12-20
+75,IR Iran,1994-12-20
+65,Costa Rica,1994-12-20
+46,United Arab Emirates,1994-12-20
+66,Guinea,1994-12-20
+48,Turkey,1994-12-20
+49,Austria,1994-12-20
+50,Senegal,1994-12-20
+51,Zimbabwe,1994-12-20
+52,Mali,1994-12-20
+53,Honduras,1994-12-20
+54,Kuwait,1994-12-20
+55,Ecuador,1994-12-20
+47,Chile,1994-12-20
+57,Algeria,1994-12-20
+56,South Africa,1994-12-20
+63,Canada,1994-12-20
+62,Croatia,1994-12-20
+61,Hungary,1994-12-20
+64,Gabon,1994-12-20
+59,Lithuania,1994-12-20
+58,Australia,1994-12-20
+60,Qatar,1994-12-20
+12,Mexico,1995-12-19
+2,Germany,1995-12-19
+3,Italy,1995-12-19
+4,Spain,1995-12-19
+5,Russia,1995-12-19
+8,France,1995-12-19
+7,Argentina,1995-12-19
+9,Denmark,1995-12-19
+10,Norway,1995-12-19
+11,Romania,1995-12-19
+1,Brazil,1995-12-19
+6,Netherlands,1995-12-19
+103,Barbados,1995-12-19
+95,St. Vincent / Grenadines,1995-12-19
+101,Burkina Faso,1995-12-19
+100,Luxembourg,1995-12-19
+99,Bahrain,1995-12-19
+98,Oman,1995-12-19
+96,Cuba,1995-12-19
+94,North Macedonia,1995-12-19
+93,Niger,1995-12-19
+92,Togo,1995-12-19
+91,Albania,1995-12-19
+90,Malta,1995-12-19
+89,Malawi,1995-12-19
+88,Belarus,1995-12-19
+13,Sweden,1995-12-19
+102,New Zealand,1995-12-19
+14,Czech Republic,1995-12-19
+15,Colombia,1995-12-19
+16,Portugal,1995-12-19
+68,Zaire,1995-12-19
+67,Gabon,1995-12-19
+66,China PR,1995-12-19
+65,Canada,1995-12-19
+64,Paraguay,1995-12-19
+63,Guinea,1995-12-19
+69,Peru,1995-12-19
+62,Hungary,1995-12-19
+60,Latvia,1995-12-19
+59,Zimbabwe,1995-12-19
+58,Sierra Leone,1995-12-19
+57,Trinidad and Tobago,1995-12-19
+56,Jamaica,1995-12-19
+55,Ecuador,1995-12-19
+61,Wales,1995-12-19
+70,Tanzania,1995-12-19
+71,Ukraine,1995-12-19
+71,Slovenia,1995-12-19
+87,Liberia,1995-12-19
+86,Sudan,1995-12-19
+85,Mauritania,1995-12-19
+84,Kuwait,1995-12-19
+83,Qatar,1995-12-19
+82,El Salvador,1995-12-19
+81,Yugoslavia,1995-12-19
+80,Angola,1995-12-19
+79,Georgia,1995-12-19
+78,Costa Rica,1995-12-19
+77,Thailand,1995-12-19
+76,Mozambique,1995-12-19
+75,United Arab Emirates,1995-12-19
+74,Uganda,1995-12-19
+73,Cyprus,1995-12-19
+54,Saudi Arabia,1995-12-19
+53,Bolivia,1995-12-19
+52,Mali,1995-12-19
+51,Australia,1995-12-19
+31,Japan,1995-12-19
+30,Turkey,1995-12-19
+29,Ghana,1995-12-19
+28,Republic of Ireland,1995-12-19
+27,Nigeria,1995-12-19
+26,Scotland,1995-12-19
+25,Zambia,1995-12-19
+24,Belgium,1995-12-19
+23,Egypt,1995-12-19
+22,Tunisia,1995-12-19
+21,England,1995-12-19
+20,Côte d'Ivoire,1995-12-19
+19,USA,1995-12-19
+18,Switzerland,1995-12-19
+17,Bulgaria,1995-12-19
+32,Uruguay,1995-12-19
+104,Singapore,1995-12-19
+33,Poland,1995-12-19
+35,Slovakia,1995-12-19
+50,Iceland,1995-12-19
+49,Honduras,1995-12-19
+48,Algeria,1995-12-19
+47,Senegal,1995-12-19
+46,Korea Republic,1995-12-19
+45,Northern Ireland,1995-12-19
+44,Finland,1995-12-19
+43,Lithuania,1995-12-19
+42,Israel,1995-12-19
+41,Croatia,1995-12-19
+40,South Africa,1995-12-19
+39,Austria,1995-12-19
+38,Morocco,1995-12-19
+37,Cameroon,1995-12-19
+36,Chile,1995-12-19
+34,Greece,1995-12-19
+105,Ethiopia,1995-12-19
+97,Uzbekistan,1995-12-19
+107,Kenya,1995-12-19
+163,Kazakhstan,1995-12-19
+162,Guyana,1995-12-19
+161,Benin,1995-12-19
+160,Pakistan,1995-12-19
+159,Dominican Republic,1995-12-19
+158,Dominica,1995-12-19
+157,Liechtenstein,1995-12-19
+164,Tajikistan,1995-12-19
+156,Tahiti,1995-12-19
+154,Mauritius,1995-12-19
+153,Haiti,1995-12-19
+152,Laos,1995-12-19
+151,San Marino,1995-12-19
+150,St. Kitts and Nevis,1995-12-19
+149,Lesotho,1995-12-19
+148,Swaziland,1995-12-19
+155,Botswana,1995-12-19
+147,Nepal,1995-12-19
+166,Philippines,1995-12-19
+168,Rwanda,1995-12-19
+106,Malaysia,1995-12-19
+180,Macau,1995-12-19
+180,Cambodia,1995-12-19
+180,Central African Republic,1995-12-19
+180,Chad,1995-12-19
+179,Vanuatu,1995-12-19
+178,Chinese Taipei,1995-12-19
+167,Brunei Darussalam,1995-12-19
+177,Djibouti,1995-12-19
+175,Libya,1995-12-19
+174,Nicaragua,1995-12-19
+173,Belize,1995-12-19
+172,Kyrgyz Republic,1995-12-19
+171,Aruba,1995-12-19
+170,Solomon Islands,1995-12-19
+169,Maldives,1995-12-19
+176,Seychelles,1995-12-19
+146,Burundi,1995-12-19
+165,Somalia,1995-12-19
+144,Cabo Verde,1995-12-19
+123,Yemen,1995-12-19
+122,Vietnam,1995-12-19
+121,India,1995-12-19
+120,Faroe Islands,1995-12-19
+119,Congo,1995-12-19
+118,Guinea-Bissau,1995-12-19
+116,Namibia,1995-12-19
+124,Suriname,1995-12-19
+115,Myanmar,1995-12-19
+113,Armenia,1995-12-19
+112,Gambia,1995-12-19
+111,Hong Kong,1995-12-19
+110,Iraq,1995-12-19
+109,Moldova,1995-12-19
+145,Guatemala,1995-12-19
+108,IR Iran,1995-12-19
+114,St. Lucia,1995-12-19
+126,Panama,1995-12-19
+117,Korea DPR,1995-12-19
+127,Venezuela,1995-12-19
+141,Azerbaijan,1995-12-19
+140,Bermuda,1995-12-19
+139,Fiji,1995-12-19
+138,Bangladesh,1995-12-19
+137,Antigua and Barbuda,1995-12-19
+136,Syria,1995-12-19
+135,Sri Lanka,1995-12-19
+134,Lebanon,1995-12-19
+133,Turkmenistan,1995-12-19
+132,Madagascar,1995-12-19
+131,Cayman Islands,1995-12-19
+130,Indonesia,1995-12-19
+129,Estonia,1995-12-19
+128,Puerto Rico,1995-12-19
+143,Jordan,1995-12-19
+141,Grenada,1995-12-19
+130,Dominican Republic,1996-12-18
+124,Hong Kong,1996-12-18
+125,Azerbaijan,1996-12-18
+126,Sri Lanka,1996-12-18
+127,Grenada,1996-12-18
+128,Gambia,1996-12-18
+123,Luxembourg,1996-12-18
+129,Niger,1996-12-18
+131,Suriname,1996-12-18
+136,Bangladesh,1996-12-18
+133,Guinea-Bissau,1996-12-18
+134,St. Lucia,1996-12-18
+135,Faroe Islands,1996-12-18
+137,Burundi,1996-12-18
+138,Dominica,1996-12-18
+139,Yemen,1996-12-18
+140,Madagascar,1996-12-18
+141,Turkmenistan,1996-12-18
+122,Malta,1996-12-18
+132,New Zealand,1996-12-18
+121,St. Kitts and Nevis,1996-12-18
+98,Iraq,1996-12-18
+119,Indonesia,1996-12-18
+143,Benin,1996-12-18
+100,Congo,1996-12-18
+101,Panama,1996-12-18
+102,Estonia,1996-12-18
+103,Namibia,1996-12-18
+104,Myanmar,1996-12-18
+105,Guatemala,1996-12-18
+106,Armenia,1996-12-18
+107,Burkina Faso,1996-12-18
+120,India,1996-12-18
+108,Ethiopia,1996-12-18
+110,Barbados,1996-12-18
+111,Venezuela,1996-12-18
+112,Kenya,1996-12-18
+113,Mauritania,1996-12-18
+114,Haiti,1996-12-18
+115,Syria,1996-12-18
+116,Albania,1996-12-18
+117,Moldova,1996-12-18
+118,Bahrain,1996-12-18
+109,Uzbekistan,1996-12-18
+144,Korea DPR,1996-12-18
+188,Chad,1996-12-18
+146,Jordan,1996-12-18
+171,Solomon Islands,1996-12-18
+172,Macau,1996-12-18
+173,Pakistan,1996-12-18
+174,Chinese Taipei,1996-12-18
+175,Seychelles,1996-12-18
+176,Maldives,1996-12-18
+177,Samoa,1996-12-18
+178,Somalia,1996-12-18
+179,Nicaragua,1996-12-18
+170,Brunei Darussalam,1996-12-18
+180,Vanuatu,1996-12-18
+182,Belize,1996-12-18
+183,Central African Republic,1996-12-18
+184,Libya,1996-12-18
+185,Djibouti,1996-12-18
+186,Cambodia,1996-12-18
+187,Andorra,1996-12-18
+97,Lebanon,1996-12-18
+188,Cook Islands,1996-12-18
+188,Guam,1996-12-18
+181,Aruba,1996-12-18
+145,Antigua and Barbuda,1996-12-18
+169,Papua New Guinea,1996-12-18
+167,Bermuda,1996-12-18
+147,Laos,1996-12-18
+148,Cayman Islands,1996-12-18
+149,Puerto Rico,1996-12-18
+150,Mauritius,1996-12-18
+151,Nepal,1996-12-18
+152,Bosnia and Herzegovina,1996-12-18
+153,Guyana,1996-12-18
+154,Liechtenstein,1996-12-18
+155,Cabo Verde,1996-12-18
+168,Kyrgyz Republic,1996-12-18
+156,Kazakhstan,1996-12-18
+158,Tahiti,1996-12-18
+159,Rwanda,1996-12-18
+160,Swaziland,1996-12-18
+161,Botswana,1996-12-18
+162,Lesotho,1996-12-18
+163,Tajikistan,1996-12-18
+164,Tonga,1996-12-18
+165,San Marino,1996-12-18
+166,Philippines,1996-12-18
+157,Fiji,1996-12-18
+96,Malaysia,1996-12-18
+99,Vietnam,1996-12-18
+94,Liberia,1996-12-18
+26,Chile,1996-12-18
+27,Morocco,1996-12-18
+28,Egypt,1996-12-18
+29,Scotland,1996-12-18
+30,Slovakia,1996-12-18
+31,Turkey,1996-12-18
+32,Jamaica,1996-12-18
+33,Ecuador,1996-12-18
+34,Austria,1996-12-18
+25,Ghana,1996-12-18
+35,Greece,1996-12-18
+37,Saudi Arabia,1996-12-18
+38,Paraguay,1996-12-18
+39,Bolivia,1996-12-18
+40,Canada,1996-12-18
+41,Trinidad and Tobago,1996-12-18
+42,Belgium,1996-12-18
+43,Uruguay,1996-12-18
+44,Korea Republic,1996-12-18
+45,Honduras,1996-12-18
+36,Republic of Ireland,1996-12-18
+24,Croatia,1996-12-18
+23,Tunisia,1996-12-18
+22,Argentina,1996-12-18
+1,Brazil,1996-12-18
+95,Georgia,1996-12-18
+3,France,1996-12-18
+4,Colombia,1996-12-18
+5,Czech Republic,1996-12-18
+6,Denmark,1996-12-18
+7,Russia,1996-12-18
+8,Spain,1996-12-18
+9,Netherlands,1996-12-18
+10,Italy,1996-12-18
+11,Mexico,1996-12-18
+12,England,1996-12-18
+13,Portugal,1996-12-18
+14,Norway,1996-12-18
+15,Bulgaria,1996-12-18
+16,Romania,1996-12-18
+17,Sweden,1996-12-18
+18,USA,1996-12-18
+19,South Africa,1996-12-18
+20,Zambia,1996-12-18
+21,Japan,1996-12-18
+46,Gabon,1996-12-18
+47,Switzerland,1996-12-18
+2,Germany,1996-12-18
+49,Algeria,1996-12-18
+74,Sudan,1996-12-18
+75,Hungary,1996-12-18
+76,China PR,1996-12-18
+77,Slovenia,1996-12-18
+78,Cyprus,1996-12-18
+79,Finland,1996-12-18
+80,Wales,1996-12-18
+81,Uganda,1996-12-18
+82,Latvia,1996-12-18
+73,Guinea,1996-12-18
+83,IR Iran,1996-12-18
+85,Mozambique,1996-12-18
+86,North Macedonia,1996-12-18
+87,Togo,1996-12-18
+88,Malawi,1996-12-18
+89,Tanzania,1996-12-18
+90,Belarus,1996-12-18
+91,Oman,1996-12-18
+48,Lithuania,1996-12-18
+93,St. Vincent / Grenadines,1996-12-18
+84,Sierra Leone,1996-12-18
+72,Costa Rica,1996-12-18
+92,Singapore,1996-12-18
+70,Angola,1996-12-18
+51,Côte d'Ivoire,1996-12-18
+71,Zimbabwe,1996-12-18
+52,Israel,1996-12-18
+53,Poland,1996-12-18
+54,Peru,1996-12-18
+55,Yugoslavia,1996-12-18
+56,Cameroon,1996-12-18
+57,Thailand,1996-12-18
+58,Senegal,1996-12-18
+59,Ukraine,1996-12-18
+50,Australia,1996-12-18
+69,Qatar,1996-12-18
+60,United Arab Emirates,1996-12-18
+62,Kuwait,1996-12-18
+63,Nigeria,1996-12-18
+64,Northern Ireland,1996-12-18
+65,El Salvador,1996-12-18
+66,Zaire,1996-12-18
+67,Mali,1996-12-18
+68,Cuba,1996-12-18
+60,Iceland,1996-12-18
+60,Finland,1997-12-23
+59,Algeria,1997-12-23
+58,Angola,1997-12-23
+78,Togo,1997-12-23
+57,Ghana,1997-12-23
+56,Trinidad and Tobago,1997-12-23
+55,China PR,1997-12-23
+54,Thailand,1997-12-23
+53,Cameroon,1997-12-23
+52,Côte d'Ivoire,1997-12-23
+61,Israel,1997-12-23
+62,Switzerland,1997-12-23
+73,Honduras,1997-12-23
+51,Costa Rica,1997-12-23
+63,Gabon,1997-12-23
+64,El Salvador,1997-12-23
+65,Guinea,1997-12-23
+66,Canada,1997-12-23
+67,Mozambique,1997-12-23
+68,Iraq,1997-12-23
+69,Georgia,1997-12-23
+70,Qatar,1997-12-23
+71,Nigeria,1997-12-23
+77,Hungary,1997-12-23
+76,Zaire,1997-12-23
+75,Latvia,1997-12-23
+74,Zimbabwe,1997-12-23
+72,Iceland,1997-12-23
+50,United Arab Emirates,1997-12-23
+25,Austria,1997-12-23
+48,Poland,1997-12-23
+21,Zambia,1997-12-23
+22,Netherlands,1997-12-23
+23,Tunisia,1997-12-23
+24,Bolivia,1997-12-23
+79,Uzbekistan,1997-12-23
+26,USA,1997-12-23
+27,Korea Republic,1997-12-23
+28,Ecuador,1997-12-23
+29,Paraguay,1997-12-23
+30,Portugal,1997-12-23
+31,South Africa,1997-12-23
+32,Egypt,1997-12-23
+33,Saudi Arabia,1997-12-23
+34,Slovakia,1997-12-23
+35,Australia,1997-12-23
+36,Bulgaria,1997-12-23
+37,Scotland,1997-12-23
+38,Peru,1997-12-23
+39,Jamaica,1997-12-23
+40,Uruguay,1997-12-23
+41,Belgium,1997-12-23
+42,Greece,1997-12-23
+43,Turkey,1997-12-23
+44,Kuwait,1997-12-23
+45,Lithuania,1997-12-23
+46,IR Iran,1997-12-23
+47,Republic of Ireland,1997-12-23
+49,Ukraine,1997-12-23
+80,Mali,1997-12-23
+150,Niger,1997-12-23
+82,Cyprus,1997-12-23
+163,Madagascar,1997-12-23
+162,Botswana,1997-12-23
+161,Tahiti,1997-12-23
+160,Maldives,1997-12-23
+159,Antigua and Barbuda,1997-12-23
+158,Liechtenstein,1997-12-23
+157,Macau,1997-12-23
+155,Nepal,1997-12-23
+154,Chinese Taipei,1997-12-23
+153,Pakistan,1997-12-23
+152,Burundi,1997-12-23
+164,Cayman Islands,1997-12-23
+151,Mauritius,1997-12-23
+149,Lesotho,1997-12-23
+148,Guinea-Bissau,1997-12-23
+147,Libya,1997-12-23
+146,Fiji,1997-12-23
+145,Suriname,1997-12-23
+144,Dominican Republic,1997-12-23
+143,Laos,1997-12-23
+142,St. Lucia,1997-12-23
+141,Bangladesh,1997-12-23
+140,Kyrgyz Republic,1997-12-23
+139,Dominica,1997-12-23
+20,Yugoslavia,1997-12-23
+138,Luxembourg,1997-12-23
+165,Swaziland,1997-12-23
+167,Papua New Guinea,1997-12-23
+192,Cook Islands,1997-12-23
+191,Guam,1997-12-23
+190,Anguilla,1997-12-23
+189,Djibouti,1997-12-23
+188,Central African Republic,1997-12-23
+187,Somalia,1997-12-23
+186,Vanuatu,1997-12-23
+185,Andorra,1997-12-23
+184,Chad,1997-12-23
+183,Samoa,1997-12-23
+182,Nicaragua,1997-12-23
+166,Korea DPR,1997-12-23
+180,British Virgin Islands,1997-12-23
+178,Brunei Darussalam,1997-12-23
+177,Aruba,1997-12-23
+176,Bermuda,1997-12-23
+175,Philippines,1997-12-23
+174,Tonga,1997-12-23
+173,San Marino,1997-12-23
+172,Rwanda,1997-12-23
+171,Cabo Verde,1997-12-23
+170,Cambodia,1997-12-23
+169,Puerto Rico,1997-12-23
+168,Guyana,1997-12-23
+179,Belize,1997-12-23
+81,Oman,1997-12-23
+137,Benin,1997-12-23
+135,Mauritania,1997-12-23
+106,Burkina Faso,1997-12-23
+105,Armenia,1997-12-23
+104,Vietnam,1997-12-23
+103,Singapore,1997-12-23
+102,Wales,1997-12-23
+101,Congo,1997-12-23
+100,Estonia,1997-12-23
+99,Bosnia and Herzegovina,1997-12-23
+98,Syria,1997-12-23
+97,Malawi,1997-12-23
+96,Tanzania,1997-12-23
+107,Kazakhstan,1997-12-23
+95,Slovenia,1997-12-23
+93,Northern Ireland,1997-12-23
+92,North Macedonia,1997-12-23
+91,Indonesia,1997-12-23
+90,Lebanon,1997-12-23
+89,Kenya,1997-12-23
+88,Cuba,1997-12-23
+87,Malaysia,1997-12-23
+86,Namibia,1997-12-23
+85,Senegal,1997-12-23
+84,Sierra Leone,1997-12-23
+83,Guatemala,1997-12-23
+94,Liberia,1997-12-23
+136,Sri Lanka,1997-12-23
+108,Sudan,1997-12-23
+110,Belarus,1997-12-23
+134,Turkmenistan,1997-12-23
+133,Malta,1997-12-23
+132,Gambia,1997-12-23
+131,Moldova,1997-12-23
+130,Solomon Islands,1997-12-23
+129,Hong Kong,1997-12-23
+128,Yemen,1997-12-23
+127,St. Kitts and Nevis,1997-12-23
+126,Ethiopia,1997-12-23
+125,Haiti,1997-12-23
+124,Jordan,1997-12-23
+109,Uganda,1997-12-23
+123,Azerbaijan,1997-12-23
+121,Bahrain,1997-12-23
+120,New Zealand,1997-12-23
+119,Panama,1997-12-23
+118,Tajikistan,1997-12-23
+117,Faroe Islands,1997-12-23
+116,Albania,1997-12-23
+115,Venezuela,1997-12-23
+114,Myanmar,1997-12-23
+113,Barbados,1997-12-23
+112,India,1997-12-23
+111,Grenada,1997-12-23
+122,St. Vincent / Grenadines,1997-12-23
+19,Croatia,1997-12-23
+181,Seychelles,1997-12-23
+17,Argentina,1997-12-23
+18,Sweden,1997-12-23
+1,Brazil,1997-12-23
+2,Germany,1997-12-23
+4,England,1997-12-23
+5,Mexico,1997-12-23
+6,France,1997-12-23
+7,Romania,1997-12-23
+8,Denmark,1997-12-23
+3,Czech Republic,1997-12-23
+10,Colombia,1997-12-23
+11,Spain,1997-12-23
+12,Russia,1997-12-23
+13,Norway,1997-12-23
+16,Chile,1997-12-23
+14,Japan,1997-12-23
+15,Morocco,1997-12-23
+9,Italy,1997-12-23
+195,Equatorial Guinea,1998-12-23
+196,Mongolia,1998-12-23
+197,Anguilla,1998-12-23
+198,Guam,1998-12-23
+68,Togo,1998-12-23
+67,Costa Rica,1998-12-23
+66,Uzbekistan,1998-12-23
+65,Nigeria,1998-12-23
+64,Iceland,1998-12-23
+194,São Tomé and Príncipe,1998-12-23
+63,Ecuador,1998-12-23
+61,Bolivia,1998-12-23
+60,Qatar,1998-12-23
+59,North Macedonia,1998-12-23
+58,Oman,1998-12-23
+57,Turkey,1998-12-23
+56,Republic of Ireland,1998-12-23
+55,Finland,1998-12-23
+54,Lithuania,1998-12-23
+53,Greece,1998-12-23
+62,Zaire,1998-12-23
+193,American Samoa,1998-12-23
+117,Grenada,1998-12-23
+192,Central African Republic,1998-12-23
+171,Andorra,1998-12-23
+172,Papua New Guinea,1998-12-23
+173,Cook Islands,1998-12-23
+174,Macau,1998-12-23
+175,Philippines,1998-12-23
+176,Nepal,1998-12-23
+177,Vanuatu,1998-12-23
+178,Chad,1998-12-23
+179,San Marino,1998-12-23
+180,Aruba,1998-12-23
+181,Seychelles,1998-12-23
+182,Puerto Rico,1998-12-23
+183,Brunei Darussalam,1998-12-23
+184,Palestine,1998-12-23
+185,Bermuda,1998-12-23
+186,Belize,1998-12-23
+187,British Virgin Islands,1998-12-23
+188,Nicaragua,1998-12-23
+189,Eritrea,1998-12-23
+190,Somalia,1998-12-23
+191,Djibouti,1998-12-23
+52,Georgia,1998-12-23
+170,Rwanda,1998-12-23
+51,Trinidad and Tobago,1998-12-23
+49,Bulgaria,1998-12-23
+23,USA,1998-12-23
+22,Austria,1998-12-23
+21,Tunisia,1998-12-23
+20,Japan,1998-12-23
+19,Denmark,1998-12-23
+73,Guatemala,1998-12-23
+17,Korea Republic,1998-12-23
+16,Chile,1998-12-23
+15,Spain,1998-12-23
+24,Kuwait,1998-12-23
+14,Norway,1998-12-23
+12,Romania,1998-12-23
+11,Netherlands,1998-12-23
+10,Mexico,1998-12-23
+9,England,1998-12-23
+8,Czech Republic,1998-12-23
+7,Italy,1998-12-23
+6,Yugoslavia,1998-12-23
+5,Argentina,1998-12-23
+4,Croatia,1998-12-23
+13,Morocco,1998-12-23
+25,Paraguay,1998-12-23
+26,South Africa,1998-12-23
+27,IR Iran,1998-12-23
+48,Ghana,1998-12-23
+47,Ukraine,1998-12-23
+46,Hungary,1998-12-23
+45,Thailand,1998-12-23
+44,Côte d'Ivoire,1998-12-23
+43,Israel,1998-12-23
+42,United Arab Emirates,1998-12-23
+41,Cameroon,1998-12-23
+40,Russia,1998-12-23
+39,Australia,1998-12-23
+38,Scotland,1998-12-23
+37,China PR,1998-12-23
+36,Portugal,1998-12-23
+35,Belgium,1998-12-23
+34,Colombia,1998-12-23
+33,Jamaica,1998-12-23
+32,Slovakia,1998-12-23
+31,Poland,1998-12-23
+30,Saudi Arabia,1998-12-23
+29,Zambia,1998-12-23
+28,Egypt,1998-12-23
+50,Angola,1998-12-23
+169,Chinese Taipei,1998-12-23
+168,Pakistan,1998-12-23
+167,Cabo Verde,1998-12-23
+96,Bosnia and Herzegovina,1998-12-23
+97,Wales,1998-12-23
+98,Vietnam,1998-12-23
+99,Azerbaijan,1998-12-23
+100,Armenia,1998-12-23
+101,Canada,1998-12-23
+102,Kazakhstan,1998-12-23
+103,New Zealand,1998-12-23
+104,Belarus,1998-12-23
+95,Senegal,1998-12-23
+105,Uganda,1998-12-23
+107,Cuba,1998-12-23
+108,Liberia,1998-12-23
+109,Haiti,1998-12-23
+110,India,1998-12-23
+111,Sierra Leone,1998-12-23
+112,Congo,1998-12-23
+113,Malaysia,1998-12-23
+114,Sudan,1998-12-23
+115,Myanmar,1998-12-23
+106,Albania,1998-12-23
+94,Iraq,1998-12-23
+93,Kenya,1998-12-23
+92,El Salvador,1998-12-23
+72,Peru,1998-12-23
+71,Algeria,1998-12-23
+70,Mali,1998-12-23
+69,Namibia,1998-12-23
+75,Burkina Faso,1998-12-23
+76,Uruguay,1998-12-23
+77,Latvia,1998-12-23
+78,Cyprus,1998-12-23
+79,Guinea,1998-12-23
+80,Mozambique,1998-12-23
+81,Singapore,1998-12-23
+82,Gabon,1998-12-23
+83,Switzerland,1998-12-23
+84,Syria,1998-12-23
+85,Lebanon,1998-12-23
+86,Northern Ireland,1998-12-23
+87,Indonesia,1998-12-23
+88,Slovenia,1998-12-23
+89,Malawi,1998-12-23
+90,Estonia,1998-12-23
+91,Honduras,1998-12-23
+116,Moldova,1998-12-23
+3,Germany,1998-12-23
+118,Tanzania,1998-12-23
+120,Tajikistan,1998-12-23
+146,Yemen,1998-12-23
+147,Libya,1998-12-23
+148,Mauritius,1998-12-23
+149,Swaziland,1998-12-23
+150,Madagascar,1998-12-23
+151,Kyrgyz Republic,1998-12-23
+152,Dominican Republic,1998-12-23
+153,Cayman Islands,1998-12-23
+154,Niger,1998-12-23
+145,Ethiopia,1998-12-23
+155,Botswana,1998-12-23
+158,Korea DPR,1998-12-23
+159,Liechtenstein,1998-12-23
+160,Suriname,1998-12-23
+161,Guyana,1998-12-23
+162,Cambodia,1998-12-23
+163,Tonga,1998-12-23
+164,Samoa,1998-12-23
+165,Guinea-Bissau,1998-12-23
+166,Maldives,1998-12-23
+157,Bangladesh,1998-12-23
+144,Laos,1998-12-23
+143,Luxembourg,1998-12-23
+142,Mauritania,1998-12-23
+121,Barbados,1998-12-23
+122,Turkmenistan,1998-12-23
+123,Tahiti,1998-12-23
+124,Fiji,1998-12-23
+125,Faroe Islands,1998-12-23
+126,Jordan,1998-12-23
+127,Benin,1998-12-23
+128,Solomon Islands,1998-12-23
+129,Venezuela,1998-12-23
+130,Malta,1998-12-23
+131,Panama,1998-12-23
+132,St. Kitts and Nevis,1998-12-23
+133,Dominica,1998-12-23
+134,Sri Lanka,1998-12-23
+135,Gambia,1998-12-23
+136,Hong Kong,1998-12-23
+137,Antigua and Barbuda,1998-12-23
+138,St. Vincent / Grenadines,1998-12-23
+139,St. Lucia,1998-12-23
+140,Lesotho,1998-12-23
+141,Burundi,1998-12-23
+119,Bahrain,1998-12-23
+2,France,1998-12-23
+18,Sweden,1998-12-23
+74,Zimbabwe,1998-12-23
+1,Brazil,1998-12-23
+63,Cyprus,1999-12-22
+64,Costa Rica,1999-12-22
+65,Ecuador,1999-12-22
+66,Georgia,1999-12-22
+40,Slovenia,1999-12-22
+68,North Macedonia,1999-12-22
+69,Honduras,1999-12-22
+70,Estonia,1999-12-22
+62,Latvia,1999-12-22
+67,Zimbabwe,1999-12-22
+71,Burkina Faso,1999-12-22
+61,Bolivia,1999-12-22
+59,Congo DR,1999-12-22
+41,Jamaica,1999-12-22
+42,Peru,1999-12-22
+43,Iceland,1999-12-22
+44,Trinidad and Tobago,1999-12-22
+45,Hungary,1999-12-22
+46,Uruguay,1999-12-22
+47,Switzerland,1999-12-22
+48,Ghana,1999-12-22
+49,IR Iran,1999-12-22
+50,Lithuania,1999-12-22
+51,Korea Republic,1999-12-22
+52,Angola,1999-12-22
+53,Côte d'Ivoire,1999-12-22
+54,United Arab Emirates,1999-12-22
+56,Finland,1999-12-22
+57,Japan,1999-12-22
+58,Cameroon,1999-12-22
+60,Thailand,1999-12-22
+55,Uzbekistan,1999-12-22
+73,Guatemala,1999-12-22
+106,India,1999-12-22
+76,Nigeria,1999-12-22
+77,Cuba,1999-12-22
+78,Iraq,1999-12-22
+79,Senegal,1999-12-22
+80,Namibia,1999-12-22
+81,Canada,1999-12-22
+82,Kuwait,1999-12-22
+83,Albania,1999-12-22
+84,Northern Ireland,1999-12-22
+85,Armenia,1999-12-22
+86,Algeria,1999-12-22
+87,Togo,1999-12-22
+88,China PR,1999-12-22
+89,Australia,1999-12-22
+90,Indonesia,1999-12-22
+91,Guinea,1999-12-22
+92,Oman,1999-12-22
+105,Liberia,1999-12-22
+104,Singapore,1999-12-22
+39,Saudi Arabia,1999-12-22
+103,Kenya,1999-12-22
+102,Vietnam,1999-12-22
+101,Mozambique,1999-12-22
+72,Mali,1999-12-22
+100,New Zealand,1999-12-22
+98,Wales,1999-12-22
+97,Azerbaijan,1999-12-22
+96,El Salvador,1999-12-22
+95,Belarus,1999-12-22
+94,Congo,1999-12-22
+93,Moldova,1999-12-22
+99,Haiti,1999-12-22
+38,Egypt,1999-12-22
+37,Bulgaria,1999-12-22
+36,Zambia,1999-12-22
+168,Cambodia,1999-12-22
+166,Chad,1999-12-22
+165,Botswana,1999-12-22
+164,Niger,1999-12-22
+163,Bermuda,1999-12-22
+162,Suriname,1999-12-22
+161,British Virgin Islands,1999-12-22
+160,Mauritania,1999-12-22
+159,Kyrgyz Republic,1999-12-22
+158,Yemen,1999-12-22
+157,Nepal,1999-12-22
+156,Laos,1999-12-22
+155,Dominican Republic,1999-12-22
+154,Lesotho,1999-12-22
+153,Sri Lanka,1999-12-22
+152,St. Lucia,1999-12-22
+151,Gambia,1999-12-22
+150,San Marino,1999-12-22
+149,Dominica,1999-12-22
+148,Cayman Islands,1999-12-22
+147,Antigua and Barbuda,1999-12-22
+146,Rwanda,1999-12-22
+145,Andorra,1999-12-22
+144,Solomon Islands,1999-12-22
+143,Maldives,1999-12-22
+142,Ethiopia,1999-12-22
+141,St. Vincent / Grenadines,1999-12-22
+140,Benin,1999-12-22
+139,Tahiti,1999-12-22
+169,Eritrea,1999-12-22
+170,Palestine,1999-12-22
+171,Guyana,1999-12-22
+172,Korea DPR,1999-12-22
+202,Anguilla,1999-12-22
+201,Montserrat,1999-12-22
+200,Guam,1999-12-22
+199,American Samoa,1999-12-22
+198,Mongolia,1999-12-22
+197,Somalia,1999-12-22
+196,Turks and Caicos Islands,1999-12-22
+195,Djibouti,1999-12-22
+194,US Virgin Islands,1999-12-22
+193,Nicaragua,1999-12-22
+192,Seychelles,1999-12-22
+191,Aruba,1999-12-22
+190,Belize,1999-12-22
+189,Bahamas,1999-12-22
+138,Panama,1999-12-22
+188,Equatorial Guinea,1999-12-22
+186,Puerto Rico,1999-12-22
+185,Brunei Darussalam,1999-12-22
+184,Vanuatu,1999-12-22
+183,Papua New Guinea,1999-12-22
+182,Cook Islands,1999-12-22
+181,Philippines,1999-12-22
+180,Samoa,1999-12-22
+179,Pakistan,1999-12-22
+178,Tonga,1999-12-22
+177,Cabo Verde,1999-12-22
+176,Macau,1999-12-22
+175,Central African Republic,1999-12-22
+174,Chinese Taipei,1999-12-22
+173,Guinea-Bissau,1999-12-22
+187,São Tomé and Príncipe,1999-12-22
+137,St. Kitts and Nevis,1999-12-22
+136,Bahrain,1999-12-22
+135,Fiji,1999-12-22
+7,Norway,1999-12-22
+8,Romania,1999-12-22
+9,Croatia,1999-12-22
+10,Mexico,1999-12-22
+11,Denmark,1999-12-22
+12,England,1999-12-22
+13,Yugoslavia,1999-12-22
+14,Italy,1999-12-22
+15,Portugal,1999-12-22
+16,Sweden,1999-12-22
+17,Paraguay,1999-12-22
+18,Russia,1999-12-22
+19,Netherlands,1999-12-22
+20,Scotland,1999-12-22
+21,Slovakia,1999-12-22
+22,USA,1999-12-22
+23,Chile,1999-12-22
+24,Morocco,1999-12-22
+25,Colombia,1999-12-22
+26,Israel,1999-12-22
+27,Ukraine,1999-12-22
+28,Austria,1999-12-22
+29,Turkey,1999-12-22
+30,South Africa,1999-12-22
+31,Tunisia,1999-12-22
+32,Poland,1999-12-22
+33,Belgium,1999-12-22
+34,Greece,1999-12-22
+35,Republic of Ireland,1999-12-22
+6,Argentina,1999-12-22
+5,Germany,1999-12-22
+4,Spain,1999-12-22
+119,Tajikistan,1999-12-22
+134,Madagascar,1999-12-22
+133,Burundi,1999-12-22
+132,Sudan,1999-12-22
+131,Libya,1999-12-22
+130,Bangladesh,1999-12-22
+129,Turkmenistan,1999-12-22
+128,Tanzania,1999-12-22
+127,Swaziland,1999-12-22
+126,Myanmar,1999-12-22
+125,Liechtenstein,1999-12-22
+124,Luxembourg,1999-12-22
+123,Kazakhstan,1999-12-22
+122,Hong Kong,1999-12-22
+121,Grenada,1999-12-22
+120,Sierra Leone,1999-12-22
+74,Gabon,1999-12-22
+118,Mauritius,1999-12-22
+2,Czech Republic,1999-12-22
+1,Brazil,1999-12-22
+75,Bosnia and Herzegovina,1999-12-22
+107,Qatar,1999-12-22
+108,Uganda,1999-12-22
+109,Syria,1999-12-22
+3,France,1999-12-22
+110,Venezuela,1999-12-22
+112,Faroe Islands,1999-12-22
+113,Barbados,1999-12-22
+114,Malawi,1999-12-22
+115,Jordan,1999-12-22
+116,Malta,1999-12-22
+117,Malaysia,1999-12-22
+111,Lebanon,1999-12-22
+1,Brazil,2000-12-20
+3,Argentina,2000-12-20
+4,Italy,2000-12-20
+7,Spain,2000-12-20
+2,France,2000-12-20
+6,Portugal,2000-12-20
+203,American Samoa,2000-12-20
+77,Cuba,2000-12-20
+75,China PR,2000-12-20
+74,Kuwait,2000-12-20
+73,Australia,2000-12-20
+72,Albania,2000-12-20
+71,Uzbekistan,2000-12-20
+70,Congo DR,2000-12-20
+69,Burkina Faso,2000-12-20
+68,Zimbabwe,2000-12-20
+78,Bosnia and Herzegovina,2000-12-20
+67,Estonia,2000-12-20
+65,Bolivia,2000-12-20
+64,United Arab Emirates,2000-12-20
+63,Canada,2000-12-20
+62,Cyprus,2000-12-20
+61,Thailand,2000-12-20
+60,Costa Rica,2000-12-20
+59,Finland,2000-12-20
+58,Switzerland,2000-12-20
+5,Czech Republic,2000-12-20
+66,Georgia,2000-12-20
+79,Iraq,2000-12-20
+80,Guinea,2000-12-20
+81,Togo,2000-12-20
+102,Qatar,2000-12-20
+101,Singapore,2000-12-20
+100,Syria,2000-12-20
+99,Vietnam,2000-12-20
+98,Mali,2000-12-20
+97,Indonesia,2000-12-20
+96,Belarus,2000-12-20
+95,Liberia,2000-12-20
+94,Moldova,2000-12-20
+93,Northern Ireland,2000-12-20
+92,Latvia,2000-12-20
+91,New Zealand,2000-12-20
+90,Armenia,2000-12-20
+89,Gabon,2000-12-20
+88,Senegal,2000-12-20
+87,Namibia,2000-12-20
+86,Congo,2000-12-20
+85,Lithuania,2000-12-20
+84,Haiti,2000-12-20
+83,El Salvador,2000-12-20
+82,Algeria,2000-12-20
+57,Ghana,2000-12-20
+56,Guatemala,2000-12-20
+55,Angola,2000-12-20
+54,Ecuador,2000-12-20
+28,Morocco,2000-12-20
+27,Belgium,2000-12-20
+26,Tunisia,2000-12-20
+25,Scotland,2000-12-20
+24,Slovakia,2000-12-20
+23,Sweden,2000-12-20
+22,Denmark,2000-12-20
+21,Russia,2000-12-20
+20,South Africa,2000-12-20
+19,Chile,2000-12-20
+18,Croatia,2000-12-20
+17,England,2000-12-20
+16,USA,2000-12-20
+15,Colombia,2000-12-20
+14,Norway,2000-12-20
+13,Romania,2000-12-20
+12,Mexico,2000-12-20
+11,Germany,2000-12-20
+10,Paraguay,2000-12-20
+9,Yugoslavia,2000-12-20
+8,Netherlands,2000-12-20
+29,Trinidad and Tobago,2000-12-20
+103,Uganda,2000-12-20
+30,Turkey,2000-12-20
+32,Uruguay,2000-12-20
+53,Bulgaria,2000-12-20
+52,Nigeria,2000-12-20
+51,Côte d'Ivoire,2000-12-20
+50,Iceland,2000-12-20
+49,Zambia,2000-12-20
+48,Jamaica,2000-12-20
+47,Hungary,2000-12-20
+46,Honduras,2000-12-20
+45,Peru,2000-12-20
+44,Austria,2000-12-20
+43,Poland,2000-12-20
+42,Greece,2000-12-20
+41,Israel,2000-12-20
+40,Korea Republic,2000-12-20
+39,Cameroon,2000-12-20
+38,Japan,2000-12-20
+37,IR Iran,2000-12-20
+36,Saudi Arabia,2000-12-20
+35,Slovenia,2000-12-20
+34,Ukraine,2000-12-20
+33,Egypt,2000-12-20
+31,Republic of Ireland,2000-12-20
+104,Barbados,2000-12-20
+76,North Macedonia,2000-12-20
+106,Oman,2000-12-20
+187,Equatorial Guinea,2000-12-20
+188,Seychelles,2000-12-20
+189,Djibouti,2000-12-20
+190,Pakistan,2000-12-20
+191,Nicaragua,2000-12-20
+192,Papua New Guinea,2000-12-20
+193,Brunei Darussalam,2000-12-20
+194,Somalia,2000-12-20
+105,Jordan,2000-12-20
+195,Puerto Rico,2000-12-20
+196,Mongolia,2000-12-20
+197,Anguilla,2000-12-20
+198,US Virgin Islands,2000-12-20
+199,Guam,2000-12-20
+200,Turks and Caicos Islands,2000-12-20
+201,Bhutan,2000-12-20
+202,Montserrat,2000-12-20
+177,Guinea-Bissau,2000-12-20
+158,Eritrea,2000-12-20
+157,Dominican Republic,2000-12-20
+156,Cabo Verde,2000-12-20
+186,Belize,2000-12-20
+155,Gambia,2000-12-20
+185,Tonga,2000-12-20
+183,Guyana,2000-12-20
+176,Central African Republic,2000-12-20
+174,Kyrgyz Republic,2000-12-20
+173,Samoa,2000-12-20
+172,British Virgin Islands,2000-12-20
+171,Palestine,2000-12-20
+170,Cook Islands,2000-12-20
+169,Cambodia,2000-12-20
+168,San Marino,2000-12-20
+167,Vanuatu,2000-12-20
+166,Nepal,2000-12-20
+165,Laos,2000-12-20
+164,Suriname,2000-12-20
+163,Chad,2000-12-20
+162,Chinese Taipei,2000-12-20
+161,Mauritania,2000-12-20
+160,Yemen,2000-12-20
+159,Cayman Islands,2000-12-20
+179,Philippines,2000-12-20
+180,Macau,2000-12-20
+181,São Tomé and Príncipe,2000-12-20
+182,Niger,2000-12-20
+184,Aruba,2000-12-20
+154,Maldives,2000-12-20
+178,Bahamas,2000-12-20
+152,Dominica,2000-12-20
+134,Tajikistan,2000-12-20
+133,Ethiopia,2000-12-20
+132,Sudan,2000-12-20
+131,Tahiti,2000-12-20
+130,Solomon Islands,2000-12-20
+129,Sierra Leone,2000-12-20
+128,Rwanda,2000-12-20
+127,St. Vincent / Grenadines,2000-12-20
+126,Burundi,2000-12-20
+125,Turkmenistan,2000-12-20
+124,Myanmar,2000-12-20
+123,Hong Kong,2000-12-20
+122,India,2000-12-20
+135,St. Lucia,2000-12-20
+121,Panama,2000-12-20
+119,Malta,2000-12-20
+118,Mauritius,2000-12-20
+117,Faroe Islands,2000-12-20
+116,Libya,2000-12-20
+115,Azerbaijan,2000-12-20
+114,Madagascar,2000-12-20
+113,Malawi,2000-12-20
+112,Mozambique,2000-12-20
+111,Venezuela,2000-12-20
+110,Lebanon,2000-12-20
+109,Wales,2000-12-20
+108,Kenya,2000-12-20
+107,Malaysia,2000-12-20
+120,Kazakhstan,2000-12-20
+153,Bermuda,2000-12-20
+136,Lesotho,2000-12-20
+138,Bahrain,2000-12-20
+148,Benin,2000-12-20
+137,Swaziland,2000-12-20
+149,Sri Lanka,2000-12-20
+150,Botswana,2000-12-20
+147,Liechtenstein,2000-12-20
+145,Andorra,2000-12-20
+146,St. Kitts and Nevis,2000-12-20
+143,Grenada,2000-12-20
+142,Korea DPR,2000-12-20
+141,Fiji,2000-12-20
+140,Tanzania,2000-12-20
+151,Bangladesh,2000-12-20
+139,Luxembourg,2000-12-20
+144,Antigua and Barbuda,2000-12-20
+138,Sierra Leone,2001-12-19
+131,Malta,2001-12-19
+132,Swaziland,2001-12-19
+133,Grenada,2001-12-19
+134,Solomon Islands,2001-12-19
+135,Yemen,2001-12-19
+136,Korea DPR,2001-12-19
+137,Hong Kong,2001-12-19
+139,Burundi,2001-12-19
+144,Rwanda,2001-12-19
+141,Suriname,2001-12-19
+142,Luxembourg,2001-12-19
+143,Sri Lanka,2001-12-19
+145,Palestine,2001-12-19
+146,Bangladesh,2001-12-19
+147,Maldives,2001-12-19
+148,Gambia,2001-12-19
+149,Tanzania,2001-12-19
+150,Liechtenstein,2001-12-19
+130,St. Lucia,2001-12-19
+140,Andorra,2001-12-19
+129,St. Kitts and Nevis,2001-12-19
+105,Vietnam,2001-12-19
+127,Tahiti,2001-12-19
+151,Myanmar,2001-12-19
+106,Latvia,2001-12-19
+107,Barbados,2001-12-19
+108,Guinea,2001-12-19
+109,Panama,2001-12-19
+110,Bahrain,2001-12-19
+111,Malaysia,2001-12-19
+112,Mali,2001-12-19
+113,Azerbaijan,2001-12-19
+114,Turkmenistan,2001-12-19
+128,Mozambique,2001-12-19
+115,Singapore,2001-12-19
+117,Faroe Islands,2001-12-19
+118,Sudan,2001-12-19
+119,Uganda,2001-12-19
+120,Malawi,2001-12-19
+121,India,2001-12-19
+122,Madagascar,2001-12-19
+123,Fiji,2001-12-19
+124,Mauritius,2001-12-19
+125,St. Vincent / Grenadines,2001-12-19
+126,Lesotho,2001-12-19
+116,Libya,2001-12-19
+152,Benin,2001-12-19
+176,Chad,2001-12-19
+154,Tajikistan,2001-12-19
+181,Pakistan,2001-12-19
+182,Central African Republic,2001-12-19
+184,Bahamas,2001-12-19
+185,Aruba,2001-12-19
+186,São Tomé and Príncipe,2001-12-19
+187,Mongolia,2001-12-19
+188,Nicaragua,2001-12-19
+189,Brunei Darussalam,2001-12-19
+190,Equatorial Guinea,2001-12-19
+191,Niger,2001-12-19
+180,Macau,2001-12-19
+192,Seychelles,2001-12-19
+194,Anguilla,2001-12-19
+195,Puerto Rico,2001-12-19
+196,Papua New Guinea,2001-12-19
+197,Somalia,2001-12-19
+198,US Virgin Islands,2001-12-19
+199,Guam,2001-12-19
+200,Turks and Caicos Islands,2001-12-19
+201,American Samoa,2001-12-19
+202,Bhutan,2001-12-19
+203,Montserrat,2001-12-19
+193,Djibouti,2001-12-19
+153,Botswana,2001-12-19
+179,Cook Islands,2001-12-19
+177,Mauritania,2001-12-19
+155,Ethiopia,2001-12-19
+156,Nepal,2001-12-19
+157,Antigua and Barbuda,2001-12-19
+158,San Marino,2001-12-19
+159,Cabo Verde,2001-12-19
+160,Dominican Republic,2001-12-19
+161,Dominica,2001-12-19
+162,Laos,2001-12-19
+163,British Virgin Islands,2001-12-19
+164,Kyrgyz Republic,2001-12-19
+178,Guyana,2001-12-19
+165,Cayman Islands,2001-12-19
+167,Belize,2001-12-19
+168,Vanuatu,2001-12-19
+169,Cambodia,2001-12-19
+170,Chinese Taipei,2001-12-19
+171,Eritrea,2001-12-19
+172,Samoa,2001-12-19
+173,Tonga,2001-12-19
+174,Guinea-Bissau,2001-12-19
+175,Philippines,2001-12-19
+104,Kenya,2001-12-19
+166,Bermuda,2001-12-19
+103,Moldova,2001-12-19
+79,Cyprus,2001-12-19
+101,Namibia,2001-12-19
+27,Honduras,2001-12-19
+28,Tunisia,2001-12-19
+29,IR Iran,2001-12-19
+30,Costa Rica,2001-12-19
+31,Saudi Arabia,2001-12-19
+32,Trinidad and Tobago,2001-12-19
+33,Poland,2001-12-19
+34,Japan,2001-12-19
+35,South Africa,2001-12-19
+36,Morocco,2001-12-19
+37,Ecuador,2001-12-19
+38,Cameroon,2001-12-19
+39,Chile,2001-12-19
+40,Nigeria,2001-12-19
+41,Egypt,2001-12-19
+42,Korea Republic,2001-12-19
+43,Peru,2001-12-19
+44,Côte d'Ivoire,2001-12-19
+45,Ukraine,2001-12-19
+46,Finland,2001-12-19
+47,Slovakia,2001-12-19
+26,Norway,2001-12-19
+25,Slovenia,2001-12-19
+24,USA,2001-12-19
+23,Turkey,2001-12-19
+1,France,2001-12-19
+2,Argentina,2001-12-19
+3,Brazil,2001-12-19
+4,Portugal,2001-12-19
+5,Colombia,2001-12-19
+6,Italy,2001-12-19
+7,Spain,2001-12-19
+8,Netherlands,2001-12-19
+9,Mexico,2001-12-19
+10,England,2001-12-19
+48,Australia,2001-12-19
+11,Yugoslavia,2001-12-19
+13,Paraguay,2001-12-19
+14,Czech Republic,2001-12-19
+15,Romania,2001-12-19
+16,Sweden,2001-12-19
+17,Republic of Ireland,2001-12-19
+18,Denmark,2001-12-19
+19,Croatia,2001-12-19
+20,Belgium,2001-12-19
+21,Russia,2001-12-19
+22,Uruguay,2001-12-19
+12,Germany,2001-12-19
+102,Gabon,2001-12-19
+49,Israel,2001-12-19
+51,Bulgaria,2001-12-19
+80,Qatar,2001-12-19
+81,Venezuela,2001-12-19
+82,Haiti,2001-12-19
+83,Estonia,2001-12-19
+84,New Zealand,2001-12-19
+85,Belarus,2001-12-19
+86,El Salvador,2001-12-19
+87,Indonesia,2001-12-19
+88,Northern Ireland,2001-12-19
+89,North Macedonia,2001-12-19
+90,Syria,2001-12-19
+91,Oman,2001-12-19
+92,Canada,2001-12-19
+93,Lebanon,2001-12-19
+94,Congo,2001-12-19
+95,Armenia,2001-12-19
+96,Albania,2001-12-19
+97,Lithuania,2001-12-19
+98,Kazakhstan,2001-12-19
+99,Jordan,2001-12-19
+100,Wales,2001-12-19
+78,Burkina Faso,2001-12-19
+50,Scotland,2001-12-19
+77,Congo DR,2001-12-19
+75,Algeria,2001-12-19
+52,Iceland,2001-12-19
+54,China PR,2001-12-19
+55,Angola,2001-12-19
+56,Austria,2001-12-19
+57,Greece,2001-12-19
+58,Georgia,2001-12-19
+59,Ghana,2001-12-19
+60,United Arab Emirates,2001-12-19
+61,Thailand,2001-12-19
+62,Uzbekistan,2001-12-19
+76,Cuba,2001-12-19
+63,Switzerland,2001-12-19
+65,Senegal,2001-12-19
+66,Hungary,2001-12-19
+67,Guatemala,2001-12-19
+68,Zimbabwe,2001-12-19
+69,Bosnia and Herzegovina,2001-12-19
+70,Bolivia,2001-12-19
+71,Togo,2001-12-19
+72,Iraq,2001-12-19
+73,Liberia,2001-12-19
+74,Kuwait,2001-12-19
+64,Zambia,2001-12-19
+53,Jamaica,2001-12-19
+67,Zambia,2002-12-18
+65,Congo DR,2002-12-18
+66,Thailand,2002-12-18
+68,Algeria,2002-12-18
+52,Wales,2002-12-18
+70,Canada,2002-12-18
+71,Cuba,2002-12-18
+72,Haiti,2002-12-18
+73,Mali,2002-12-18
+69,Venezuela,2002-12-18
+64,Côte d'Ivoire,2002-12-18
+53,Iraq,2002-12-18
+62,Qatar,2002-12-18
+61,Ghana,2002-12-18
+60,Estonia,2002-12-18
+59,Scotland,2002-12-18
+58,Iceland,2002-12-18
+57,Zimbabwe,2002-12-18
+56,Hungary,2002-12-18
+55,Slovakia,2002-12-18
+54,Austria,2002-12-18
+74,Belarus,2002-12-18
+63,China PR,2002-12-18
+75,Burkina Faso,2002-12-18
+87,Bosnia and Herzegovina,2002-12-18
+77,Jordan,2002-12-18
+99,Barbados,2002-12-18
+98,Uzbekistan,2002-12-18
+97,Congo,2002-12-18
+96,Oman,2002-12-18
+95,Malawi,2002-12-18
+94,El Salvador,2002-12-18
+93,Albania,2002-12-18
+92,Bolivia,2002-12-18
+91,Syria,2002-12-18
+90,Georgia,2002-12-18
+89,United Arab Emirates,2002-12-18
+88,Liberia,2002-12-18
+86,Togo,2002-12-18
+85,North Macedonia,2002-12-18
+84,Chile,2002-12-18
+83,Kuwait,2002-12-18
+82,Peru,2002-12-18
+81,Kenya,2002-12-18
+80,Cyprus,2002-12-18
+79,Latvia,2002-12-18
+78,Guatemala,2002-12-18
+76,Angola,2002-12-18
+51,Jamaica,2002-12-18
+1,Brazil,2002-12-18
+100,Lithuania,2002-12-18
+22,Japan,2002-12-18
+21,Costa Rica,2002-12-18
+20,Korea Republic,2002-12-18
+19,Serbia and Montenegro,2002-12-18
+18,Paraguay,2002-12-18
+17,Belgium,2002-12-18
+16,Cameroon,2002-12-18
+15,Czech Republic,2002-12-18
+14,Republic of Ireland,2002-12-18
+13,Italy,2002-12-18
+12,Denmark,2002-12-18
+11,Portugal,2002-12-18
+10,USA,2002-12-18
+9,Turkey,2002-12-18
+8,Mexico,2002-12-18
+7,England,2002-12-18
+6,Netherlands,2002-12-18
+5,Argentina,2002-12-18
+4,Germany,2002-12-18
+3,Spain,2002-12-18
+2,France,2002-12-18
+23,Russia,2002-12-18
+24,Romania,2002-12-18
+25,Sweden,2002-12-18
+26,Norway,2002-12-18
+48,Greece,2002-12-18
+47,Trinidad and Tobago,2002-12-18
+46,Israel,2002-12-18
+45,Ukraine,2002-12-18
+44,Switzerland,2002-12-18
+43,Finland,2002-12-18
+42,Bulgaria,2002-12-18
+41,Tunisia,2002-12-18
+40,Honduras,2002-12-18
+39,Egypt,2002-12-18
+50,Australia,2002-12-18
+38,Saudi Arabia,2002-12-18
+36,Slovenia,2002-12-18
+35,Morocco,2002-12-18
+34,Poland,2002-12-18
+33,IR Iran,2002-12-18
+32,Croatia,2002-12-18
+31,Ecuador,2002-12-18
+30,South Africa,2002-12-18
+29,Nigeria,2002-12-18
+28,Uruguay,2002-12-18
+27,Senegal,2002-12-18
+37,Colombia,2002-12-18
+101,Madagascar,2002-12-18
+49,New Zealand,2002-12-18
+103,Northern Ireland,2002-12-18
+176,Cambodia,2002-12-18
+175,Tonga,2002-12-18
+174,Dominica,2002-12-18
+173,Chad,2002-12-18
+172,Bermuda,2002-12-18
+171,Kyrgyz Republic,2002-12-18
+170,Laos,2002-12-18
+169,Guyana,2002-12-18
+168,Tajikistan,2002-12-18
+167,Papua New Guinea,2002-12-18
+166,Chinese Taipei,2002-12-18
+165,Nepal,2002-12-18
+164,Cayman Islands,2002-12-18
+163,Samoa,2002-12-18
+162,Myanmar,2002-12-18
+161,British Virgin Islands,2002-12-18
+160,San Marino,2002-12-18
+159,Bangladesh,2002-12-18
+158,Belize,2002-12-18
+157,Eritrea,2002-12-18
+156,Vanuatu,2002-12-18
+178,Pakistan,2002-12-18
+179,Central African Republic,2002-12-18
+180,Mauritania,2002-12-18
+181,Philippines,2002-12-18
+203,Montserrat,2002-12-18
+202,Turks and Caicos Islands,2002-12-18
+201,American Samoa,2002-12-18
+200,Guam,2002-12-18
+199,Bhutan,2002-12-18
+198,Puerto Rico,2002-12-18
+197,US Virgin Islands,2002-12-18
+196,Anguilla,2002-12-18
+195,Djibouti,2002-12-18
+194,Brunei Darussalam,2002-12-18
+155,Antigua and Barbuda,2002-12-18
+193,Mongolia,2002-12-18
+191,São Tomé and Príncipe,2002-12-18
+190,Somalia,2002-12-18
+189,Aruba,2002-12-18
+188,Macau,2002-12-18
+187,Bahamas,2002-12-18
+186,Nicaragua,2002-12-18
+185,Seychelles,2002-12-18
+184,Niger,2002-12-18
+183,Guinea-Bissau,2002-12-18
+182,Cook Islands,2002-12-18
+192,Equatorial Guinea,2002-12-18
+154,Cabo Verde,2002-12-18
+102,Uganda,2002-12-18
+152,Maldives,2002-12-18
+125,Mozambique,2002-12-18
+124,Korea DPR,2002-12-18
+123,Namibia,2002-12-18
+122,Malta,2002-12-18
+121,Gabon,2002-12-18
+120,Guinea,2002-12-18
+119,Lebanon,2002-12-18
+118,Singapore,2002-12-18
+117,Kazakhstan,2002-12-18
+116,Swaziland,2002-12-18
+126,Mauritius,2002-12-18
+115,Tahiti,2002-12-18
+113,Azerbaijan,2002-12-18
+112,St. Lucia,2002-12-18
+111,Moldova,2002-12-18
+110,Indonesia,2002-12-18
+109,St. Kitts and Nevis,2002-12-18
+108,Vietnam,2002-12-18
+107,Armenia,2002-12-18
+106,Sudan,2002-12-18
+105,Bahrain,2002-12-18
+153,Tanzania,2002-12-18
+114,Faroe Islands,2002-12-18
+127,India,2002-12-18
+104,Libya,2002-12-18
+129,Panama,2002-12-18
+151,Palestine,2002-12-18
+150,Hong Kong,2002-12-18
+149,Dominican Republic,2002-12-18
+148,Luxembourg,2002-12-18
+147,Liechtenstein,2002-12-18
+146,Benin,2002-12-18
+128,Malaysia,2002-12-18
+144,St. Vincent / Grenadines,2002-12-18
+143,Gambia,2002-12-18
+142,Solomon Islands,2002-12-18
+141,Suriname,2002-12-18
+145,Yemen,2002-12-18
+139,Sri Lanka,2002-12-18
+140,Fiji,2002-12-18
+131,Grenada,2002-12-18
+132,Lesotho,2002-12-18
+133,Sierra Leone,2002-12-18
+130,Rwanda,2002-12-18
+135,Burundi,2002-12-18
+136,Botswana,2002-12-18
+137,Andorra,2002-12-18
+138,Ethiopia,2002-12-18
+134,Turkmenistan,2002-12-18
+66,Wales,2003-12-15
+67,Austria,2003-12-15
+68,Zambia,2003-12-15
+72,Hungary,2003-12-15
+70,Côte d'Ivoire,2003-12-15
+70,Trinidad and Tobago,2003-12-15
+72,Kenya,2003-12-15
+53,Zimbabwe,2003-12-15
+68,Estonia,2003-12-15
+65,Qatar,2003-12-15
+59,Bosnia and Herzegovina,2003-12-15
+62,Algeria,2003-12-15
+62,Oman,2003-12-15
+60,Ukraine,2003-12-15
+60,Thailand,2003-12-15
+58,Iceland,2003-12-15
+57,Venezuela,2003-12-15
+56,Congo DR,2003-12-15
+54,Scotland,2003-12-15
+54,Mali,2003-12-15
+74,Peru,2003-12-15
+64,Bahrain,2003-12-15
+75,United Arab Emirates,2003-12-15
+87,Canada,2003-12-15
+77,Guatemala,2003-12-15
+51,Israel,2003-12-15
+99,Bolivia,2003-12-15
+98,Vietnam,2003-12-15
+97,Cyprus,2003-12-15
+96,Haiti,2003-12-15
+95,El Salvador,2003-12-15
+94,Togo,2003-12-15
+93,Georgia,2003-12-15
+92,North Macedonia,2003-12-15
+91,Indonesia,2003-12-15
+75,Cuba,2003-12-15
+90,Belarus,2003-12-15
+88,New Zealand,2003-12-15
+86,China PR,2003-12-15
+85,Syria,2003-12-15
+83,Angola,2003-12-15
+83,Libya,2003-12-15
+82,Australia,2003-12-15
+81,Uzbekistan,2003-12-15
+80,Chile,2003-12-15
+78,Ghana,2003-12-15
+78,Burkina Faso,2003-12-15
+89,Albania,2003-12-15
+99,Turkmenistan,2003-12-15
+1,Brazil,2003-12-15
+49,Honduras,2003-12-15
+22,Korea Republic,2003-12-15
+21,Uruguay,2003-12-15
+20,Croatia,2003-12-15
+19,Sweden,2003-12-15
+17,Portugal,2003-12-15
+17,Costa Rica,2003-12-15
+16,Belgium,2003-12-15
+14,Republic of Ireland,2003-12-15
+14,Cameroon,2003-12-15
+13,Denmark,2003-12-15
+22,Paraguay,2003-12-15
+12,Germany,2003-12-15
+10,Italy,2003-12-15
+8,England,2003-12-15
+8,Turkey,2003-12-15
+7,Mexico,2003-12-15
+6,Czech Republic,2003-12-15
+5,Argentina,2003-12-15
+4,Netherlands,2003-12-15
+3,Spain,2003-12-15
+2,France,2003-12-15
+101,Guinea,2003-12-15
+11,USA,2003-12-15
+50,Slovakia,2003-12-15
+24,Russia,2003-12-15
+26,Saudi Arabia,2003-12-15
+48,Kuwait,2003-12-15
+47,Jordan,2003-12-15
+46,Jamaica,2003-12-15
+45,Tunisia,2003-12-15
+44,Switzerland,2003-12-15
+43,Iraq,2003-12-15
+42,Norway,2003-12-15
+41,Serbia and Montenegro,2003-12-15
+40,Finland,2003-12-15
+39,Colombia,2003-12-15
+25,Poland,2003-12-15
+38,Morocco,2003-12-15
+36,South Africa,2003-12-15
+35,Nigeria,2003-12-15
+34,Bulgaria,2003-12-15
+33,Senegal,2003-12-15
+32,Egypt,2003-12-15
+31,Slovenia,2003-12-15
+30,Greece,2003-12-15
+29,Japan,2003-12-15
+28,IR Iran,2003-12-15
+27,Romania,2003-12-15
+37,Ecuador,2003-12-15
+101,Lithuania,2003-12-15
+51,Latvia,2003-12-15
+103,Uganda,2003-12-15
+177,Central African Republic,2003-12-15
+176,Samoa,2003-12-15
+175,British Virgin Islands,2003-12-15
+174,Belize,2003-12-15
+173,Nicaragua,2003-12-15
+172,Papua New Guinea,2003-12-15
+171,Dominican Republic,2003-12-15
+170,Antigua and Barbuda,2003-12-15
+169,St. Vincent / Grenadines,2003-12-15
+168,Pakistan,2003-12-15
+167,Laos,2003-12-15
+165,Nepal,2003-12-15
+165,Mauritania,2003-12-15
+164,Niger,2003-12-15
+163,Seychelles,2003-12-15
+162,San Marino,2003-12-15
+160,Vanuatu,2003-12-15
+160,Equatorial Guinea,2003-12-15
+159,Tanzania,2003-12-15
+158,Suriname,2003-12-15
+157,Kyrgyz Republic,2003-12-15
+103,Sudan,2003-12-15
+179,Mongolia,2003-12-15
+180,Tonga,2003-12-15
+181,Cayman Islands,2003-12-15
+204,Montserrat,2003-12-15
+203,Turks and Caicos Islands,2003-12-15
+202,American Samoa,2003-12-15
+201,Guam,2003-12-15
+200,Puerto Rico,2003-12-15
+199,US Virgin Islands,2003-12-15
+198,Anguilla,2003-12-15
+197,Djibouti,2003-12-15
+196,Afghanistan,2003-12-15
+195,Aruba,2003-12-15
+156,Solomon Islands,2003-12-15
+194,Brunei Darussalam,2003-12-15
+192,São Tomé and Príncipe,2003-12-15
+191,Somalia,2003-12-15
+190,Cook Islands,2003-12-15
+189,Philippines,2003-12-15
+187,Bhutan,2003-12-15
+186,Guinea-Bissau,2003-12-15
+185,Dominica,2003-12-15
+184,Macau,2003-12-15
+183,Bermuda,2003-12-15
+182,Guyana,2003-12-15
+193,Bahamas,2003-12-15
+155,Eritrea,2003-12-15
+178,Cambodia,2003-12-15
+153,Luxembourg,2003-12-15
+126,Faroe Islands,2003-12-15
+125,Panama,2003-12-15
+124,Barbados,2003-12-15
+123,Mauritius,2003-12-15
+122,Northern Ireland,2003-12-15
+121,Benin,2003-12-15
+120,Lesotho,2003-12-15
+119,Azerbaijan,2003-12-15
+118,Madagascar,2003-12-15
+117,Korea DPR,2003-12-15
+127,India,2003-12-15
+116,Malaysia,2003-12-15
+114,Swaziland,2003-12-15
+113,Armenia,2003-12-15
+112,Botswana,2003-12-15
+111,Gabon,2003-12-15
+110,Liberia,2003-12-15
+109,Rwanda,2003-12-15
+108,Congo,2003-12-15
+106,Moldova,2003-12-15
+106,Singapore,2003-12-15
+154,Grenada,2003-12-15
+115,Lebanon,2003-12-15
+127,Mozambique,2003-12-15
+105,Malawi,2003-12-15
+130,Ethiopia,2003-12-15
+152,Chad,2003-12-15
+151,Bangladesh,2003-12-15
+150,Chinese Taipei,2003-12-15
+149,Fiji,2003-12-15
+148,Liechtenstein,2003-12-15
+147,Andorra,2003-12-15
+129,Malta,2003-12-15
+145,Burundi,2003-12-15
+144,Namibia,2003-12-15
+143,Cabo Verde,2003-12-15
+142,Hong Kong,2003-12-15
+146,Sierra Leone,2003-12-15
+140,Myanmar,2003-12-15
+139,Palestine,2003-12-15
+138,Gambia,2003-12-15
+137,Tajikistan,2003-12-15
+136,Kazakhstan,2003-12-15
+135,Sri Lanka,2003-12-15
+134,St. Kitts and Nevis,2003-12-15
+133,Tahiti,2003-12-15
+132,Yemen,2003-12-15
+130,St. Lucia,2003-12-15
+141,Maldives,2003-12-15
+66,Peru,2004-12-20
+66,Qatar,2004-12-20
+68,Wales,2004-12-20
+69,Belarus,2004-12-20
+74,Chile,2004-12-20
+71,Guatemala,2004-12-20
+72,Angola,2004-12-20
+73,Algeria,2004-12-20
+53,Slovakia,2004-12-20
+70,Zambia,2004-12-20
+65,Latvia,2004-12-20
+60,Zimbabwe,2004-12-20
+63,Trinidad and Tobago,2004-12-20
+62,Venezuela,2004-12-20
+61,Libya,2004-12-20
+59,Honduras,2004-12-20
+58,Australia,2004-12-20
+57,Ukraine,2004-12-20
+56,Oman,2004-12-20
+54,Kuwait,2004-12-20
+54,China PR,2004-12-20
+74,Kenya,2004-12-20
+64,Hungary,2004-12-20
+76,Cuba,2004-12-20
+86,Scotland,2004-12-20
+78,Congo DR,2004-12-20
+51,Switzerland,2004-12-20
+100,Lithuania,2004-12-20
+99,Rwanda,2004-12-20
+98,Turkmenistan,2004-12-20
+95,New Zealand,2004-12-20
+95,Korea DPR,2004-12-20
+95,Haiti,2004-12-20
+94,Bolivia,2004-12-20
+93,Iceland,2004-12-20
+92,North Macedonia,2004-12-20
+77,Ghana,2004-12-20
+91,Indonesia,2004-12-20
+89,Togo,2004-12-20
+86,Guinea,2004-12-20
+86,Albania,2004-12-20
+85,Syria,2004-12-20
+84,Burkina Faso,2004-12-20
+83,Austria,2004-12-20
+82,United Arab Emirates,2004-12-20
+81,Estonia,2004-12-20
+79,Thailand,2004-12-20
+79,Bosnia and Herzegovina,2004-12-20
+90,Canada,2004-12-20
+51,Mali,2004-12-20
+100,Panama,2004-12-20
+49,Bahrain,2004-12-20
+22,Korea Republic,2004-12-20
+21,Nigeria,2004-12-20
+20,IR Iran,2004-12-20
+19,Germany,2004-12-20
+18,Greece,2004-12-20
+17,Japan,2004-12-20
+16,Uruguay,2004-12-20
+14,Turkey,2004-12-20
+14,Denmark,2004-12-20
+13,Sweden,2004-12-20
+23,Cameroon,2004-12-20
+12,Republic of Ireland,2004-12-20
+10,Italy,2004-12-20
+9,Portugal,2004-12-20
+8,England,2004-12-20
+7,Mexico,2004-12-20
+6,Netherlands,2004-12-20
+5,Spain,2004-12-20
+4,Czech Republic,2004-12-20
+3,Argentina,2004-12-20
+2,France,2004-12-20
+1,Brazil,2004-12-20
+11,USA,2004-12-20
+49,Jamaica,2004-12-20
+23,Croatia,2004-12-20
+26,Colombia,2004-12-20
+48,Israel,2004-12-20
+47,Uzbekistan,2004-12-20
+46,Serbia and Montenegro,2004-12-20
+45,Belgium,2004-12-20
+44,Iraq,2004-12-20
+43,Finland,2004-12-20
+42,Slovenia,2004-12-20
+40,Jordan,2004-12-20
+40,Côte d'Ivoire,2004-12-20
+39,Ecuador,2004-12-20
+25,Poland,2004-12-20
+38,South Africa,2004-12-20
+35,Tunisia,2004-12-20
+35,Norway,2004-12-20
+34,Egypt,2004-12-20
+33,Morocco,2004-12-20
+32,Russia,2004-12-20
+31,Senegal,2004-12-20
+30,Paraguay,2004-12-20
+29,Romania,2004-12-20
+28,Saudi Arabia,2004-12-20
+27,Costa Rica,2004-12-20
+37,Bulgaria,2004-12-20
+102,Botswana,2004-12-20
+205,Guam,2004-12-20
+104,Georgia,2004-12-20
+177,Pakistan,2004-12-20
+177,Nepal,2004-12-20
+176,Cayman Islands,2004-12-20
+175,Mauritania,2004-12-20
+173,Seychelles,2004-12-20
+173,Niger,2004-12-20
+172,Tanzania,2004-12-20
+171,Equatorial Guinea,2004-12-20
+170,Dominican Republic,2004-12-20
+169,Eritrea,2004-12-20
+168,Chad,2004-12-20
+167,Bangladesh,2004-12-20
+165,Dominica,2004-12-20
+165,British Virgin Islands,2004-12-20
+164,San Marino,2004-12-20
+162,Laos,2004-12-20
+161,Papua New Guinea,2004-12-20
+160,Sierra Leone,2004-12-20
+158,Nicaragua,2004-12-20
+158,Namibia,2004-12-20
+157,Bermuda,2004-12-20
+179,Samoa,2004-12-20
+181,Belize,2004-12-20
+182,Guyana,2004-12-20
+183,Tonga,2004-12-20
+103,Vietnam,2004-12-20
+204,American Samoa,2004-12-20
+203,Turks and Caicos Islands,2004-12-20
+202,Montserrat,2004-12-20
+201,Djibouti,2004-12-20
+200,Afghanistan,2004-12-20
+199,Brunei Darussalam,2004-12-20
+198,Aruba,2004-12-20
+197,Anguilla,2004-12-20
+196,US Virgin Islands,2004-12-20
+155,Luxembourg,2004-12-20
+195,São Tomé and Príncipe,2004-12-20
+193,Somalia,2004-12-20
+192,Bahamas,2004-12-20
+190,Guinea-Bissau,2004-12-20
+190,Cook Islands,2004-12-20
+188,Philippines,2004-12-20
+188,Macau,2004-12-20
+187,Bhutan,2004-12-20
+186,New Caledonia,2004-12-20
+185,Mongolia,2004-12-20
+184,Cambodia,2004-12-20
+194,Puerto Rico,2004-12-20
+155,Chinese Taipei,2004-12-20
+180,Central African Republic,2004-12-20
+153,Antigua and Barbuda,2004-12-20
+126,Mozambique,2004-12-20
+124,Yemen,2004-12-20
+124,Tahiti,2004-12-20
+123,Liberia,2004-12-20
+122,Benin,2004-12-20
+121,Barbados,2004-12-20
+120,Malaysia,2004-12-20
+119,Armenia,2004-12-20
+117,Congo,2004-12-20
+114,Sudan,2004-12-20
+126,Palestine,2004-12-20
+114,St. Lucia,2004-12-20
+113,Azerbaijan,2004-12-20
+112,Singapore,2004-12-20
+109,Uganda,2004-12-20
+109,Malawi,2004-12-20
+109,Gabon,2004-12-20
+108,Cyprus,2004-12-20
+107,Northern Ireland,2004-12-20
+106,El Salvador,2004-12-20
+154,Gambia,2004-12-20
+105,Lebanon,2004-12-20
+114,Moldova,2004-12-20
+126,Swaziland,2004-12-20
+118,St. Kitts and Nevis,2004-12-20
+151,Ethiopia,2004-12-20
+152,Burundi,2004-12-20
+129,Cabo Verde,2004-12-20
+150,Kyrgyz Republic,2004-12-20
+149,Suriname,2004-12-20
+147,Madagascar,2004-12-20
+147,Kazakhstan,2004-12-20
+144,Myanmar,2004-12-20
+144,Grenada,2004-12-20
+143,Vanuatu,2004-12-20
+142,Liechtenstein,2004-12-20
+140,Sri Lanka,2004-12-20
+144,Lesotho,2004-12-20
+139,Maldives,2004-12-20
+130,Solomon Islands,2004-12-20
+140,Mauritius,2004-12-20
+132,India,2004-12-20
+133,Hong Kong,2004-12-20
+134,Malta,2004-12-20
+131,Faroe Islands,2004-12-20
+136,Tajikistan,2004-12-20
+137,St. Vincent / Grenadines,2004-12-20
+138,Andorra,2004-12-20
+135,Fiji,2004-12-20
+65,Bosnia and Herzegovina,2005-12-16
+72,China PR,2005-12-16
+72,Kuwait,2005-12-16
+71,Wales,2005-12-16
+69,Latvia,2005-12-16
+69,Austria,2005-12-16
+68,Slovenia,2005-12-16
+67,Venezuela,2005-12-16
+66,Peru,2005-12-16
+64,Chile,2005-12-16
+52,Bahrain,2005-12-16
+61,Belarus,2005-12-16
+61,Angola,2005-12-16
+60,Scotland,2005-12-16
+59,Uzbekistan,2005-12-16
+58,Zambia,2005-12-16
+56,Guatemala,2005-12-16
+56,Togo,2005-12-16
+55,Belgium,2005-12-16
+54,Iraq,2005-12-16
+53,Zimbabwe,2005-12-16
+63,Mali,2005-12-16
+74,Hungary,2005-12-16
+98,Syria,2005-12-16
+76,Estonia,2005-12-16
+50,Trinidad and Tobago,2005-12-16
+98,Haiti,2005-12-16
+96,Bolivia,2005-12-16
+96,Cyprus,2005-12-16
+95,Qatar,2005-12-16
+94,Iceland,2005-12-16
+92,Singapore,2005-12-16
+92,Sudan,2005-12-16
+91,Oman,2005-12-16
+89,Kenya,2005-12-16
+89,Rwanda,2005-12-16
+87,North Macedonia,2005-12-16
+87,Burkina Faso,2005-12-16
+86,Jordan,2005-12-16
+85,United Arab Emirates,2005-12-16
+84,Canada,2005-12-16
+82,Korea DPR,2005-12-16
+82,Albania,2005-12-16
+80,Libya,2005-12-16
+80,Algeria,2005-12-16
+79,Guinea,2005-12-16
+78,Panama,2005-12-16
+77,Congo DR,2005-12-16
+75,Cuba,2005-12-16
+50,Ghana,2005-12-16
+24,Colombia,2005-12-16
+48,Australia,2005-12-16
+21,Costa Rica,2005-12-16
+20,Croatia,2005-12-16
+19,IR Iran,2005-12-16
+18,Uruguay,2005-12-16
+16,Greece,2005-12-16
+16,Germany,2005-12-16
+15,Japan,2005-12-16
+14,Sweden,2005-12-16
+13,Denmark,2005-12-16
+12,Italy,2005-12-16
+22,Poland,2005-12-16
+11,Turkey,2005-12-16
+9,England,2005-12-16
+8,USA,2005-12-16
+5,France,2005-12-16
+5,Spain,2005-12-16
+5,Mexico,2005-12-16
+4,Argentina,2005-12-16
+3,Netherlands,2005-12-16
+2,Czech Republic,2005-12-16
+1,Brazil,2005-12-16
+100,Lithuania,2005-12-16
+10,Portugal,2005-12-16
+49,South Africa,2005-12-16
+23,Cameroon,2005-12-16
+24,Republic of Ireland,2005-12-16
+47,Serbia,2005-12-16
+47,Serbia and Montenegro,2005-12-16
+46,Finland,2005-12-16
+45,Slovakia,2005-12-16
+44,Israel,2005-12-16
+42,Jamaica,2005-12-16
+42,Côte d'Ivoire,2005-12-16
+41,Honduras,2005-12-16
+40,Ukraine,2005-12-16
+39,Bulgaria,2005-12-16
+24,Nigeria,2005-12-16
+38,Norway,2005-12-16
+36,Morocco,2005-12-16
+35,Switzerland,2005-12-16
+34,Russia,2005-12-16
+33,Saudi Arabia,2005-12-16
+32,Egypt,2005-12-16
+30,Paraguay,2005-12-16
+30,Senegal,2005-12-16
+29,Korea Republic,2005-12-16
+28,Tunisia,2005-12-16
+27,Romania,2005-12-16
+37,Ecuador,2005-12-16
+101,Uganda,2005-12-16
+103,Northern Ireland,2005-12-16
+205,American Samoa,2005-12-16
+178,Mauritania,2005-12-16
+177,Niger,2005-12-16
+176,Seychelles,2005-12-16
+175,Nepal,2005-12-16
+174,Dominican Republic,2005-12-16
+173,Equatorial Guinea,2005-12-16
+172,Dominica,2005-12-16
+171,British Virgin Islands,2005-12-16
+170,Laos,2005-12-16
+169,Eritrea,2005-12-16
+180,Belize,2005-12-16
+167,Guyana,2005-12-16
+165,Tanzania,2005-12-16
+164,Gambia,2005-12-16
+163,Sierra Leone,2005-12-16
+161,Bermuda,2005-12-16
+161,Namibia,2005-12-16
+160,Bangladesh,2005-12-16
+159,Chad,2005-12-16
+158,Pakistan,2005-12-16
+157,Kyrgyz Republic,2005-12-16
+156,Chinese Taipei,2005-12-16
+166,Papua New Guinea,2005-12-16
+155,San Marino,2005-12-16
+181,Cayman Islands,2005-12-16
+183,Central African Republic,2005-12-16
+101,Botswana,2005-12-16
+204,Guam,2005-12-16
+203,Turks and Caicos Islands,2005-12-16
+202,Montserrat,2005-12-16
+200,Aruba,2005-12-16
+200,Djibouti,2005-12-16
+199,Brunei Darussalam,2005-12-16
+198,Anguilla,2005-12-16
+197,São Tomé and Príncipe,2005-12-16
+196,US Virgin Islands,2005-12-16
+182,Samoa,2005-12-16
+195,Puerto Rico,2005-12-16
+193,Bahamas,2005-12-16
+192,Macau,2005-12-16
+191,Philippines,2005-12-16
+190,Bhutan,2005-12-16
+189,Afghanistan,2005-12-16
+188,Cambodia,2005-12-16
+187,New Caledonia,2005-12-16
+186,Guinea-Bissau,2005-12-16
+185,Tonga,2005-12-16
+184,Somalia,2005-12-16
+194,Cook Islands,2005-12-16
+154,Antigua and Barbuda,2005-12-16
+179,Mongolia,2005-12-16
+152,Suriname,2005-12-16
+125,Andorra,2005-12-16
+124,El Salvador,2005-12-16
+123,Malaysia,2005-12-16
+122,Liechtenstein,2005-12-16
+120,New Zealand,2005-12-16
+120,Vietnam,2005-12-16
+118,Malta,2005-12-16
+118,Cabo Verde,2005-12-16
+117,Hong Kong,2005-12-16
+116,Turkmenistan,2005-12-16
+125,Lebanon,2005-12-16
+115,Barbados,2005-12-16
+113,Benin,2005-12-16
+112,Ethiopia,2005-12-16
+111,Thailand,2005-12-16
+110,Congo,2005-12-16
+109,Indonesia,2005-12-16
+108,Armenia,2005-12-16
+107,Moldova,2005-12-16
+106,Malawi,2005-12-16
+104,Georgia,2005-12-16
+152,Nicaragua,2005-12-16
+114,Azerbaijan,2005-12-16
+127,India,2005-12-16
+104,Gabon,2005-12-16
+129,St. Kitts and Nevis,2005-12-16
+128,St. Lucia,2005-12-16
+150,Luxembourg,2005-12-16
+149,Madagascar,2005-12-16
+147,Myanmar,2005-12-16
+147,Burundi,2005-12-16
+146,Vanuatu,2005-12-16
+145,Lesotho,2005-12-16
+144,Sri Lanka,2005-12-16
+143,Mauritius,2005-12-16
+141,Tajikistan,2005-12-16
+141,Tahiti,2005-12-16
+151,Grenada,2005-12-16
+139,Yemen,2005-12-16
+137,Palestine,2005-12-16
+137,Kazakhstan,2005-12-16
+135,Liberia,2005-12-16
+135,Fiji,2005-12-16
+134,Swaziland,2005-12-16
+133,Maldives,2005-12-16
+132,Faroe Islands,2005-12-16
+130,Mozambique,2005-12-16
+130,St. Vincent / Grenadines,2005-12-16
+140,Solomon Islands,2005-12-16
+67,South Africa,2006-12-18
+76,Zimbabwe,2006-12-18
+73,Cyprus,2006-12-18
+73,Wales,2006-12-18
+73,Venezuela,2006-12-18
+72,Oman,2006-12-18
+70,Peru,2006-12-18
+70,Belarus,2006-12-18
+69,Lithuania,2006-12-18
+68,Costa Rica,2006-12-18
+66,Congo DR,2006-12-18
+1,Brazil,2006-12-18
+64,Saudi Arabia,2006-12-18
+62,Hungary,2006-12-18
+62,Zambia,2006-12-18
+61,Burkina Faso,2006-12-18
+60,Togo,2006-12-18
+59,Bosnia and Herzegovina,2006-12-18
+58,Qatar,2006-12-18
+57,Jamaica,2006-12-18
+56,Honduras,2006-12-18
+55,Angola,2006-12-18
+65,Austria,2006-12-18
+77,Slovenia,2006-12-18
+102,Haiti,2006-12-18
+78,Kuwait,2006-12-18
+54,North Macedonia,2006-12-18
+101,Bolivia,2006-12-18
+100,Guyana,2006-12-18
+99,Libya,2006-12-18
+98,Barbados,2006-12-18
+97,Bahrain,2006-12-18
+95,Gabon,2006-12-18
+95,Jordan,2006-12-18
+94,Georgia,2006-12-18
+93,Iceland,2006-12-18
+92,Ethiopia,2006-12-18
+91,Trinidad and Tobago,2006-12-18
+90,Latvia,2006-12-18
+89,Congo,2006-12-18
+87,Albania,2006-12-18
+87,United Arab Emirates,2006-12-18
+86,Moldova,2006-12-18
+85,St. Vincent / Grenadines,2006-12-18
+84,China PR,2006-12-18
+83,Iraq,2006-12-18
+82,Canada,2006-12-18
+81,Panama,2006-12-18
+80,Algeria,2006-12-18
+78,Cabo Verde,2006-12-18
+53,Belgium,2006-12-18
+28,Ghana,2006-12-18
+51,Korea Republic,2006-12-18
+23,Guinea,2006-12-18
+22,Russia,2006-12-18
+21,Denmark,2006-12-18
+20,Mexico,2006-12-18
+19,Romania,2006-12-18
+18,Côte d'Ivoire,2006-12-18
+17,Switzerland,2006-12-18
+16,Greece,2006-12-18
+15,Croatia,2006-12-18
+14,Sweden,2006-12-18
+24,Poland,2006-12-18
+13,Ukraine,2006-12-18
+11,Cameroon,2006-12-18
+10,Czech Republic,2006-12-18
+9,Nigeria,2006-12-18
+8,Portugal,2006-12-18
+7,Netherlands,2006-12-18
+6,Germany,2006-12-18
+5,England,2006-12-18
+4,France,2006-12-18
+3,Argentina,2006-12-18
+103,Uganda,2006-12-18
+12,Spain,2006-12-18
+52,Finland,2006-12-18
+25,Scotland,2006-12-18
+27,Egypt,2006-12-18
+50,Norway,2006-12-18
+49,Republic of Ireland,2006-12-18
+48,Northern Ireland,2006-12-18
+47,Japan,2006-12-18
+46,Cuba,2006-12-18
+45,Uzbekistan,2006-12-18
+44,Israel,2006-12-18
+43,Bulgaria,2006-12-18
+41,Chile,2006-12-18
+41,Senegal,2006-12-18
+26,Turkey,2006-12-18
+39,Morocco,2006-12-18
+38,IR Iran,2006-12-18
+37,Slovakia,2006-12-18
+36,Mali,2006-12-18
+35,Paraguay,2006-12-18
+34,Colombia,2006-12-18
+33,Serbia,2006-12-18
+32,Tunisia,2006-12-18
+31,USA,2006-12-18
+30,Ecuador,2006-12-18
+29,Uruguay,2006-12-18
+39,Australia,2006-12-18
+2,Italy,2006-12-18
+104,Malawi,2006-12-18
+106,Estonia,2006-12-18
+181,Mongolia,2006-12-18
+180,Afghanistan,2006-12-18
+179,Central African Republic,2006-12-18
+178,Papua New Guinea,2006-12-18
+176,New Caledonia,2006-12-18
+175,Brunei Darussalam,2006-12-18
+174,Cambodia,2006-12-18
+173,Tahiti,2006-12-18
+172,Vietnam,2006-12-18
+171,Philippines,2006-12-18
+181,Dominica,2006-12-18
+170,Nepal,2006-12-18
+168,Nicaragua,2006-12-18
+167,Vanuatu,2006-12-18
+166,Chinese Taipei,2006-12-18
+164,Andorra,2006-12-18
+164,Pakistan,2006-12-18
+163,Grenada,2006-12-18
+160,Solomon Islands,2006-12-18
+160,Lesotho,2006-12-18
+160,St. Lucia,2006-12-18
+158,Liechtenstein,2006-12-18
+169,Turks and Caicos Islands,2006-12-18
+158,Maldives,2006-12-18
+184,Madagascar,2006-12-18
+186,Luxembourg,2006-12-18
+105,Guatemala,2006-12-18
+207,Comoros,2006-12-18
+198,Timor-Leste,2006-12-18
+198,American Samoa,2006-12-18
+198,Guam,2006-12-18
+198,Montserrat,2006-12-18
+198,US Virgin Islands,2006-12-18
+198,Aruba,2006-12-18
+198,São Tomé and Príncipe,2006-12-18
+198,Djibouti,2006-12-18
+185,Macau,2006-12-18
+198,Belize,2006-12-18
+196,Anguilla,2006-12-18
+195,Puerto Rico,2006-12-18
+194,San Marino,2006-12-18
+193,Somalia,2006-12-18
+192,Bhutan,2006-12-18
+191,Guinea-Bissau,2006-12-18
+190,British Virgin Islands,2006-12-18
+189,Cayman Islands,2006-12-18
+188,Tonga,2006-12-18
+187,Samoa,2006-12-18
+197,Cook Islands,2006-12-18
+157,India,2006-12-18
+181,Faroe Islands,2006-12-18
+155,Turkmenistan,2006-12-18
+128,Mozambique,2006-12-18
+127,Kenya,2006-12-18
+126,Lebanon,2006-12-18
+125,Azerbaijan,2006-12-18
+124,Tajikistan,2006-12-18
+123,Armenia,2006-12-18
+122,Suriname,2006-12-18
+121,Rwanda,2006-12-18
+119,Malta,2006-12-18
+117,Burundi,2006-12-18
+128,Palestine,2006-12-18
+117,Hong Kong,2006-12-18
+115,Liberia,2006-12-18
+114,Benin,2006-12-18
+113,Korea DPR,2006-12-18
+112,Syria,2006-12-18
+111,Singapore,2006-12-18
+110,Tanzania,2006-12-18
+109,Equatorial Guinea,2006-12-18
+108,Botswana,2006-12-18
+156,El Salvador,2006-12-18
+107,Bermuda,2006-12-18
+116,Namibia,2006-12-18
+130,Seychelles,2006-12-18
+120,Sudan,2006-12-18
+132,Antigua and Barbuda,2006-12-18
+154,Myanmar,2006-12-18
+131,New Zealand,2006-12-18
+152,Malaysia,2006-12-18
+151,Laos,2006-12-18
+150,Fiji,2006-12-18
+148,Sierra Leone,2006-12-18
+148,Swaziland,2006-12-18
+147,Niger,2006-12-18
+146,Bahamas,2006-12-18
+145,Sri Lanka,2006-12-18
+144,Bangladesh,2006-12-18
+143,St. Kitts and Nevis,2006-12-18
+153,Indonesia,2006-12-18
+141,Yemen,2006-12-18
+140,Eritrea,2006-12-18
+139,Kyrgyz Republic,2006-12-18
+138,Mauritius,2006-12-18
+137,Thailand,2006-12-18
+136,Dominican Republic,2006-12-18
+135,Kazakhstan,2006-12-18
+134,Gambia,2006-12-18
+133,Mauritania,2006-12-18
+142,Chad,2006-12-18
+67,Panama,2007-12-17
+68,Iraq,2007-12-17
+69,Haiti,2007-12-17
+74,Congo DR,2007-12-17
+71,Cuba,2007-12-17
+72,Togo,2007-12-17
+73,Angola,2007-12-17
+75,Mozambique,2007-12-17
+76,Uganda,2007-12-17
+70,Costa Rica,2007-12-17
+66,Cyprus,2007-12-17
+59,Lithuania,2007-12-17
+64,Uzbekistan,2007-12-17
+63,Peru,2007-12-17
+62,Venezuela,2007-12-17
+61,Saudi Arabia,2007-12-17
+60,Belarus,2007-12-17
+58,North Macedonia,2007-12-17
+57,Wales,2007-12-17
+55,Canada,2007-12-17
+77,Georgia,2007-12-17
+56,Ecuador,2007-12-17
+65,Zambia,2007-12-17
+77,South Africa,2007-12-17
+97,Benin,2007-12-17
+80,Albania,2007-12-17
+103,Botswana,2007-12-17
+53,Honduras,2007-12-17
+102,Bahrain,2007-12-17
+101,St. Vincent / Grenadines,2007-12-17
+100,United Arab Emirates,2007-12-17
+99,Rwanda,2007-12-17
+97,Jamaica,2007-12-17
+95,New Zealand,2007-12-17
+95,Libya,2007-12-17
+94,Austria,2007-12-17
+93,Armenia,2007-12-17
+92,Sudan,2007-12-17
+91,Congo,2007-12-17
+90,Iceland,2007-12-17
+89,Tanzania,2007-12-17
+87,Zimbabwe,2007-12-17
+87,Qatar,2007-12-17
+86,Latvia,2007-12-17
+85,Equatorial Guinea,2007-12-17
+84,Oman,2007-12-17
+83,Slovenia,2007-12-17
+81,China PR,2007-12-17
+81,Trinidad and Tobago,2007-12-17
+79,Algeria,2007-12-17
+53,Slovakia,2007-12-17
+11,Greece,2007-12-17
+51,Bosnia and Herzegovina,2007-12-17
+22,Poland,2007-12-17
+21,Paraguay,2007-12-17
+20,Nigeria,2007-12-17
+19,USA,2007-12-17
+18,Bulgaria,2007-12-17
+17,Colombia,2007-12-17
+16,Turkey,2007-12-17
+15,Mexico,2007-12-17
+14,Scotland,2007-12-17
+13,Romania,2007-12-17
+23,Russia,2007-12-17
+12,England,2007-12-17
+9,Netherlands,2007-12-17
+8,Portugal,2007-12-17
+7,France,2007-12-17
+6,Czech Republic,2007-12-17
+5,Germany,2007-12-17
+4,Spain,2007-12-17
+3,Italy,2007-12-17
+2,Brazil,2007-12-17
+1,Argentina,2007-12-17
+104,Gabon,2007-12-17
+10,Croatia,2007-12-17
+24,Cameroon,2007-12-17
+24,Sweden,2007-12-17
+26,Israel,2007-12-17
+50,Hungary,2007-12-17
+49,Belgium,2007-12-17
+48,Australia,2007-12-17
+47,Tunisia,2007-12-17
+46,Mali,2007-12-17
+45,Chile,2007-12-17
+44,Switzerland,2007-12-17
+43,Ghana,2007-12-17
+42,Korea Republic,2007-12-17
+41,IR Iran,2007-12-17
+39,Egypt,2007-12-17
+39,Morocco,2007-12-17
+38,Senegal,2007-12-17
+37,Côte d'Ivoire,2007-12-17
+36,Finland,2007-12-17
+34,Japan,2007-12-17
+33,Guinea,2007-12-17
+32,Northern Ireland,2007-12-17
+31,Denmark,2007-12-17
+30,Ukraine,2007-12-17
+29,Norway,2007-12-17
+28,Uruguay,2007-12-17
+27,Serbia,2007-12-17
+52,Moldova,2007-12-17
+105,Ethiopia,2007-12-17
+35,Republic of Ireland,2007-12-17
+107,Syria,2007-12-17
+181,Turks and Caicos Islands,2007-12-17
+180,St. Lucia,2007-12-17
+179,Philippines,2007-12-17
+178,Mongolia,2007-12-17
+176,Laos,2007-12-17
+176,Grenada,2007-12-17
+175,Andorra,2007-12-17
+174,Bahamas,2007-12-17
+173,Djibouti,2007-12-17
+182,Central African Republic,2007-12-17
+172,Montenegro,2007-12-17
+170,Tonga,2007-12-17
+169,Chinese Taipei,2007-12-17
+168,Bangladesh,2007-12-17
+167,Sri Lanka,2007-12-17
+166,Dominican Republic,2007-12-17
+165,Palestine,2007-12-17
+163,Seychelles,2007-12-17
+163,Pakistan,2007-12-17
+162,Tahiti,2007-12-17
+161,Nicaragua,2007-12-17
+171,Guinea-Bissau,2007-12-17
+160,St. Kitts and Nevis,2007-12-17
+183,Cambodia,2007-12-17
+183,Papua New Guinea,2007-12-17
+201,American Samoa,2007-12-17
+201,Aruba,2007-12-17
+201,Guam,2007-12-17
+201,Montserrat,2007-12-17
+201,US Virgin Islands,2007-12-17
+201,Belize,2007-12-17
+201,Timor-Leste,2007-12-17
+200,Cook Islands,2007-12-17
+198,Anguilla,2007-12-17
+198,Bhutan,2007-12-17
+183,Netherlands Antilles,2007-12-17
+197,San Marino,2007-12-17
+195,Somalia,2007-12-17
+194,Faroe Islands,2007-12-17
+192,Cayman Islands,2007-12-17
+192,British Virgin Islands,2007-12-17
+191,Afghanistan,2007-12-17
+190,Macau,2007-12-17
+189,Dominica,2007-12-17
+188,Brunei Darussalam,2007-12-17
+187,Comoros,2007-12-17
+186,Nepal,2007-12-17
+196,Puerto Rico,2007-12-17
+159,Malaysia,2007-12-17
+208,São Tomé and Príncipe,2007-12-17
+157,Myanmar,2007-12-17
+128,Barbados,2007-12-17
+128,Guyana,2007-12-17
+127,Turkmenistan,2007-12-17
+126,Singapore,2007-12-17
+125,Hong Kong,2007-12-17
+124,Estonia,2007-12-17
+123,Solomon Islands,2007-12-17
+122,Liechtenstein,2007-12-17
+121,Thailand,2007-12-17
+120,Jordan,2007-12-17
+119,Kuwait,2007-12-17
+118,New Caledonia,2007-12-17
+117,Gambia,2007-12-17
+115,Azerbaijan,2007-12-17
+115,Korea DPR,2007-12-17
+114,Namibia,2007-12-17
+113,Burkina Faso,2007-12-17
+112,Kazakhstan,2007-12-17
+111,Cabo Verde,2007-12-17
+110,Kenya,2007-12-17
+109,Burundi,2007-12-17
+108,Bolivia,2007-12-17
+158,Mauritius,2007-12-17
+130,Mauritania,2007-12-17
+131,Fiji,2007-12-17
+106,Guatemala,2007-12-17
+133,Indonesia,2007-12-17
+132,Eritrea,2007-12-17
+156,Sierra Leone,2007-12-17
+154,Lesotho,2007-12-17
+153,Suriname,2007-12-17
+151,Antigua and Barbuda,2007-12-17
+151,Maldives,2007-12-17
+149,Madagascar,2007-12-17
+149,Luxembourg,2007-12-17
+148,Swaziland,2007-12-17
+147,Bermuda,2007-12-17
+146,Samoa,2007-12-17
+145,Liberia,2007-12-17
+155,Niger,2007-12-17
+143,India,2007-12-17
+142,Vietnam,2007-12-17
+141,Chad,2007-12-17
+134,El Salvador,2007-12-17
+140,Vanuatu,2007-12-17
+139,Kyrgyz Republic,2007-12-17
+138,Malawi,2007-12-17
+137,Tajikistan,2007-12-17
+136,Malta,2007-12-17
+134,Lebanon,2007-12-17
+144,Yemen,2007-12-17
+68,Congo,2008-12-17
+76,South Africa,2008-12-17
+75,Peru,2008-12-17
+72,Zambia,2008-12-17
+72,Uzbekistan,2008-12-17
+72,Iraq,2008-12-17
+71,Uganda,2008-12-17
+70,Angola,2008-12-17
+68,Kenya,2008-12-17
+67,Latvia,2008-12-17
+61,Bosnia and Herzegovina,2008-12-17
+65,Jamaica,2008-12-17
+64,Algeria,2008-12-17
+62,Gabon,2008-12-17
+62,Burkina Faso,2008-12-17
+60,Wales,2008-12-17
+59,Norway,2008-12-17
+58,Bolivia,2008-12-17
+57,Slovenia,2008-12-17
+56,North Macedonia,2008-12-17
+55,Finland,2008-12-17
+65,Venezuela,2008-12-17
+77,Trinidad and Tobago,2008-12-17
+102,Haiti,2008-12-17
+79,Cuba,2008-12-17
+54,Belgium,2008-12-17
+101,Benin,2008-12-17
+100,China PR,2008-12-17
+99,Tanzania,2008-12-17
+97,Moldova,2008-12-17
+97,Zimbabwe,2008-12-17
+96,Oman,2008-12-17
+95,Mozambique,2008-12-17
+94,Cyprus,2008-12-17
+93,Sudan,2008-12-17
+92,Austria,2008-12-17
+91,Congo DR,2008-12-17
+90,Canada,2008-12-17
+88,Gambia,2008-12-17
+88,Panama,2008-12-17
+86,Togo,2008-12-17
+86,New Zealand,2008-12-17
+84,Qatar,2008-12-17
+84,Belarus,2008-12-17
+83,Iceland,2008-12-17
+82,Libya,2008-12-17
+81,Albania,2008-12-17
+80,Bahrain,2008-12-17
+78,Rwanda,2008-12-17
+53,Costa Rica,2008-12-17
+27,Bulgaria,2008-12-17
+51,Lithuania,2008-12-17
+22,USA,2008-12-17
+21,Romania,2008-12-17
+20,Greece,2008-12-17
+19,Nigeria,2008-12-17
+18,Israel,2008-12-17
+17,Paraguay,2008-12-17
+16,Egypt,2008-12-17
+15,Ukraine,2008-12-17
+14,Cameroon,2008-12-17
+11,Portugal,2008-12-17
+23,Uruguay,2008-12-17
+11,France,2008-12-17
+10,Turkey,2008-12-17
+9,Russia,2008-12-17
+8,England,2008-12-17
+7,Croatia,2008-12-17
+6,Argentina,2008-12-17
+5,Brazil,2008-12-17
+4,Italy,2008-12-17
+3,Netherlands,2008-12-17
+2,Germany,2008-12-17
+103,Ethiopia,2008-12-17
+11,Czech Republic,2008-12-17
+24,Switzerland,2008-12-17
+25,Ghana,2008-12-17
+26,Mexico,2008-12-17
+50,Senegal,2008-12-17
+49,Colombia,2008-12-17
+48,Saudi Arabia,2008-12-17
+47,Hungary,2008-12-17
+46,Tunisia,2008-12-17
+45,Mali,2008-12-17
+44,Slovakia,2008-12-17
+43,IR Iran,2008-12-17
+42,Korea Republic,2008-12-17
+41,Morocco,2008-12-17
+40,Honduras,2008-12-17
+39,Guinea,2008-12-17
+38,Republic of Ireland,2008-12-17
+37,Denmark,2008-12-17
+36,Ecuador,2008-12-17
+35,Japan,2008-12-17
+34,Poland,2008-12-17
+33,Scotland,2008-12-17
+32,Sweden,2008-12-17
+31,Chile,2008-12-17
+30,Serbia,2008-12-17
+29,Côte d'Ivoire,2008-12-17
+28,Australia,2008-12-17
+52,Northern Ireland,2008-12-17
+1,Spain,2008-12-17
+104,Malawi,2008-12-17
+106,Fiji,2008-12-17
+181,Nicaragua,2008-12-17
+180,British Virgin Islands,2008-12-17
+179,Palestine,2008-12-17
+178,Cambodia,2008-12-17
+176,Samoa,2008-12-17
+176,St. Lucia,2008-12-17
+174,Nepal,2008-12-17
+174,Bangladesh,2008-12-17
+173,Belize,2008-12-17
+172,Cayman Islands,2008-12-17
+181,Brunei Darussalam,2008-12-17
+170,Bahamas,2008-12-17
+169,Laos,2008-12-17
+168,Turks and Caicos Islands,2008-12-17
+167,Chinese Taipei,2008-12-17
+166,Seychelles,2008-12-17
+165,Pakistan,2008-12-17
+163,Sri Lanka,2008-12-17
+163,Solomon Islands,2008-12-17
+162,Eritrea,2008-12-17
+161,Lesotho,2008-12-17
+160,Philippines,2008-12-17
+170,Mauritius,2008-12-17
+183,Afghanistan,2008-12-17
+184,Faroe Islands,2008-12-17
+185,Dominican Republic,2008-12-17
+208,São Tomé and Príncipe,2008-12-17
+201,Papua New Guinea,2008-12-17
+201,San Marino,2008-12-17
+201,American Samoa,2008-12-17
+201,Guam,2008-12-17
+201,Montserrat,2008-12-17
+201,Anguilla,2008-12-17
+201,Cook Islands,2008-12-17
+200,Somalia,2008-12-17
+199,Central African Republic,2008-12-17
+198,Comoros,2008-12-17
+197,Timor-Leste,2008-12-17
+196,Macau,2008-12-17
+195,US Virgin Islands,2008-12-17
+194,Andorra,2008-12-17
+193,Aruba,2008-12-17
+192,Mongolia,2008-12-17
+191,Dominica,2008-12-17
+188,Tonga,2008-12-17
+188,Tahiti,2008-12-17
+188,Djibouti,2008-12-17
+187,Bhutan,2008-12-17
+186,Guinea-Bissau,2008-12-17
+158,Mauritania,2008-12-17
+158,Kyrgyz Republic,2008-12-17
+105,Syria,2008-12-17
+156,Malaysia,2008-12-17
+128,Antigua and Barbuda,2008-12-17
+127,Kuwait,2008-12-17
+126,Thailand,2008-12-17
+124,Bermuda,2008-12-17
+124,Jordan,2008-12-17
+123,Equatorial Guinea,2008-12-17
+122,Barbados,2008-12-17
+121,Luxembourg,2008-12-17
+119,Estonia,2008-12-17
+118,Grenada,2008-12-17
+129,Suriname,2008-12-17
+117,Botswana,2008-12-17
+115,Namibia,2008-12-17
+113,Korea DPR,2008-12-17
+113,Armenia,2008-12-17
+112,Montenegro,2008-12-17
+111,El Salvador,2008-12-17
+110,United Arab Emirates,2008-12-17
+109,Guatemala,2008-12-17
+108,Georgia,2008-12-17
+107,Cabo Verde,2008-12-17
+156,Myanmar,2008-12-17
+116,Sierra Leone,2008-12-17
+130,New Caledonia,2008-12-17
+119,Chad,2008-12-17
+132,Singapore,2008-12-17
+131,Guyana,2008-12-17
+154,Maldives,2008-12-17
+152,Netherlands Antilles,2008-12-17
+152,St. Kitts and Nevis,2008-12-17
+151,Hong Kong,2008-12-17
+150,Lebanon,2008-12-17
+149,Liechtenstein,2008-12-17
+147,Malta,2008-12-17
+146,Tajikistan,2008-12-17
+145,Yemen,2008-12-17
+143,Niger,2008-12-17
+148,Turkmenistan,2008-12-17
+155,Vietnam,2008-12-17
+133,St. Vincent / Grenadines,2008-12-17
+143,India,2008-12-17
+135,Madagascar,2008-12-17
+136,Burundi,2008-12-17
+137,Kazakhstan,2008-12-17
+134,Azerbaijan,2008-12-17
+139,Indonesia,2008-12-17
+139,Liberia,2008-12-17
+141,Vanuatu,2008-12-17
+142,Puerto Rico,2008-12-17
+138,Swaziland,2008-12-17
+75,Uganda,2009-12-16
+74,Montenegro,2009-12-16
+73,Guinea,2009-12-16
+72,Mozambique,2009-12-16
+71,Togo,2009-12-16
+70,Panama,2009-12-16
+68,Peru,2009-12-16
+68,Cyprus,2009-12-16
+67,Morocco,2009-12-16
+66,Belgium,2009-12-16
+54,Hungary,2009-12-16
+64,IR Iran,2009-12-16
+63,Saudi Arabia,2009-12-16
+62,Lithuania,2009-12-16
+61,Austria,2009-12-16
+60,Bahrain,2009-12-16
+59,Benin,2009-12-16
+58,Poland,2009-12-16
+56,Canada,2009-12-16
+56,Bolivia,2009-12-16
+55,Finland,2009-12-16
+76,Uzbekistan,2009-12-16
+65,North Macedonia,2009-12-16
+77,Wales,2009-12-16
+90,Haiti,2009-12-16
+80,Belarus,2009-12-16
+53,Tunisia,2009-12-16
+102,Rwanda,2009-12-16
+101,Congo,2009-12-16
+100,Armenia,2009-12-16
+99,Malawi,2009-12-16
+98,Kenya,2009-12-16
+97,Cabo Verde,2009-12-16
+96,Albania,2009-12-16
+95,Angola,2009-12-16
+94,Moldova,2009-12-16
+78,El Salvador,2009-12-16
+93,China PR,2009-12-16
+91,Syria,2009-12-16
+89,Senegal,2009-12-16
+88,Iraq,2009-12-16
+86,Qatar,2009-12-16
+86,Korea DPR,2009-12-16
+85,South Africa,2009-12-16
+84,Zambia,2009-12-16
+82,New Zealand,2009-12-16
+82,Trinidad and Tobago,2009-12-16
+81,Jamaica,2009-12-16
+92,Iceland,2009-12-16
+52,Korea Republic,2009-12-16
+26,Israel,2009-12-16
+50,Venezuela,2009-12-16
+22,Nigeria,2009-12-16
+21,Australia,2009-12-16
+20,Uruguay,2009-12-16
+19,Serbia,2009-12-16
+18,Switzerland,2009-12-16
+17,Mexico,2009-12-16
+16,Côte d'Ivoire,2009-12-16
+15,Chile,2009-12-16
+14,USA,2009-12-16
+13,Greece,2009-12-16
+22,Ukraine,2009-12-16
+12,Russia,2009-12-16
+10,Croatia,2009-12-16
+9,England,2009-12-16
+8,Argentina,2009-12-16
+7,France,2009-12-16
+6,Germany,2009-12-16
+5,Portugal,2009-12-16
+4,Italy,2009-12-16
+3,Netherlands,2009-12-16
+2,Brazil,2009-12-16
+1,Spain,2009-12-16
+11,Cameroon,2009-12-16
+24,Egypt,2009-12-16
+25,Czech Republic,2009-12-16
+102,Estonia,2009-12-16
+49,Burkina Faso,2009-12-16
+48,Gabon,2009-12-16
+47,Mali,2009-12-16
+46,Scotland,2009-12-16
+45,Latvia,2009-12-16
+44,Costa Rica,2009-12-16
+43,Japan,2009-12-16
+42,Sweden,2009-12-16
+41,Turkey,2009-12-16
+40,Northern Ireland,2009-12-16
+39,Colombia,2009-12-16
+37,Ecuador,2009-12-16
+37,Honduras,2009-12-16
+36,Romania,2009-12-16
+35,Republic of Ireland,2009-12-16
+34,Ghana,2009-12-16
+33,Slovakia,2009-12-16
+32,Norway,2009-12-16
+31,Slovenia,2009-12-16
+30,Bulgaria,2009-12-16
+29,Paraguay,2009-12-16
+28,Denmark,2009-12-16
+26,Algeria,2009-12-16
+51,Bosnia and Herzegovina,2009-12-16
+104,Kuwait,2009-12-16
+79,Oman,2009-12-16
+106,Tanzania,2009-12-16
+181,Mauritius,2009-12-16
+180,Bahamas,2009-12-16
+178,Seychelles,2009-12-16
+178,Laos,2009-12-16
+177,Turks and Caicos Islands,2009-12-16
+176,Comoros,2009-12-16
+175,Cambodia,2009-12-16
+173,Palestine,2009-12-16
+173,Belize,2009-12-16
+172,Solomon Islands,2009-12-16
+182,Samoa,2009-12-16
+171,Mongolia,2009-12-16
+169,Mauritania,2009-12-16
+168,Netherlands Antilles,2009-12-16
+167,Philippines,2009-12-16
+165,Tajikistan,2009-12-16
+165,Puerto Rico,2009-12-16
+163,Niger,2009-12-16
+163,Eritrea,2009-12-16
+162,Chinese Taipei,2009-12-16
+161,Liberia,2009-12-16
+160,Malaysia,2009-12-16
+170,Somalia,2009-12-16
+183,Cayman Islands,2009-12-16
+184,Guam,2009-12-16
+184,Cook Islands,2009-12-16
+105,Thailand,2009-12-16
+203,Anguilla,2009-12-16
+203,Montserrat,2009-12-16
+203,American Samoa,2009-12-16
+203,Papua New Guinea,2009-12-16
+203,San Marino,2009-12-16
+202,Andorra,2009-12-16
+200,Timor-Leste,2009-12-16
+200,Central African Republic,2009-12-16
+199,US Virgin Islands,2009-12-16
+198,Aruba,2009-12-16
+197,Dominica,2009-12-16
+196,Bhutan,2009-12-16
+194,Tahiti,2009-12-16
+194,Guinea-Bissau,2009-12-16
+193,Afghanistan,2009-12-16
+191,British Virgin Islands,2009-12-16
+191,Brunei Darussalam,2009-12-16
+190,Dominican Republic,2009-12-16
+189,Djibouti,2009-12-16
+188,Tonga,2009-12-16
+187,Macau,2009-12-16
+186,St. Lucia,2009-12-16
+159,Kyrgyz Republic,2009-12-16
+158,Madagascar,2009-12-16
+208,São Tomé and Príncipe,2009-12-16
+156,St. Kitts and Nevis,2009-12-16
+129,Barbados,2009-12-16
+128,Luxembourg,2009-12-16
+127,Guyana,2009-12-16
+126,Burundi,2009-12-16
+125,Kazakhstan,2009-12-16
+124,Georgia,2009-12-16
+123,Vietnam,2009-12-16
+122,Ethiopia,2009-12-16
+121,Guatemala,2009-12-16
+120,Indonesia,2009-12-16
+130,Antigua and Barbuda,2009-12-16
+119,Cuba,2009-12-16
+117,Faroe Islands,2009-12-16
+116,Gambia,2009-12-16
+115,Libya,2009-12-16
+114,Azerbaijan,2009-12-16
+113,Namibia,2009-12-16
+112,United Arab Emirates,2009-12-16
+111,Jordan,2009-12-16
+110,Singapore,2009-12-16
+109,Zimbabwe,2009-12-16
+156,Pakistan,2009-12-16
+118,Botswana,2009-12-16
+130,Yemen,2009-12-16
+107,Congo DR,2009-12-16
+149,Bangladesh,2009-12-16
+155,Vanuatu,2009-12-16
+154,Liechtenstein,2009-12-16
+152,Nepal,2009-12-16
+152,St. Vincent / Grenadines,2009-12-16
+151,Sri Lanka,2009-12-16
+150,Lesotho,2009-12-16
+132,Fiji,2009-12-16
+148,Lebanon,2009-12-16
+147,New Caledonia,2009-12-16
+146,Malta,2009-12-16
+144,Suriname,2009-12-16
+145,Chad,2009-12-16
+142,Bermuda,2009-12-16
+141,Turkmenistan,2009-12-16
+140,Myanmar,2009-12-16
+138,Grenada,2009-12-16
+138,Sierra Leone,2009-12-16
+137,Maldives,2009-12-16
+135,Swaziland,2009-12-16
+135,Equatorial Guinea,2009-12-16
+134,India,2009-12-16
+133,Nicaragua,2009-12-16
+143,Hong Kong,2009-12-16
+66,IR Iran,2010-12-15
+67,Mali,2010-12-15
+68,Peru,2010-12-15
+69,Costa Rica,2010-12-15
+73,Georgia,2010-12-15
+71,Benin,2010-12-15
+72,Libya,2010-12-15
+73,Poland,2010-12-15
+70,Senegal,2010-12-15
+65,Albania,2010-12-15
+53,Botswana,2010-12-15
+63,New Zealand,2010-12-15
+62,Cuba,2010-12-15
+60,Venezuela,2010-12-15
+60,Armenia,2010-12-15
+59,Honduras,2010-12-15
+58,Jamaica,2010-12-15
+57,Belgium,2010-12-15
+56,Romania,2010-12-15
+55,Lithuania,2010-12-15
+53,Ecuador,2010-12-15
+75,Cabo Verde,2010-12-15
+64,Panama,2010-12-15
+76,North Macedonia,2010-12-15
+89,Trinidad and Tobago,2010-12-15
+78,Latvia,2010-12-15
+102,Kuwait,2010-12-15
+100,Gambia,2010-12-15
+100,Iraq,2010-12-15
+99,Oman,2010-12-15
+98,Azerbaijan,2010-12-15
+97,Bolivia,2010-12-15
+96,Mozambique,2010-12-15
+94,Niger,2010-12-15
+94,Grenada,2010-12-15
+93,Bahrain,2010-12-15
+1,Spain,2010-12-15
+91,Cyprus,2010-12-15
+88,Angola,2010-12-15
+87,China PR,2010-12-15
+86,Malawi,2010-12-15
+84,Canada,2010-12-15
+84,Moldova,2010-12-15
+83,Finland,2010-12-15
+82,Estonia,2010-12-15
+80,Uganda,2010-12-15
+80,Saudi Arabia,2010-12-15
+79,Morocco,2010-12-15
+90,Haiti,2010-12-15
+52,Scotland,2010-12-15
+103,Togo,2010-12-15
+50,Israel,2010-12-15
+23,Serbia,2010-12-15
+22,Switzerland,2010-12-15
+21,Côte d'Ivoire,2010-12-15
+20,Slovakia,2010-12-15
+18,France,2010-12-15
+18,USA,2010-12-15
+17,Slovenia,2010-12-15
+16,Ghana,2010-12-15
+15,Chile,2010-12-15
+14,Italy,2010-12-15
+24,Paraguay,2010-12-15
+13,Russia,2010-12-15
+11,Greece,2010-12-15
+10,Croatia,2010-12-15
+9,Egypt,2010-12-15
+8,Portugal,2010-12-15
+7,Uruguay,2010-12-15
+6,England,2010-12-15
+5,Argentina,2010-12-15
+4,Brazil,2010-12-15
+3,Germany,2010-12-15
+2,Netherlands,2010-12-15
+12,Norway,2010-12-15
+51,South Africa,2010-12-15
+25,Montenegro,2010-12-15
+27,Mexico,2010-12-15
+49,Bulgaria,2010-12-15
+48,Colombia,2010-12-15
+46,Austria,2010-12-15
+46,Guinea,2010-12-15
+45,Tunisia,2010-12-15
+44,Bosnia and Herzegovina,2010-12-15
+43,Northern Ireland,2010-12-15
+42,Hungary,2010-12-15
+41,Burkina Faso,2010-12-15
+40,Korea Republic,2010-12-15
+26,Australia,2010-12-15
+39,Gabon,2010-12-15
+37,Cameroon,2010-12-15
+36,Republic of Ireland,2010-12-15
+35,Algeria,2010-12-15
+34,Ukraine,2010-12-15
+33,Sweden,2010-12-15
+32,Nigeria,2010-12-15
+31,Turkey,2010-12-15
+30,Czech Republic,2010-12-15
+29,Japan,2010-12-15
+28,Denmark,2010-12-15
+38,Belarus,2010-12-15
+105,United Arab Emirates,2010-12-15
+76,Zambia,2010-12-15
+107,Syria,2010-12-15
+182,Mongolia,2010-12-15
+181,St. Lucia,2010-12-15
+180,Mauritania,2010-12-15
+177,Palestine,2010-12-15
+177,Eritrea,2010-12-15
+177,Solomon Islands,2010-12-15
+176,British Virgin Islands,2010-12-15
+175,Bermuda,2010-12-15
+174,Kyrgyz Republic,2010-12-15
+172,Belize,2010-12-15
+182,Somalia,2010-12-15
+172,Nepal,2010-12-15
+170,Lesotho,2010-12-15
+169,Laos,2010-12-15
+168,Dominican Republic,2010-12-15
+167,Vanuatu,2010-12-15
+166,Cambodia,2010-12-15
+165,Equatorial Guinea,2010-12-15
+164,Malta,2010-12-15
+163,Sri Lanka,2010-12-15
+162,Maldives,2010-12-15
+160,Liberia,2010-12-15
+171,Pakistan,2010-12-15
+184,Tahiti,2010-12-15
+185,Samoa,2010-12-15
+186,Comoros,2010-12-15
+106,Antigua and Barbuda,2010-12-15
+208,São Tomé and Príncipe,2010-12-15
+203,Montserrat,2010-12-15
+203,San Marino,2010-12-15
+203,American Samoa,2010-12-15
+203,Anguilla,2010-12-15
+203,Papua New Guinea,2010-12-15
+202,Andorra,2010-12-15
+201,Timor-Leste,2010-12-15
+200,US Virgin Islands,2010-12-15
+199,Aruba,2010-12-15
+197,Brunei Darussalam,2010-12-15
+197,Bhutan,2010-12-15
+195,Seychelles,2010-12-15
+195,Afghanistan,2010-12-15
+194,Bahamas,2010-12-15
+193,Macau,2010-12-15
+191,Mauritius,2010-12-15
+191,Djibouti,2010-12-15
+188,Tonga,2010-12-15
+188,Guam,2010-12-15
+188,Cook Islands,2010-12-15
+187,Turks and Caicos Islands,2010-12-15
+160,Swaziland,2010-12-15
+159,Bangladesh,2010-12-15
+104,Jordan,2010-12-15
+157,Cayman Islands,2010-12-15
+129,Dominica,2010-12-15
+128,Burundi,2010-12-15
+127,Indonesia,2010-12-15
+126,Yemen,2010-12-15
+125,Sierra Leone,2010-12-15
+124,Ethiopia,2010-12-15
+121,Congo,2010-12-15
+121,Thailand,2010-12-15
+121,St. Kitts and Nevis,2010-12-15
+120,Kenya,2010-12-15
+130,Congo DR,2010-12-15
+119,Zimbabwe,2010-12-15
+117,El Salvador,2010-12-15
+116,Tanzania,2010-12-15
+115,Suriname,2010-12-15
+112,Qatar,2010-12-15
+112,Wales,2010-12-15
+112,Iceland,2010-12-15
+111,Central African Republic,2010-12-15
+109,Uzbekistan,2010-12-15
+109,Guyana,2010-12-15
+108,Korea DPR,2010-12-15
+118,Guatemala,2010-12-15
+131,Barbados,2010-12-15
+158,Nicaragua,2010-12-15
+133,Puerto Rico,2010-12-15
+156,New Caledonia,2010-12-15
+155,Madagascar,2010-12-15
+154,Lebanon,2010-12-15
+153,Chinese Taipei,2010-12-15
+152,Fiji,2010-12-15
+151,Netherlands Antilles,2010-12-15
+132,Rwanda,2010-12-15
+149,Philippines,2010-12-15
+148,Liechtenstein,2010-12-15
+147,Guinea-Bissau,2010-12-15
+146,Hong Kong,2010-12-15
+149,Myanmar,2010-12-15
+144,Malaysia,2010-12-15
+145,Tajikistan,2010-12-15
+135,Turkmenistan,2010-12-15
+136,Faroe Islands,2010-12-15
+137,Vietnam,2010-12-15
+138,Namibia,2010-12-15
+134,Luxembourg,2010-12-15
+140,Singapore,2010-12-15
+141,Chad,2010-12-15
+142,St. Vincent / Grenadines,2010-12-15
+142,India,2010-12-15
+138,Kazakhstan,2010-12-15
+67,Mali,2011-12-21
+68,Latvia,2011-12-21
+69,El Salvador,2011-12-21
+70,Austria,2011-12-21
+75,Uzbekistan,2011-12-21
+72,Canada,2011-12-21
+73,Georgia,2011-12-21
+74,Albania,2011-12-21
+54,Jamaica,2011-12-21
+71,China PR,2011-12-21
+66,Poland,2011-12-21
+61,Morocco,2011-12-21
+64,Belarus,2011-12-21
+63,Libya,2011-12-21
+62,Burkina Faso,2011-12-21
+60,Sierra Leone,2011-12-21
+59,Tunisia,2011-12-21
+58,Cabo Verde,2011-12-21
+57,Estonia,2011-12-21
+56,Romania,2011-12-21
+55,Ukraine,2011-12-21
+76,Trinidad and Tobago,2011-12-21
+65,Costa Rica,2011-12-21
+77,Gabon,2011-12-21
+89,Uganda,2011-12-21
+79,Zambia,2011-12-21
+53,Honduras,2011-12-21
+101,Bahrain,2011-12-21
+99,Vietnam,2011-12-21
+99,Kuwait,2011-12-21
+98,Zimbabwe,2011-12-21
+97,Niger,2011-12-21
+96,Saudi Arabia,2011-12-21
+95,Botswana,2011-12-21
+94,Malawi,2011-12-21
+93,Qatar,2011-12-21
+78,Iraq,2011-12-21
+92,Lithuania,2011-12-21
+90,Guatemala,2011-12-21
+88,Northern Ireland,2011-12-21
+87,Antigua and Barbuda,2011-12-21
+86,Finland,2011-12-21
+85,Oman,2011-12-21
+84,Bulgaria,2011-12-21
+83,Angola,2011-12-21
+82,Jordan,2011-12-21
+81,Haiti,2011-12-21
+80,Guinea,2011-12-21
+91,Guyana,2011-12-21
+52,South Africa,2011-12-21
+101,Togo,2011-12-21
+50,Cameroon,2011-12-21
+22,Republic of Ireland,2011-12-21
+21,Mexico,2011-12-21
+20,Bosnia and Herzegovina,2011-12-21
+19,Japan,2011-12-21
+18,Sweden,2011-12-21
+17,Switzerland,2011-12-21
+16,Côte d'Ivoire,2011-12-21
+15,France,2011-12-21
+14,Greece,2011-12-21
+13,Chile,2011-12-21
+23,Australia,2011-12-21
+12,Russia,2011-12-21
+10,Argentina,2011-12-21
+9,Italy,2011-12-21
+8,Croatia,2011-12-21
+7,Portugal,2011-12-21
+6,Brazil,2011-12-21
+5,England,2011-12-21
+4,Uruguay,2011-12-21
+3,Germany,2011-12-21
+2,Netherlands,2011-12-21
+1,Spain,2011-12-21
+11,Denmark,2011-12-21
+24,Paraguay,2011-12-21
+25,Norway,2011-12-21
+26,Slovenia,2011-12-21
+49,Panama,2011-12-21
+48,Wales,2011-12-21
+47,Scotland,2011-12-21
+46,Armenia,2011-12-21
+45,IR Iran,2011-12-21
+44,Senegal,2011-12-21
+43,Nigeria,2011-12-21
+42,Ecuador,2011-12-21
+41,Belgium,2011-12-21
+40,Slovakia,2011-12-21
+39,Venezuela,2011-12-21
+37,Israel,2011-12-21
+37,Hungary,2011-12-21
+36,Colombia,2011-12-21
+35,Peru,2011-12-21
+34,USA,2011-12-21
+33,Czech Republic,2011-12-21
+32,Korea Republic,2011-12-21
+31,Egypt,2011-12-21
+30,Algeria,2011-12-21
+29,Ghana,2011-12-21
+28,Turkey,2011-12-21
+27,Serbia,2011-12-21
+51,Montenegro,2011-12-21
+103,North Macedonia,2011-12-21
+146,Turkmenistan,2011-12-21
+105,Mozambique,2011-12-21
+180,Sri Lanka,2011-12-21
+180,Solomon Islands,2011-12-21
+179,Pakistan,2011-12-21
+178,US Virgin Islands,2011-12-21
+177,Afghanistan,2011-12-21
+176,Tonga,2011-12-21
+174,Vanuatu,2011-12-21
+174,Laos,2011-12-21
+173,Maldives,2011-12-21
+172,Myanmar,2011-12-21
+180,Swaziland,2011-12-21
+171,Dominica,2011-12-21
+169,Hong Kong,2011-12-21
+168,Mongolia,2011-12-21
+167,Chinese Taipei,2011-12-21
+166,New Caledonia,2011-12-21
+165,Barbados,2011-12-21
+164,Aruba,2011-12-21
+163,Guinea-Bissau,2011-12-21
+162,India,2011-12-21
+161,Fiji,2011-12-21
+160,Madagascar,2011-12-21
+170,Cambodia,2011-12-21
+183,Cayman Islands,2011-12-21
+184,Tahiti,2011-12-21
+185,St. Lucia,2011-12-21
+206,San Marino,2011-12-21
+206,Montserrat,2011-12-21
+206,Andorra,2011-12-21
+205,Timor-Leste,2011-12-21
+204,Mauritania,2011-12-21
+202,Brunei Darussalam,2011-12-21
+202,Bhutan,2011-12-21
+201,Anguilla,2011-12-21
+200,Turks and Caicos Islands,2011-12-21
+199,British Virgin Islands,2011-12-21
+198,Djibouti,2011-12-21
+197,Macau,2011-12-21
+196,São Tomé and Príncipe,2011-12-21
+195,Cook Islands,2011-12-21
+194,Mauritius,2011-12-21
+193,Papua New Guinea,2011-12-21
+192,Guam,2011-12-21
+191,Kyrgyz Republic,2011-12-21
+190,Eritrea,2011-12-21
+189,Somalia,2011-12-21
+188,Seychelles,2011-12-21
+187,Comoros,2011-12-21
+186,American Samoa,2011-12-21
+159,Philippines,2011-12-21
+158,Palestine,2011-12-21
+104,Iceland,2011-12-21
+156,Malta,2011-12-21
+128,Luxembourg,2011-12-21
+127,Cyprus,2011-12-21
+125,Suriname,2011-12-21
+125,Congo DR,2011-12-21
+124,Benin,2011-12-21
+123,Liberia,2011-12-21
+122,Thailand,2011-12-21
+121,Namibia,2011-12-21
+120,Kenya,2011-12-21
+119,New Zealand,2011-12-21
+129,Central African Republic,2011-12-21
+116,St. Kitts and Nevis,2011-12-21
+116,Faroe Islands,2011-12-21
+115,Cuba,2011-12-21
+114,Syria,2011-12-21
+113,Sudan,2011-12-21
+112,Azerbaijan,2011-12-21
+111,Lebanon,2011-12-21
+110,Korea DPR,2011-12-21
+108,Puerto Rico,2011-12-21
+108,Bolivia,2011-12-21
+107,Bermuda,2011-12-21
+116,Gambia,2011-12-21
+130,United Arab Emirates,2011-12-21
+157,Bangladesh,2011-12-21
+132,Liechtenstein,2011-12-21
+154,Nicaragua,2011-12-21
+154,Bahamas,2011-12-21
+153,Nepal,2011-12-21
+151,Yemen,2011-12-21
+151,Curaçao,2011-12-21
+150,Equatorial Guinea,2011-12-21
+131,Dominican Republic,2011-12-21
+148,Malaysia,2011-12-21
+147,Lesotho,2011-12-21
+106,Rwanda,2011-12-21
+145,Singapore,2011-12-21
+149,Samoa,2011-12-21
+143,Chad,2011-12-21
+144,St. Vincent / Grenadines,2011-12-21
+134,Grenada,2011-12-21
+135,Ethiopia,2011-12-21
+136,Moldova,2011-12-21
+137,Tanzania,2011-12-21
+133,Congo,2011-12-21
+139,Tajikistan,2011-12-21
+140,Burundi,2011-12-21
+141,Belize,2011-12-21
+142,Indonesia,2011-12-21
+138,Kazakhstan,2011-12-21
+67,Uzbekistan,2012-12-19
+75,Armenia,2012-12-19
+74,Morocco,2012-12-19
+73,Georgia,2012-12-19
+72,Scotland,2012-12-19
+71,Togo,2012-12-19
+70,Austria,2012-12-19
+69,Cabo Verde,2012-12-19
+68,Trinidad and Tobago,2012-12-19
+66,Costa Rica,2012-12-19
+54,Libya,2012-12-19
+64,Canada,2012-12-19
+63,Albania,2012-12-19
+62,Sierra Leone,2012-12-19
+61,Cameroon,2012-12-19
+60,Guinea,2012-12-19
+59,IR Iran,2012-12-19
+58,Honduras,2012-12-19
+57,Venezuela,2012-12-19
+56,Jamaica,2012-12-19
+55,Poland,2012-12-19
+75,Benin,2012-12-19
+65,Belarus,2012-12-19
+77,Senegal,2012-12-19
+88,China PR,2012-12-19
+79,Equatorial Guinea,2012-12-19
+52,Nigeria,2012-12-19
+101,Sudan,2012-12-19
+100,Cuba,2012-12-19
+99,Korea DPR,2012-12-19
+98,Qatar,2012-12-19
+96,United Arab Emirates,2012-12-19
+96,Northern Ireland,2012-12-19
+95,Oman,2012-12-19
+94,Jordan,2012-12-19
+93,Dominican Republic,2012-12-19
+92,Iraq,2012-12-19
+91,New Zealand,2012-12-19
+90,Iceland,2012-12-19
+89,Burkina Faso,2012-12-19
+101,Zimbabwe,2012-12-19
+87,South Africa,2012-12-19
+86,Estonia,2012-12-19
+84,Uganda,2012-12-19
+84,Angola,2012-12-19
+83,Finland,2012-12-19
+82,Wales,2012-12-19
+81,North Macedonia,2012-12-19
+80,Guatemala,2012-12-19
+78,Israel,2012-12-19
+52,Central African Republic,2012-12-19
+27,Bosnia and Herzegovina,2012-12-19
+50,Bulgaria,2012-12-19
+21,Belgium,2012-12-19
+20,Sweden,2012-12-19
+19,Algeria,2012-12-19
+18,Brazil,2012-12-19
+17,France,2012-12-19
+16,Uruguay,2012-12-19
+15,Mexico,2012-12-19
+14,Côte d'Ivoire,2012-12-19
+13,Ecuador,2012-12-19
+12,Switzerland,2012-12-19
+22,Japan,2012-12-19
+11,Greece,2012-12-19
+9,Russia,2012-12-19
+8,Netherlands,2012-12-19
+7,Portugal,2012-12-19
+6,England,2012-12-19
+5,Colombia,2012-12-19
+4,Italy,2012-12-19
+3,Argentina,2012-12-19
+2,Germany,2012-12-19
+1,Spain,2012-12-19
+103,El Salvador,2012-12-19
+10,Croatia,2012-12-19
+23,Denmark,2012-12-19
+24,Norway,2012-12-19
+25,Mali,2012-12-19
+49,Slovenia,2012-12-19
+47,Ukraine,2012-12-19
+47,Slovakia,2012-12-19
+46,Peru,2012-12-19
+45,Tunisia,2012-12-19
+42,Republic of Ireland,2012-12-19
+42,Gabon,2012-12-19
+42,Bolivia,2012-12-19
+41,Egypt,2012-12-19
+40,Turkey,2012-12-19
+39,Haiti,2012-12-19
+38,Serbia,2012-12-19
+37,Paraguay,2012-12-19
+36,Australia,2012-12-19
+35,Korea Republic,2012-12-19
+34,Zambia,2012-12-19
+33,Romania,2012-12-19
+32,Hungary,2012-12-19
+31,Montenegro,2012-12-19
+30,Ghana,2012-12-19
+29,Czech Republic,2012-12-19
+28,USA,2012-12-19
+26,Chile,2012-12-19
+51,Panama,2012-12-19
+104,Burundi,2012-12-19
+182,Brunei Darussalam,2012-12-19
+106,Latvia,2012-12-19
+181,Guam,2012-12-19
+179,Mongolia,2012-12-19
+179,Madagascar,2012-12-19
+178,Swaziland,2012-12-19
+177,Curaçao,2012-12-19
+174,Montserrat,2012-12-19
+174,Guinea-Bissau,2012-12-19
+174,Bahamas,2012-12-19
+173,Samoa,2012-12-19
+171,Nepal,2012-12-19
+182,Timor-Leste,2012-12-19
+171,Laos,2012-12-19
+169,Chinese Taipei,2012-12-19
+168,Bangladesh,2012-12-19
+167,Belize,2012-12-19
+166,India,2012-12-19
+165,Vanuatu,2012-12-19
+164,Yemen,2012-12-19
+163,Hong Kong,2012-12-19
+162,Myanmar,2012-12-19
+161,Dominica,2012-12-19
+159,Maldives,2012-12-19
+169,Fiji,2012-12-19
+184,Cambodia,2012-12-19
+185,Tonga,2012-12-19
+186,Afghanistan,2012-12-19
+105,Niger,2012-12-19
+207,San Marino,2012-12-19
+207,Bhutan,2012-12-19
+206,Mauritania,2012-12-19
+205,Anguilla,2012-12-19
+204,Andorra,2012-12-19
+202,Mauritius,2012-12-19
+202,Djibouti,2012-12-19
+201,Cook Islands,2012-12-19
+199,South Sudan,2012-12-19
+199,Kyrgyz Republic,2012-12-19
+198,Macau,2012-12-19
+196,Seychelles,2012-12-19
+196,Eritrea,2012-12-19
+195,Somalia,2012-12-19
+194,Comoros,2012-12-19
+193,American Samoa,2012-12-19
+192,Cayman Islands,2012-12-19
+191,British Virgin Islands,2012-12-19
+190,Sri Lanka,2012-12-19
+189,Pakistan,2012-12-19
+188,Papua New Guinea,2012-12-19
+186,US Virgin Islands,2012-12-19
+159,Lesotho,2012-12-19
+158,Malaysia,2012-12-19
+207,Turks and Caicos Islands,2012-12-19
+156,Indonesia,2012-12-19
+129,Turkmenistan,2012-12-19
+128,Moldova,2012-12-19
+127,Lebanon,2012-12-19
+126,Saudi Arabia,2012-12-19
+125,St. Vincent / Grenadines,2012-12-19
+124,Guyana,2012-12-19
+123,St. Kitts and Nevis,2012-12-19
+121,Namibia,2012-12-19
+121,Botswana,2012-12-19
+119,São Tomé and Príncipe,2012-12-19
+119,Bahrain,2012-12-19
+118,Azerbaijan,2012-12-19
+117,Kuwait,2012-12-19
+116,Lithuania,2012-12-19
+115,Antigua and Barbuda,2012-12-19
+114,Suriname,2012-12-19
+112,Mozambique,2012-12-19
+112,Liberia,2012-12-19
+111,Malawi,2012-12-19
+110,Ethiopia,2012-12-19
+109,Congo,2012-12-19
+108,New Caledonia,2012-12-19
+157,Bermuda,2012-12-19
+130,Tanzania,2012-12-19
+131,Vietnam,2012-12-19
+107,Congo DR,2012-12-19
+132,Puerto Rico,2012-12-19
+132,Cyprus,2012-12-19
+154,Liechtenstein,2012-12-19
+153,Faroe Islands,2012-12-19
+152,Palestine,2012-12-19
+151,Aruba,2012-12-19
+150,Solomon Islands,2012-12-19
+149,St. Lucia,2012-12-19
+147,Philippines,2012-12-19
+146,Malta,2012-12-19
+145,Nicaragua,2012-12-19
+144,Syria,2012-12-19
+148,Luxembourg,2012-12-19
+142,Kazakhstan,2012-12-19
+141,Gambia,2012-12-19
+140,Chad,2012-12-19
+139,Tahiti,2012-12-19
+138,Grenada,2012-12-19
+136,Thailand,2012-12-19
+136,Tajikistan,2012-12-19
+134,Rwanda,2012-12-19
+134,Kenya,2012-12-19
+143,Barbados,2012-12-19
+154,Singapore,2012-12-19
+67,Republic of Ireland,2013-12-19
+76,Poland,2013-12-19
+75,Sierra Leone,2013-12-19
+74,Bulgaria,2013-12-19
+73,Morocco,2013-12-19
+72,Togo,2013-12-19
+71,United Arab Emirates,2013-12-19
+70,Bolivia,2013-12-19
+69,Zambia,2013-12-19
+68,Uzbekistan,2013-12-19
+65,Jordan,2013-12-19
+54,Korea Republic,2013-12-19
+64,Finland,2013-12-19
+63,Israel,2013-12-19
+62,South Africa,2013-12-19
+61,Guinea,2013-12-19
+60,Slovakia,2013-12-19
+59,Libya,2013-12-19
+58,Australia,2013-12-19
+57,Albania,2013-12-19
+56,Wales,2013-12-19
+77,Gabon,2013-12-19
+54,Norway,2013-12-19
+65,Senegal,2013-12-19
+78,Trinidad and Tobago,2013-12-19
+90,New Zealand,2013-12-19
+80,Jamaica,2013-12-19
+103,Qatar,2013-12-19
+102,Lithuania,2013-12-19
+101,Georgia,2013-12-19
+100,Cuba,2013-12-19
+99,Benin,2013-12-19
+98,Liberia,2013-12-19
+97,Botswana,2013-12-19
+96,Moldova,2013-12-19
+94,Estonia,2013-12-19
+94,Azerbaijan,2013-12-19
+79,Haiti,2013-12-19
+93,Ethiopia,2013-12-19
+90,El Salvador,2013-12-19
+89,Northern Ireland,2013-12-19
+88,Angola,2013-12-19
+87,Saudi Arabia,2013-12-19
+86,Uganda,2013-12-19
+85,Oman,2013-12-19
+84,Congo,2013-12-19
+83,North Macedonia,2013-12-19
+82,Congo DR,2013-12-19
+81,Belarus,2013-12-19
+92,China PR,2013-12-19
+53,Burkina Faso,2013-12-19
+104,Niger,2013-12-19
+51,Paraguay,2013-12-19
+23,Ecuador,2013-12-19
+22,Russia,2013-12-19
+21,Mexico,2013-12-19
+20,France,2013-12-19
+19,Bosnia and Herzegovina,2013-12-19
+18,Ukraine,2013-12-19
+17,Côte d'Ivoire,2013-12-19
+16,Croatia,2013-12-19
+15,Chile,2013-12-19
+14,USA,2013-12-19
+13,England,2013-12-19
+12,Greece,2013-12-19
+11,Belgium,2013-12-19
+10,Brazil,2013-12-19
+9,Netherlands,2013-12-19
+8,Switzerland,2013-12-19
+7,Italy,2013-12-19
+6,Uruguay,2013-12-19
+5,Portugal,2013-12-19
+4,Colombia,2013-12-19
+3,Argentina,2013-12-19
+2,Germany,2013-12-19
+1,Spain,2013-12-19
+24,Ghana,2013-12-19
+52,Montenegro,2013-12-19
+25,Denmark,2013-12-19
+27,Sweden,2013-12-19
+50,Cameroon,2013-12-19
+49,Iceland,2013-12-19
+48,Tunisia,2013-12-19
+47,Japan,2013-12-19
+46,Austria,2013-12-19
+45,Mali,2013-12-19
+44,Hungary,2013-12-19
+43,Turkey,2013-12-19
+42,Honduras,2013-12-19
+41,Egypt,2013-12-19
+39,Peru,2013-12-19
+39,Cabo Verde,2013-12-19
+38,Panama,2013-12-19
+37,Nigeria,2013-12-19
+36,Venezuela,2013-12-19
+35,Armenia,2013-12-19
+34,Scotland,2013-12-19
+33,IR Iran,2013-12-19
+32,Romania,2013-12-19
+31,Costa Rica,2013-12-19
+30,Serbia,2013-12-19
+29,Slovenia,2013-12-19
+28,Czech Republic,2013-12-19
+26,Algeria,2013-12-19
+105,Kuwait,2013-12-19
+190,Tonga,2013-12-19
+107,Zimbabwe,2013-12-19
+182,Fiji,2013-12-19
+181,Mongolia,2013-12-19
+180,Vanuatu,2013-12-19
+179,Yemen,2013-12-19
+178,Curaçao,2013-12-19
+177,Mauritius,2013-12-19
+176,Seychelles,2013-12-19
+175,Bermuda,2013-12-19
+172,Pakistan,2013-12-19
+172,Nepal,2013-12-19
+183,Samoa,2013-12-19
+172,Solomon Islands,2013-12-19
+170,Aruba,2013-12-19
+169,Sri Lanka,2013-12-19
+167,Dominica,2013-12-19
+167,Chinese Taipei,2013-12-19
+166,Barbados,2013-12-19
+164,Bangladesh,2013-12-19
+164,Chad,2013-12-19
+163,Maldives,2013-12-19
+161,Indonesia,2013-12-19
+161,Guam,2013-12-19
+170,Faroe Islands,2013-12-19
+160,Nicaragua,2013-12-19
+184,Guinea-Bissau,2013-12-19
+186,Swaziland,2013-12-19
+207,Turks and Caicos Islands,2013-12-19
+207,San Marino,2013-12-19
+207,Bhutan,2013-12-19
+206,Anguilla,2013-12-19
+205,Cook Islands,2013-12-19
+204,Djibouti,2013-12-19
+203,Somalia,2013-12-19
+201,Macau,2013-12-19
+201,South Sudan,2013-12-19
+200,Eritrea,2013-12-19
+185,Bahamas,2013-12-19
+198,Andorra,2013-12-19
+196,American Samoa,2013-12-19
+196,British Virgin Islands,2013-12-19
+194,Papua New Guinea,2013-12-19
+194,Cayman Islands,2013-12-19
+193,US Virgin Islands,2013-12-19
+190,Timor-Leste,2013-12-19
+190,Brunei Darussalam,2013-12-19
+189,Cambodia,2013-12-19
+187,Montserrat,2013-12-19
+187,Madagascar,2013-12-19
+198,Comoros,2013-12-19
+159,Belize,2013-12-19
+106,Central African Republic,2013-12-19
+154,India,2013-12-19
+129,Syria,2013-12-19
+128,Kazakhstan,2013-12-19
+127,Philippines,2013-12-19
+126,Cyprus,2013-12-19
+125,Namibia,2013-12-19
+124,Burundi,2013-12-19
+123,Luxembourg,2013-12-19
+121,Lebanon,2013-12-19
+121,New Caledonia,2013-12-19
+120,Tanzania,2013-12-19
+130,Myanmar,2013-12-19
+119,Sudan,2013-12-19
+116,Latvia,2013-12-19
+116,Malawi,2013-12-19
+115,Dominican Republic,2013-12-19
+114,Tajikistan,2013-12-19
+113,Guatemala,2013-12-19
+112,Canada,2013-12-19
+110,Bahrain,2013-12-19
+110,Iraq,2013-12-19
+109,Kenya,2013-12-19
+158,São Tomé and Príncipe,2013-12-19
+118,Mozambique,2013-12-19
+131,Gambia,2013-12-19
+108,Equatorial Guinea,2013-12-19
+133,Rwanda,2013-12-19
+132,Malta,2013-12-19
+154,Puerto Rico,2013-12-19
+154,Liechtenstein,2013-12-19
+153,St. Vincent / Grenadines,2013-12-19
+152,Laos,2013-12-19
+150,Singapore,2013-12-19
+150,Guyana,2013-12-19
+147,Kyrgyz Republic,2013-12-19
+147,St. Lucia,2013-12-19
+146,Thailand,2013-12-19
+145,Antigua and Barbuda,2013-12-19
+149,St. Kitts and Nevis,2013-12-19
+143,Tahiti,2013-12-19
+133,Suriname,2013-12-19
+144,Vietnam,2013-12-19
+136,Grenada,2013-12-19
+137,Palestine,2013-12-19
+138,Lesotho,2013-12-19
+135,Turkmenistan,2013-12-19
+154,Malaysia,2013-12-19
+140,Afghanistan,2013-12-19
+140,Hong Kong,2013-12-19
+142,Mauritania,2013-12-19
+138,Korea DPR,2013-12-19
+68,Rwanda,2014-12-18
+54,Japan,2014-12-18
+69,Korea Republic,2014-12-18
+72,Haiti,2014-12-18
+71,Honduras,2014-12-18
+72,Guatemala,2014-12-18
+67,Norway,2014-12-18
+74,Uzbekistan,2014-12-18
+70,Finland,2014-12-18
+66,Bulgaria,2014-12-18
+61,Congo,2014-12-18
+64,Republic of Ireland,2014-12-18
+63,Burkina Faso,2014-12-18
+62,Togo,2014-12-18
+60,Egypt,2014-12-18
+59,Montenegro,2014-12-18
+58,Albania,2014-12-18
+57,Panama,2014-12-18
+56,Congo DR,2014-12-18
+55,Trinidad and Tobago,2014-12-18
+75,Jamaica,2014-12-18
+65,Gabon,2014-12-18
+76,Uganda,2014-12-18
+88,Venezuela,2014-12-18
+78,Libya,2014-12-18
+53,Peru,2014-12-18
+100,Australia,2014-12-18
+100,North Macedonia,2014-12-18
+99,Belarus,2014-12-18
+98,Mozambique,2014-12-18
+97,China PR,2014-12-18
+96,Latvia,2014-12-18
+95,Qatar,2014-12-18
+94,Antigua and Barbuda,2014-12-18
+93,Oman,2014-12-18
+92,Lithuania,2014-12-18
+90,El Salvador,2014-12-18
+90,Malawi,2014-12-18
+89,Benin,2014-12-18
+87,Cyprus,2014-12-18
+86,Sierra Leone,2014-12-18
+85,Bolivia,2014-12-18
+84,Estonia,2014-12-18
+81,Jordan,2014-12-18
+81,United Arab Emirates,2014-12-18
+81,Morocco,2014-12-18
+80,Angola,2014-12-18
+79,Armenia,2014-12-18
+76,Paraguay,2014-12-18
+52,South Africa,2014-12-18
+102,Saudi Arabia,2014-12-18
+50,Mali,2014-12-18
+22,Tunisia,2014-12-18
+21,Slovakia,2014-12-18
+20,Mexico,2014-12-18
+19,Croatia,2014-12-18
+18,Algeria,2014-12-18
+17,Czech Republic,2014-12-18
+16,Costa Rica,2014-12-18
+15,Romania,2014-12-18
+14,Chile,2014-12-18
+13,England,2014-12-18
+23,Austria,2014-12-18
+12,Switzerland,2014-12-18
+10,Uruguay,2014-12-18
+9,Spain,2014-12-18
+7,France,2014-12-18
+7,Portugal,2014-12-18
+6,Brazil,2014-12-18
+5,Netherlands,2014-12-18
+4,Belgium,2014-12-18
+3,Colombia,2014-12-18
+2,Argentina,2014-12-18
+1,Germany,2014-12-18
+11,Italy,2014-12-18
+24,Greece,2014-12-18
+25,Ukraine,2014-12-18
+26,Ecuador,2014-12-18
+49,Turkey,2014-12-18
+48,Northern Ireland,2014-12-18
+47,Slovenia,2014-12-18
+46,Zambia,2014-12-18
+45,Hungary,2014-12-18
+44,Sweden,2014-12-18
+43,Nigeria,2014-12-18
+42,Cameroon,2014-12-18
+41,Poland,2014-12-18
+40,Cabo Verde,2014-12-18
+39,Guinea,2014-12-18
+38,Serbia,2014-12-18
+37,Ghana,2014-12-18
+36,Scotland,2014-12-18
+35,Senegal,2014-12-18
+34,Wales,2014-12-18
+33,Iceland,2014-12-18
+32,Israel,2014-12-18
+31,Russia,2014-12-18
+30,Denmark,2014-12-18
+29,Bosnia and Herzegovina,2014-12-18
+28,Côte d'Ivoire,2014-12-18
+27,USA,2014-12-18
+51,IR Iran,2014-12-18
+103,Iraq,2014-12-18
+208,Anguilla,2014-12-18
+105,Tanzania,2014-12-18
+179,Cambodia,2014-12-18
+179,San Marino,2014-12-18
+179,Bermuda,2014-12-18
+178,Seychelles,2014-12-18
+177,Turks and Caicos Islands,2014-12-18
+176,Yemen,2014-12-18
+175,Belize,2014-12-18
+173,Nicaragua,2014-12-18
+173,Comoros,2014-12-18
+172,Sri Lanka,2014-12-18
+182,Chinese Taipei,2014-12-18
+171,India,2014-12-18
+169,Montserrat,2014-12-18
+168,Gambia,2014-12-18
+167,Guyana,2014-12-18
+166,Tahiti,2014-12-18
+165,Bangladesh,2014-12-18
+164,Swaziland,2014-12-18
+163,Suriname,2014-12-18
+161,Puerto Rico,2014-12-18
+161,Guam,2014-12-18
+160,Laos,2014-12-18
+170,São Tomé and Príncipe,2014-12-18
+183,Solomon Islands,2014-12-18
+184,Dominica,2014-12-18
+185,Timor-Leste,2014-12-18
+209,Bhutan,2014-12-18
+206,Cook Islands,2014-12-18
+206,Djibouti,2014-12-18
+205,Cayman Islands,2014-12-18
+204,Somalia,2014-12-18
+202,Eritrea,2014-12-18
+202,British Virgin Islands,2014-12-18
+201,Andorra,2014-12-18
+200,American Samoa,2014-12-18
+199,Papua New Guinea,2014-12-18
+198,Brunei Darussalam,2014-12-18
+197,US Virgin Islands,2014-12-18
+196,Tonga,2014-12-18
+195,Bahamas,2014-12-18
+194,Mongolia,2014-12-18
+192,Samoa,2014-12-18
+192,Fiji,2014-12-18
+191,Vanuatu,2014-12-18
+190,Mauritius,2014-12-18
+189,South Sudan,2014-12-18
+188,Pakistan,2014-12-18
+186,Macau,2014-12-18
+186,Nepal,2014-12-18
+159,Indonesia,2014-12-18
+158,Curaçao,2014-12-18
+104,Faroe Islands,2014-12-18
+156,Hong Kong,2014-12-18
+128,Luxembourg,2014-12-18
+127,Burundi,2014-12-18
+126,Lebanon,2014-12-18
+125,Georgia,2014-12-18
+124,Kuwait,2014-12-18
+123,Lesotho,2014-12-18
+122,Bahrain,2014-12-18
+121,Moldova,2014-12-18
+120,Equatorial Guinea,2014-12-18
+157,Singapore,2014-12-18
+118,St. Kitts and Nevis,2014-12-18
+116,Niger,2014-12-18
+116,Kenya,2014-12-18
+115,Liberia,2014-12-18
+113,Cuba,2014-12-18
+113,Palestine,2014-12-18
+112,Canada,2014-12-18
+111,Ethiopia,2014-12-18
+110,Sudan,2014-12-18
+109,Namibia,2014-12-18
+108,Zimbabwe,2014-12-18
+107,Botswana,2014-12-18
+106,Dominican Republic,2014-12-18
+129,Aruba,2014-12-18
+130,Maldives,2014-12-18
+119,St. Vincent / Grenadines,2014-12-18
+132,Liechtenstein,2014-12-18
+130,Philippines,2014-12-18
+155,Grenada,2014-12-18
+154,Malaysia,2014-12-18
+153,New Caledonia,2014-12-18
+152,Kyrgyz Republic,2014-12-18
+151,Syria,2014-12-18
+150,Korea DPR,2014-12-18
+147,Turkmenistan,2014-12-18
+147,Malta,2014-12-18
+146,Chad,2014-12-18
+145,Central African Republic,2014-12-18
+147,Madagascar,2014-12-18
+143,Afghanistan,2014-12-18
+144,Barbados,2014-12-18
+134,New Zealand,2014-12-18
+135,Azerbaijan,2014-12-18
+135,Tajikistan,2014-12-18
+137,Mauritania,2014-12-18
+133,Guinea-Bissau,2014-12-18
+139,Kazakhstan,2014-12-18
+140,St. Lucia,2014-12-18
+141,Myanmar,2014-12-18
+142,Thailand,2014-12-18
+137,Vietnam,2014-12-18
+69,Israel,2015-12-03
+67,Belarus,2015-12-03
+68,Bolivia,2015-12-03
+69,Equatorial Guinea,2015-12-03
+53,Japan,2015-12-03
+72,South Africa,2015-12-03
+73,Zambia,2015-12-03
+74,Uzbekistan,2015-12-03
+75,Morocco,2015-12-03
+71,Bulgaria,2015-12-03
+66,Nigeria,2015-12-03
+54,Norway,2015-12-03
+64,Panama,2015-12-03
+63,Uganda,2015-12-03
+62,Mali,2015-12-03
+61,Slovenia,2015-12-03
+60,Congo DR,2015-12-03
+59,Cameroon,2015-12-03
+57,Egypt,2015-12-03
+57,Australia,2015-12-03
+56,Serbia,2015-12-03
+54,Jamaica,2015-12-03
+76,Gabon,2015-12-03
+65,United Arab Emirates,2015-12-03
+77,Haiti,2015-12-03
+89,Burkina Faso,2015-12-03
+79,Cyprus,2015-12-03
+101,Latvia,2015-12-03
+101,Rwanda,2015-12-03
+100,Niger,2015-12-03
+99,El Salvador,2015-12-03
+98,Kenya,2015-12-03
+97,Faroe Islands,2015-12-03
+96,Togo,2015-12-03
+95,Botswana,2015-12-03
+94,Guatemala,2015-12-03
+93,Estonia,2015-12-03
+78,Benin,2015-12-03
+92,Nicaragua,2015-12-03
+89,Iraq,2015-12-03
+88,Canada,2015-12-03
+87,Jordan,2015-12-03
+86,Qatar,2015-12-03
+85,Montenegro,2015-12-03
+84,China PR,2015-12-03
+83,Venezuela,2015-12-03
+82,Antigua and Barbuda,2015-12-03
+81,Libya,2015-12-03
+80,Saudi Arabia,2015-12-03
+91,Cuba,2015-12-03
+52,Scotland,2015-12-03
+1,Belgium,2015-12-03
+50,Guinea,2015-12-03
+101,Honduras,2015-12-03
+22,Bosnia and Herzegovina,2015-12-03
+21,Turkey,2015-12-03
+20,Hungary,2015-12-03
+19,Côte d'Ivoire,2015-12-03
+18,Croatia,2015-12-03
+17,Wales,2015-12-03
+16,Romania,2015-12-03
+15,Italy,2015-12-03
+14,Netherlands,2015-12-03
+22,Mexico,2015-12-03
+13,Ecuador,2015-12-03
+11,Uruguay,2015-12-03
+10,Austria,2015-12-03
+9,England,2015-12-03
+8,Colombia,2015-12-03
+7,Portugal,2015-12-03
+6,Brazil,2015-12-03
+5,Chile,2015-12-03
+4,Germany,2015-12-03
+3,Spain,2015-12-03
+2,Argentina,2015-12-03
+12,Switzerland,2015-12-03
+24,Russia,2015-12-03
+25,France,2015-12-03
+26,Slovakia,2015-12-03
+49,Trinidad and Tobago,2015-12-03
+48,Congo,2015-12-03
+47,Peru,2015-12-03
+46,Paraguay,2015-12-03
+45,IR Iran,2015-12-03
+44,Senegal,2015-12-03
+43,Finland,2015-12-03
+42,Denmark,2015-12-03
+41,Greece,2015-12-03
+40,Tunisia,2015-12-03
+39,Cabo Verde,2015-12-03
+38,Albania,2015-12-03
+37,Costa Rica,2015-12-03
+36,Iceland,2015-12-03
+35,Sweden,2015-12-03
+34,Poland,2015-12-03
+33,Ghana,2015-12-03
+32,USA,2015-12-03
+31,Republic of Ireland,2015-12-03
+30,Northern Ireland,2015-12-03
+29,Ukraine,2015-12-03
+28,Algeria,2015-12-03
+26,Czech Republic,2015-12-03
+51,Korea Republic,2015-12-03
+104,Oman,2015-12-03
+187,Montserrat,2015-12-03
+105,Angola,2015-12-03
+181,New Caledonia,2015-12-03
+180,Cambodia,2015-12-03
+179,Indonesia,2015-12-03
+177,Laos,2015-12-03
+177,US Virgin Islands,2015-12-03
+176,Dominica,2015-12-03
+174,Mauritius,2015-12-03
+174,Yemen,2015-12-03
+172,Puerto Rico,2015-12-03
+172,Comoros,2015-12-03
+182,Bangladesh,2015-12-03
+170,Timor-Leste,2015-12-03
+167,Samoa,2015-12-03
+167,Cook Islands,2015-12-03
+167,American Samoa,2015-12-03
+166,India,2015-12-03
+164,Liechtenstein,2015-12-03
+164,Gambia,2015-12-03
+163,Grenada,2015-12-03
+162,Malta,2015-12-03
+161,Guyana,2015-12-03
+160,Maldives,2015-12-03
+170,Malaysia,2015-12-03
+182,Chinese Taipei,2015-12-03
+184,Pakistan,2015-12-03
+185,Brunei Darussalam,2015-12-03
+204,Tonga,2015-12-03
+204,Somalia,2015-12-03
+204,Eritrea,2015-12-03
+204,Djibouti,2015-12-03
+204,Bahamas,2015-12-03
+204,Anguilla,2015-12-03
+203,Papua New Guinea,2015-12-03
+201,Andorra,2015-12-03
+201,Mongolia,2015-12-03
+200,Solomon Islands,2015-12-03
+199,British Virgin Islands,2015-12-03
+198,San Marino,2015-12-03
+197,Turks and Caicos Islands,2015-12-03
+196,Cayman Islands,2015-12-03
+195,Macau,2015-12-03
+194,Sri Lanka,2015-12-03
+193,Vanuatu,2015-12-03
+192,Nepal,2015-12-03
+191,Suriname,2015-12-03
+189,Tahiti,2015-12-03
+189,Seychelles,2015-12-03
+188,Bhutan,2015-12-03
+186,Fiji,2015-12-03
+159,Bermuda,2015-12-03
+158,Myanmar,2015-12-03
+105,Korea DPR,2015-12-03
+156,São Tomé and Príncipe,2015-12-03
+128,Madagascar,2015-12-03
+127,Belize,2015-12-03
+126,Lithuania,2015-12-03
+125,Syria,2015-12-03
+124,Bahrain,2015-12-03
+123,Armenia,2015-12-03
+122,Georgia,2015-12-03
+121,St. Kitts and Nevis,2015-12-03
+157,Guam,2015-12-03
+119,Turkmenistan,2015-12-03
+129,Kazakhstan,2015-12-03
+118,Sierra Leone,2015-12-03
+116,Mauritania,2015-12-03
+115,Aruba,2015-12-03
+114,Chad,2015-12-03
+113,Central African Republic,2015-12-03
+112,Burundi,2015-12-03
+111,Mozambique,2015-12-03
+110,Zimbabwe,2015-12-03
+109,Malawi,2015-12-03
+108,Kyrgyz Republic,2015-12-03
+107,Liberia,2015-12-03
+117,Azerbaijan,2015-12-03
+129,Namibia,2015-12-03
+120,Ethiopia,2015-12-03
+132,Tanzania,2015-12-03
+131,Swaziland,2015-12-03
+154,Dominican Republic,2015-12-03
+153,Lesotho,2015-12-03
+151,New Zealand,2015-12-03
+151,Curaçao,2015-12-03
+150,Afghanistan,2015-12-03
+149,Singapore,2015-12-03
+148,Tajikistan,2015-12-03
+147,Vietnam,2015-12-03
+146,Guinea-Bissau,2015-12-03
+145,Barbados,2015-12-03
+155,Moldova,2015-12-03
+143,St. Vincent / Grenadines,2015-12-03
+144,St. Lucia,2015-12-03
+134,Sudan,2015-12-03
+134,Palestine,2015-12-03
+136,North Macedonia,2015-12-03
+137,Hong Kong,2015-12-03
+133,Thailand,2015-12-03
+139,Kuwait,2015-12-03
+139,Philippines,2015-12-03
+139,Lebanon,2015-12-03
+142,Luxembourg,2015-12-03
+138,South Sudan,2015-12-03
+69,Guinea,2016-12-22
+77,Jamaica,2016-12-22
+75,Curaçao,2016-12-22
+75,Honduras,2016-12-22
+74,Belarus,2016-12-22
+73,Haiti,2016-12-22
+72,Uganda,2016-12-22
+71,Bulgaria,2016-12-22
+70,Congo,2016-12-22
+68,Guinea-Bissau,2016-12-22
+56,Russia,2016-12-22
+66,Benin,2016-12-22
+65,Cameroon,2016-12-22
+64,United Arab Emirates,2016-12-22
+63,Montenegro,2016-12-22
+62,Uzbekistan,2016-12-22
+60,South Africa,2016-12-22
+60,Mali,2016-12-22
+59,Venezuela,2016-12-22
+58,Panama,2016-12-22
+57,Morocco,2016-12-22
+78,Trinidad and Tobago,2016-12-22
+67,Scotland,2016-12-22
+79,Guatemala,2016-12-22
+104,Central African Republic,2016-12-22
+80,St. Kitts and Nevis,2016-12-22
+55,Israel,2016-12-22
+103,Malawi,2016-12-22
+102,Zimbabwe,2016-12-22
+101,Liberia,2016-12-22
+100,Swaziland,2016-12-22
+99,Namibia,2016-12-22
+98,Kazakhstan,2016-12-22
+96,Syria,2016-12-22
+96,Sierra Leone,2016-12-22
+95,Bolivia,2016-12-22
+94,Finland,2016-12-22
+93,Antigua and Barbuda,2016-12-22
+92,Rwanda,2016-12-22
+91,Togo,2016-12-22
+90,Azerbaijan,2016-12-22
+89,Kenya,2016-12-22
+88,Zambia,2016-12-22
+87,Qatar,2016-12-22
+86,Armenia,2016-12-22
+85,Libya,2016-12-22
+83,Faroe Islands,2016-12-22
+83,Norway,2016-12-22
+82,China PR,2016-12-22
+80,Cabo Verde,2016-12-22
+54,Saudi Arabia,2016-12-22
+28,USA,2016-12-22
+51,Slovenia,2016-12-22
+23,Republic of Ireland,2016-12-22
+22,Netherlands,2016-12-22
+21,Iceland,2016-12-22
+20,Ecuador,2016-12-22
+19,Peru,2016-12-22
+18,Mexico,2016-12-22
+17,Costa Rica,2016-12-22
+16,Italy,2016-12-22
+15,Poland,2016-12-22
+14,Croatia,2016-12-22
+13,England,2016-12-22
+12,Wales,2016-12-22
+11,Switzerland,2016-12-22
+10,Spain,2016-12-22
+9,Uruguay,2016-12-22
+8,Portugal,2016-12-22
+7,France,2016-12-22
+6,Colombia,2016-12-22
+5,Belgium,2016-12-22
+4,Chile,2016-12-22
+3,Germany,2016-12-22
+1,Argentina,2016-12-22
+105,Lithuania,2016-12-22
+24,Turkey,2016-12-22
+53,Ghana,2016-12-22
+25,Slovakia,2016-12-22
+27,Bosnia and Herzegovina,2016-12-22
+51,Nigeria,2016-12-22
+50,Burkina Faso,2016-12-22
+49,Albania,2016-12-22
+48,Congo DR,2016-12-22
+47,Australia,2016-12-22
+46,Denmark,2016-12-22
+45,Japan,2016-12-22
+44,Serbia,2016-12-22
+43,Czech Republic,2016-12-22
+42,Greece,2016-12-22
+41,Sweden,2016-12-22
+40,Paraguay,2016-12-22
+39,Romania,2016-12-22
+38,Algeria,2016-12-22
+37,Korea Republic,2016-12-22
+36,Egypt,2016-12-22
+35,Tunisia,2016-12-22
+34,Côte d'Ivoire,2016-12-22
+33,Senegal,2016-12-22
+32,Northern Ireland,2016-12-22
+31,Austria,2016-12-22
+30,Ukraine,2016-12-22
+29,IR Iran,2016-12-22
+26,Hungary,2016-12-22
+105,Jordan,2016-12-22
+2,Brazil,2016-12-22
+108,Mauritania,2016-12-22
+184,Macau,2016-12-22
+183,Malta,2016-12-22
+182,Guam,2016-12-22
+181,Nepal,2016-12-22
+179,Fiji,2016-12-22
+179,St. Vincent / Grenadines,2016-12-22
+177,St. Lucia,2016-12-22
+177,Bhutan,2016-12-22
+175,Vanuatu,2016-12-22
+175,Gambia,2016-12-22
+185,Bangladesh,2016-12-22
+174,Dominica,2016-12-22
+171,Indonesia,2016-12-22
+171,Kuwait,2016-12-22
+170,Papua New Guinea,2016-12-22
+168,South Sudan,2016-12-22
+168,New Caledonia,2016-12-22
+167,Laos,2016-12-22
+165,Kosovo,2016-12-22
+165,Singapore,2016-12-22
+164,Moldova,2016-12-22
+163,Belize,2016-12-22
+173,Cambodia,2016-12-22
+186,Seychelles,2016-12-22
+187,Solomon Islands,2016-12-22
+187,Bermuda,2016-12-22
+205,Eritrea,2016-12-22
+205,Tonga,2016-12-22
+205,Gibraltar,2016-12-22
+205,Somalia,2016-12-22
+205,Djibouti,2016-12-22
+205,Bahamas,2016-12-22
+205,Anguilla,2016-12-22
+204,British Virgin Islands,2016-12-22
+203,Andorra,2016-12-22
+202,San Marino,2016-12-22
+201,Turks and Caicos Islands,2016-12-22
+200,Cayman Islands,2016-12-22
+199,Montserrat,2016-12-22
+198,Mongolia,2016-12-22
+197,Pakistan,2016-12-22
+195,US Virgin Islands,2016-12-22
+195,Sri Lanka,2016-12-22
+191,Samoa,2016-12-22
+191,American Samoa,2016-12-22
+191,Cook Islands,2016-12-22
+191,Timor-Leste,2016-12-22
+190,Brunei Darussalam,2016-12-22
+189,Liechtenstein,2016-12-22
+162,North Macedonia,2016-12-22
+161,Malaysia,2016-12-22
+107,Mozambique,2016-12-22
+159,Myanmar,2016-12-22
+131,Palestine,2016-12-22
+130,Luxembourg,2016-12-22
+129,Tajikistan,2016-12-22
+128,Dominican Republic,2016-12-22
+127,Niger,2016-12-22
+126,Thailand,2016-12-22
+125,Korea DPR,2016-12-22
+124,Nicaragua,2016-12-22
+123,Bahrain,2016-12-22
+160,Aruba,2016-12-22
+121,Oman,2016-12-22
+120,Philippines,2016-12-22
+119,Iraq,2016-12-22
+118,Georgia,2016-12-22
+117,Canada,2016-12-22
+116,Estonia,2016-12-22
+115,Cyprus,2016-12-22
+114,Equatorial Guinea,2016-12-22
+112,Ethiopia,2016-12-22
+112,Botswana,2016-12-22
+111,Latvia,2016-12-22
+110,Gabon,2016-12-22
+109,New Zealand,2016-12-22
+132,Guyana,2016-12-22
+133,Madagascar,2016-12-22
+122,Kyrgyz Republic,2016-12-22
+135,India,2016-12-22
+134,Vietnam,2016-12-22
+158,Grenada,2016-12-22
+157,Chinese Taipei,2016-12-22
+156,Tanzania,2016-12-22
+155,Barbados,2016-12-22
+154,Maldives,2016-12-22
+153,São Tomé and Príncipe,2016-12-22
+151,Cuba,2016-12-22
+150,Suriname,2016-12-22
+148,Yemen,2016-12-22
+148,Tahiti,2016-12-22
+152,Chad,2016-12-22
+146,Afghanistan,2016-12-22
+147,Lebanon,2016-12-22
+137,El Salvador,2016-12-22
+138,Burundi,2016-12-22
+139,Hong Kong,2016-12-22
+140,Comoros,2016-12-22
+135,Sudan,2016-12-22
+142,Turkmenistan,2016-12-22
+143,Angola,2016-12-22
+144,Puerto Rico,2016-12-22
+145,Mauritius,2016-12-22
+141,Lesotho,2016-12-22
+68,Honduras,2017-12-21
+76,North Macedonia,2017-12-21
+75,Uganda,2017-12-21
+74,Zambia,2017-12-21
+73,United Arab Emirates,2017-12-21
+72,Mali,2017-12-21
+71,China PR,2017-12-21
+70,Ecuador,2017-12-21
+69,Slovenia,2017-12-21
+67,Cabo Verde,2017-12-21
+55,Panama,2017-12-21
+65,Guinea,2017-12-21
+64,Russia,2017-12-21
+63,Saudi Arabia,2017-12-21
+62,Albania,2017-12-21
+61,Côte d'Ivoire,2017-12-21
+60,Korea Republic,2017-12-21
+59,Norway,2017-12-21
+58,Algeria,2017-12-21
+57,Japan,2017-12-21
+56,Haiti,2017-12-21
+77,Syria,2017-12-21
+66,Finland,2017-12-21
+78,Uzbekistan,2017-12-21
+103,Zimbabwe,2017-12-21
+80,Palestine,2017-12-21
+54,Jamaica,2017-12-21
+102,Qatar,2017-12-21
+101,Oman,2017-12-21
+100,El Salvador,2017-12-21
+99,Mauritania,2017-12-21
+98,Israel,2017-12-21
+97,Sierra Leone,2017-12-21
+96,Congo,2017-12-21
+95,Faroe Islands,2017-12-21
+94,Canada,2017-12-21
+93,Gabon,2017-12-21
+92,Belarus,2017-12-21
+91,Cyprus,2017-12-21
+90,Armenia,2017-12-21
+89,Estonia,2017-12-21
+88,Libya,2017-12-21
+87,Trinidad and Tobago,2017-12-21
+86,Guinea-Bissau,2017-12-21
+85,Lebanon,2017-12-21
+83,Curaçao,2017-12-21
+83,Luxembourg,2017-12-21
+82,Benin,2017-12-21
+81,South Africa,2017-12-21
+79,Iraq,2017-12-21
+53,Hungary,2017-12-21
+27,Tunisia,2017-12-21
+51,Nigeria,2017-12-21
+22,Iceland,2017-12-21
+21,Uruguay,2017-12-21
+20,Netherlands,2017-12-21
+19,Wales,2017-12-21
+18,Sweden,2017-12-21
+17,Croatia,2017-12-21
+16,Mexico,2017-12-21
+15,England,2017-12-21
+14,Italy,2017-12-21
+13,Colombia,2017-12-21
+12,Denmark,2017-12-21
+11,Peru,2017-12-21
+10,Chile,2017-12-21
+9,France,2017-12-21
+8,Switzerland,2017-12-21
+7,Poland,2017-12-21
+6,Spain,2017-12-21
+5,Belgium,2017-12-21
+4,Argentina,2017-12-21
+3,Portugal,2017-12-21
+2,Brazil,2017-12-21
+1,Germany,2017-12-21
+104,Georgia,2017-12-21
+23,Senegal,2017-12-21
+52,Venezuela,2017-12-21
+24,USA,2017-12-21
+26,Costa Rica,2017-12-21
+50,Ghana,2017-12-21
+49,Bolivia,2017-12-21
+48,Czech Republic,2017-12-21
+47,Greece,2017-12-21
+46,Montenegro,2017-12-21
+45,Cameroon,2017-12-21
+44,Burkina Faso,2017-12-21
+43,Bulgaria,2017-12-21
+42,Turkey,2017-12-21
+41,Romania,2017-12-21
+40,Morocco,2017-12-21
+39,Congo DR,2017-12-21
+38,Australia,2017-12-21
+37,Bosnia and Herzegovina,2017-12-21
+36,Serbia,2017-12-21
+35,Ukraine,2017-12-21
+32,Scotland,2017-12-21
+32,IR Iran,2017-12-21
+32,Republic of Ireland,2017-12-21
+31,Egypt,2017-12-21
+30,Paraguay,2017-12-21
+29,Austria,2017-12-21
+28,Slovakia,2017-12-21
+24,Northern Ireland,2017-12-21
+105,India,2017-12-21
+206,Tonga,2017-12-21
+107,Jordan,2017-12-21
+183,Bermuda,2017-12-21
+182,Laos,2017-12-21
+181,Liechtenstein,2017-12-21
+180,Cuba,2017-12-21
+179,Aruba,2017-12-21
+178,São Tomé and Príncipe,2017-12-21
+177,Kosovo,2017-12-21
+174,St. Lucia,2017-12-21
+174,St. Vincent / Grenadines,2017-12-21
+174,Malaysia,2017-12-21
+185,Macau,2017-12-21
+173,Cambodia,2017-12-21
+171,Nepal,2017-12-21
+168,Dominica,2017-12-21
+168,Chad,2017-12-21
+168,Fiji,2017-12-21
+167,Moldova,2017-12-21
+166,Puerto Rico,2017-12-21
+165,Guyana,2017-12-21
+164,Gambia,2017-12-21
+162,Dominican Republic,2017-12-21
+162,Indonesia,2017-12-21
+172,Singapore,2017-12-21
+186,Djibouti,2017-12-21
+187,Mongolia,2017-12-21
+187,Bhutan,2017-12-21
+106,Kenya,2017-12-21
+206,Somalia,2017-12-21
+206,Gibraltar,2017-12-21
+206,Eritrea,2017-12-21
+206,Bahamas,2017-12-21
+206,Anguilla,2017-12-21
+205,British Virgin Islands,2017-12-21
+204,San Marino,2017-12-21
+202,Cayman Islands,2017-12-21
+202,Turks and Caicos Islands,2017-12-21
+201,Pakistan,2017-12-21
+200,Sri Lanka,2017-12-21
+199,Montserrat,2017-12-21
+198,US Virgin Islands,2017-12-21
+197,Bangladesh,2017-12-21
+194,Samoa,2017-12-21
+194,Cook Islands,2017-12-21
+194,American Samoa,2017-12-21
+192,Guam,2017-12-21
+192,Seychelles,2017-12-21
+191,Timor-Leste,2017-12-21
+190,Brunei Darussalam,2017-12-21
+189,Kuwait,2017-12-21
+161,Grenada,2017-12-21
+160,Papua New Guinea,2017-12-21
+184,Malta,2017-12-21
+158,Belize,2017-12-21
+130,Thailand,2017-12-21
+129,Guatemala,2017-12-21
+128,Suriname,2017-12-21
+126,Korea DPR,2017-12-21
+126,Tajikistan,2017-12-21
+125,Malawi,2017-12-21
+124,Philippines,2017-12-21
+122,Central African Republic,2017-12-21
+122,Togo,2017-12-21
+121,New Zealand,2017-12-21
+120,Yemen,2017-12-21
+119,Nicaragua,2017-12-21
+118,Namibia,2017-12-21
+117,Azerbaijan,2017-12-21
+115,Kyrgyz Republic,2017-12-21
+115,Bahrain,2017-12-21
+114,Turkmenistan,2017-12-21
+113,Rwanda,2017-12-21
+112,Vietnam,2017-12-21
+111,St. Kitts and Nevis,2017-12-21
+110,Mozambique,2017-12-21
+108,Niger,2017-12-21
+159,Mauritius,2017-12-21
+131,Comoros,2017-12-21
+132,Latvia,2017-12-21
+108,Madagascar,2017-12-21
+134,Liberia,2017-12-21
+133,Swaziland,2017-12-21
+155,Barbados,2017-12-21
+155,Maldives,2017-12-21
+154,New Caledonia,2017-12-21
+153,South Sudan,2017-12-21
+152,Tahiti,2017-12-21
+151,Solomon Islands,2017-12-21
+150,Botswana,2017-12-21
+149,Lithuania,2017-12-21
+148,Afghanistan,2017-12-21
+147,Tanzania,2017-12-21
+146,Equatorial Guinea,2017-12-21
+157,Vanuatu,2017-12-21
+144,Hong Kong,2017-12-21
+143,Ethiopia,2017-12-21
+142,Burundi,2017-12-21
+141,Angola,2017-12-21
+140,Myanmar,2017-12-21
+139,Antigua and Barbuda,2017-12-21
+138,Andorra,2017-12-21
+137,Kazakhstan,2017-12-21
+136,Sudan,2017-12-21
+135,Chinese Taipei,2017-12-21
+145,Lesotho,2017-12-21
+68,North Macedonia,2018-12-20
+69,Saudi Arabia,2018-12-20
+70,El Salvador,2018-12-20
+71,Panama,2018-12-20
+76,Belarus,2018-12-20
+72,Cabo Verde,2018-12-20
+74,Syria,2018-12-20
+75,Uganda,2018-12-20
+55,Cameroon,2018-12-20
+72,South Africa,2018-12-20
+67,Algeria,2018-12-20
+62,Slovenia,2018-12-20
+65,Côte d'Ivoire,2018-12-20
+64,Mali,2018-12-20
+62,Honduras,2018-12-20
+61,Burkina Faso,2018-12-20
+60,Albania,2018-12-20
+59,Bolivia,2018-12-20
+58,Finland,2018-12-20
+57,Ecuador,2018-12-20
+56,Egypt,2018-12-20
+76,China PR,2018-12-20
+66,Guinea,2018-12-20
+78,Canada,2018-12-20
+91,Kyrgyz Republic,2018-12-20
+80,Curaçao,2018-12-20
+54,Jamaica,2018-12-20
+103,Haiti,2018-12-20
+101,Armenia,2018-12-20
+101,Mauritania,2018-12-20
+100,Vietnam,2018-12-20
+99,Palestine,2018-12-20
+98,Faroe Islands,2018-12-20
+97,India,2018-12-20
+96,Estonia,2018-12-20
+95,Uzbekistan,2018-12-20
+94,Benin,2018-12-20
+93,Qatar,2018-12-20
+92,Trinidad and Tobago,2018-12-20
+90,Israel,2018-12-20
+89,Georgia,2018-12-20
+88,Iraq,2018-12-20
+86,Cyprus,2018-12-20
+86,Luxembourg,2018-12-20
+85,Gabon,2018-12-20
+84,Congo,2018-12-20
+83,Zambia,2018-12-20
+82,Oman,2018-12-20
+81,Lebanon,2018-12-20
+79,United Arab Emirates,2018-12-20
+53,Korea Republic,2018-12-20
+1,Belgium,2018-12-20
+51,Hungary,2018-12-20
+23,Senegal,2018-12-20
+22,Austria,2018-12-20
+20,Peru,2018-12-20
+20,Poland,2018-12-20
+19,Wales,2018-12-20
+18,Italy,2018-12-20
+17,Mexico,2018-12-20
+16,Germany,2018-12-20
+14,Netherlands,2018-12-20
+14,Sweden,2018-12-20
+24,Romania,2018-12-20
+13,Chile,2018-12-20
+11,Argentina,2018-12-20
+10,Denmark,2018-12-20
+9,Spain,2018-12-20
+8,Switzerland,2018-12-20
+104,Libya,2018-12-20
+6,Portugal,2018-12-20
+5,England,2018-12-20
+4,Croatia,2018-12-20
+3,Brazil,2018-12-20
+2,France,2018-12-20
+12,Colombia,2018-12-20
+25,USA,2018-12-20
+26,Tunisia,2018-12-20
+27,Slovakia,2018-12-20
+50,Japan,2018-12-20
+49,Congo DR,2018-12-20
+48,Russia,2018-12-20
+46,Norway,2018-12-20
+46,Bulgaria,2018-12-20
+44,Montenegro,2018-12-20
+44,Nigeria,2018-12-20
+43,Greece,2018-12-20
+42,Czech Republic,2018-12-20
+41,Australia,2018-12-20
+40,Morocco,2018-12-20
+39,Turkey,2018-12-20
+38,Scotland,2018-12-20
+37,Iceland,2018-12-20
+36,Costa Rica,2018-12-20
+35,Northern Ireland,2018-12-20
+34,Bosnia and Herzegovina,2018-12-20
+33,Republic of Ireland,2018-12-20
+32,Paraguay,2018-12-20
+31,Venezuela,2018-12-20
+29,IR Iran,2018-12-20
+29,Serbia,2018-12-20
+28,Ukraine,2018-12-20
+51,Ghana,2018-12-20
+105,Kenya,2018-12-20
+7,Uruguay,2018-12-20
+107,Azerbaijan,2018-12-20
+184,Laos,2018-12-20
+183,Macau,2018-12-20
+182,Malta,2018-12-20
+181,Liechtenstein,2018-12-20
+180,St. Vincent / Grenadines,2018-12-20
+179,Puerto Rico,2018-12-20
+178,Dominica,2018-12-20
+177,Guyana,2018-12-20
+176,Bermuda,2018-12-20
+175,Chad,2018-12-20
+174,Cuba,2018-12-20
+173,Grenada,2018-12-20
+172,Cambodia,2018-12-20
+171,St. Lucia,2018-12-20
+170,Moldova,2018-12-20
+169,Fiji,2018-12-20
+168,Papua New Guinea,2018-12-20
+167,Malaysia,2018-12-20
+166,Gambia,2018-12-20
+165,Singapore,2018-12-20
+164,South Sudan,2018-12-20
+163,Vanuatu,2018-12-20
+162,Barbados,2018-12-20
+185,São Tomé and Príncipe,2018-12-20
+161,Nepal,2018-12-20
+186,Bhutan,2018-12-20
+188,Mongolia,2018-12-20
+106,Madagascar,2018-12-20
+210,Bahamas,2018-12-20
+208,Anguilla,2018-12-20
+208,Turks and Caicos Islands,2018-12-20
+207,British Virgin Islands,2018-12-20
+204,Somalia,2018-12-20
+204,Eritrea,2018-12-20
+204,Tonga,2018-12-20
+203,Cayman Islands,2018-12-20
+202,US Virgin Islands,2018-12-20
+201,Sri Lanka,2018-12-20
+200,Montserrat,2018-12-20
+199,Pakistan,2018-12-20
+197,Djibouti,2018-12-20
+197,Samoa,2018-12-20
+196,Timor-Leste,2018-12-20
+195,Brunei Darussalam,2018-12-20
+194,Gibraltar,2018-12-20
+192,Bangladesh,2018-12-20
+192,Guam,2018-12-20
+190,American Samoa,2018-12-20
+190,Cook Islands,2018-12-20
+189,Seychelles,2018-12-20
+187,Aruba,2018-12-20
+160,Belize,2018-12-20
+211,San Marino,2018-12-20
+158,Kuwait,2018-12-20
+130,Malawi,2018-12-20
+129,Nicaragua,2018-12-20
+127,Turkmenistan,2018-12-20
+127,Sudan,2018-12-20
+126,Antigua and Barbuda,2018-12-20
+125,Angola,2018-12-20
+124,Chinese Taipei,2018-12-20
+123,Togo,2018-12-20
+122,New Zealand,2018-12-20
+120,Guinea-Bissau,2018-12-20
+120,Tajikistan,2018-12-20
+119,Kazakhstan,2018-12-20
+118,Thailand,2018-12-20
+117,Mozambique,2018-12-20
+116,Philippines,2018-12-20
+115,Sierra Leone,2018-12-20
+114,Zimbabwe,2018-12-20
+113,Bahrain,2018-12-20
+112,Central African Republic,2018-12-20
+111,Namibia,2018-12-20
+109,Jordan,2018-12-20
+109,Korea DPR,2018-12-20
+159,Indonesia,2018-12-20
+131,Kosovo,2018-12-20
+132,Latvia,2018-12-20
+108,Niger,2018-12-20
+133,Lithuania,2018-12-20
+157,Tahiti,2018-12-20
+156,Mauritius,2018-12-20
+154,New Caledonia,2018-12-20
+154,Dominican Republic,2018-12-20
+153,Suriname,2018-12-20
+152,Maldives,2018-12-20
+133,Andorra,2018-12-20
+150,Liberia,2018-12-20
+149,Guatemala,2018-12-20
+148,Equatorial Guinea,2018-12-20
+147,Afghanistan,2018-12-20
+151,Ethiopia,2018-12-20
+145,Botswana,2018-12-20
+144,Solomon Islands,2018-12-20
+143,Comoros,2018-12-20
+141,Swaziland,2018-12-20
+141,Hong Kong,2018-12-20
+139,Burundi,2018-12-20
+139,Myanmar,2018-12-20
+138,Tanzania,2018-12-20
+137,Rwanda,2018-12-20
+136,St. Kitts and Nevis,2018-12-20
+146,Lesotho,2018-12-20
+135,Yemen,2018-12-20
+77,Uganda,2019-12-19
+76,China PR,2019-12-19
+75,Bolivia,2019-12-19
+74,Guinea,2019-12-19
+73,Canada,2019-12-19
+71,United Arab Emirates,2019-12-19
+71,South Africa,2019-12-19
+70,Iraq,2019-12-19
+69,El Salvador,2019-12-19
+68,North Macedonia,2019-12-19
+64,Slovenia,2019-12-19
+66,Albania,2019-12-19
+64,Montenegro,2019-12-19
+63,Ecuador,2019-12-19
+78,Cabo Verde,2019-12-19
+61,Côte d'Ivoire,2019-12-19
+59,Burkina Faso,2019-12-19
+59,Bulgaria,2019-12-19
+58,Finland,2019-12-19
+56,Congo DR,2019-12-19
+56,Mali,2019-12-19
+67,Saudi Arabia,2019-12-19
+62,Honduras,2019-12-19
+103,Estonia,2019-12-19
+80,Curaçao,2019-12-19
+55,Qatar,2019-12-19
+102,Armenia,2019-12-19
+101,Libya,2019-12-19
+100,Mauritania,2019-12-19
+99,Bahrain,2019-12-19
+98,Luxembourg,2019-12-19
+97,Jordan,2019-12-19
+96,Kyrgyz Republic,2019-12-19
+95,Cyprus,2019-12-19
+94,Vietnam,2019-12-19
+93,Israel,2019-12-19
+91,Georgia,2019-12-19
+91,Madagascar,2019-12-19
+89,Lebanon,2019-12-19
+89,Congo,2019-12-19
+88,Zambia,2019-12-19
+87,Belarus,2019-12-19
+86,Haiti,2019-12-19
+85,Uzbekistan,2019-12-19
+84,Benin,2019-12-19
+83,Gabon,2019-12-19
+82,Oman,2019-12-19
+81,Panama,2019-12-19
+79,Syria,2019-12-19
+54,Greece,2019-12-19
+27,Tunisia,2019-12-19
+51,Egypt,2019-12-19
+22,USA,2019-12-19
+21,Peru,2019-12-19
+20,Senegal,2019-12-19
+19,Poland,2019-12-19
+17,Chile,2019-12-19
+17,Sweden,2019-12-19
+16,Denmark,2019-12-19
+15,Germany,2019-12-19
+14,Netherlands,2019-12-19
+13,Italy,2019-12-19
+22,Wales,2019-12-19
+12,Switzerland,2019-12-19
+10,Colombia,2019-12-19
+9,Argentina,2019-12-19
+8,Spain,2019-12-19
+7,Portugal,2019-12-19
+6,Croatia,2019-12-19
+5,Uruguay,2019-12-19
+4,England,2019-12-19
+3,Brazil,2019-12-19
+2,France,2019-12-19
+1,Belgium,2019-12-19
+11,Mexico,2019-12-19
+24,Ukraine,2019-12-19
+25,Venezuela,2019-12-19
+104,Trinidad and Tobago,2019-12-19
+50,Scotland,2019-12-19
+49,Bosnia and Herzegovina,2019-12-19
+48,Jamaica,2019-12-19
+47,Ghana,2019-12-19
+46,Costa Rica,2019-12-19
+45,Czech Republic,2019-12-19
+44,Norway,2019-12-19
+43,Morocco,2019-12-19
+42,Australia,2019-12-19
+40,Paraguay,2019-12-19
+40,Korea Republic,2019-12-19
+39,Iceland,2019-12-19
+38,Russia,2019-12-19
+37,Romania,2019-12-19
+36,Northern Ireland,2019-12-19
+35,Algeria,2019-12-19
+34,Republic of Ireland,2019-12-19
+33,IR Iran,2019-12-19
+32,Slovakia,2019-12-19
+31,Nigeria,2019-12-19
+29,Serbia,2019-12-19
+29,Turkey,2019-12-19
+28,Japan,2019-12-19
+52,Hungary,2019-12-19
+105,Mozambique,2019-12-19
+26,Austria,2019-12-19
+106,Palestine,2019-12-19
+184,Malta,2019-12-19
+183,Montserrat,2019-12-19
+182,Macau,2019-12-19
+181,São Tomé and Príncipe,2019-12-19
+180,Liechtenstein,2019-12-19
+179,Cuba,2019-12-19
+178,Puerto Rico,2019-12-19
+177,Chad,2019-12-19
+176,St. Lucia,2019-12-19
+175,Moldova,2019-12-19
+173,Cambodia,2019-12-19
+173,Indonesia,2019-12-19
+172,Mauritius,2019-12-19
+170,Belize,2019-12-19
+170,Nepal,2019-12-19
+169,South Sudan,2019-12-19
+168,Bermuda,2019-12-19
+167,St. Vincent / Grenadines,2019-12-19
+166,Guyana,2019-12-19
+165,Papua New Guinea,2019-12-19
+163,Vanuatu,2019-12-19
+163,Fiji,2019-12-19
+162,Barbados,2019-12-19
+184,Djibouti,2019-12-19
+161,Tahiti,2019-12-19
+184,Dominica,2019-12-19
+188,Laos,2019-12-19
+106,Kenya,2019-12-19
+210,Anguilla,2019-12-19
+209,San Marino,2019-12-19
+208,British Virgin Islands,2019-12-19
+207,US Virgin Islands,2019-12-19
+205,Eritrea,2019-12-19
+205,Sri Lanka,2019-12-19
+203,Turks and Caicos Islands,2019-12-19
+203,Tonga,2019-12-19
+201,Aruba,2019-12-19
+201,Pakistan,2019-12-19
+200,Seychelles,2019-12-19
+199,Guam,2019-12-19
+196,Somalia,2019-12-19
+196,Timor-Leste,2019-12-19
+196,Gibraltar,2019-12-19
+195,Bahamas,2019-12-19
+194,Samoa,2019-12-19
+193,Cayman Islands,2019-12-19
+192,American Samoa,2019-12-19
+191,Brunei Darussalam,2019-12-19
+190,Mongolia,2019-12-19
+189,Bhutan,2019-12-19
+187,Bangladesh,2019-12-19
+159,Grenada,2019-12-19
+53,Cameroon,2019-12-19
+109,Central African Republic,2019-12-19
+131,Rwanda,2019-12-19
+130,Guatemala,2019-12-19
+129,Turkmenistan,2019-12-19
+128,Sudan,2019-12-19
+126,Togo,2019-12-19
+126,Antigua and Barbuda,2019-12-19
+124,Angola,2019-12-19
+124,Philippines,2019-12-19
+123,Malawi,2019-12-19
+122,New Zealand,2019-12-19
+121,Tajikistan,2019-12-19
+118,Guinea-Bissau,2019-12-19
+118,Sierra Leone,2019-12-19
+118,Kazakhstan,2019-12-19
+117,Namibia,2019-12-19
+116,Korea DPR,2019-12-19
+115,Kosovo,2019-12-19
+114,Azerbaijan,2019-12-19
+113,Thailand,2019-12-19
+112,Niger,2019-12-19
+111,Zimbabwe,2019-12-19
+110,Faroe Islands,2019-12-19
+159,Gambia,2019-12-19
+131,Lithuania,2019-12-19
+133,Comoros,2019-12-19
+108,India,2019-12-19
+135,Andorra,2019-12-19
+158,Dominican Republic,2019-12-19
+157,Singapore,2019-12-19
+156,New Caledonia,2019-12-19
+155,Maldives,2019-12-19
+154,Malaysia,2019-12-19
+153,Swaziland,2019-12-19
+134,Tanzania,2019-12-19
+151,Burundi,2019-12-19
+150,Nicaragua,2019-12-19
+149,Afghanistan,2019-12-19
+148,Botswana,2019-12-19
+152,Liberia,2019-12-19
+146,Ethiopia,2019-12-19
+145,Equatorial Guinea,2019-12-19
+144,Yemen,2019-12-19
+141,Solomon Islands,2019-12-19
+141,Suriname,2019-12-19
+141,Hong Kong,2019-12-19
+139,St. Kitts and Nevis,2019-12-19
+139,Lesotho,2019-12-19
+138,Chinese Taipei,2019-12-19
+137,Latvia,2019-12-19
+147,Kuwait,2019-12-19
+136,Myanmar,2019-12-19
+2,France,2020-12-10
+134,Equatorial Guinea,2020-12-10
+135,Tanzania,2020-12-10
+136,Latvia,2020-12-10
+137,Myanmar,2020-12-10
+138,Chinese Taipei,2020-12-10
+138,Burundi,2020-12-10
+140,St. Kitts and Nevis,2020-12-10
+141,Suriname,2020-12-10
+141,Solomon Islands,2020-12-10
+143,Lesotho,2020-12-10
+133,Rwanda,2020-12-10
+143,Hong Kong,2020-12-10
+146,Botswana,2020-12-10
+146,Ethiopia,2020-12-10
+148,Kuwait,2020-12-10
+149,Nicaragua,2020-12-10
+150,Afghanistan,2020-12-10
+151,Andorra,2020-12-10
+152,Liberia,2020-12-10
+153,Malaysia,2020-12-10
+153,Swaziland,2020-12-10
+155,Maldives,2020-12-10
+145,Yemen,2020-12-10
+156,New Caledonia,2020-12-10
+132,Turkmenistan,2020-12-10
+130,Comoros,2020-12-10
+108,Zimbabwe,2020-12-10
+109,Azerbaijan,2020-12-10
+109,Estonia,2020-12-10
+111,Thailand,2020-12-10
+111,Libya,2020-12-10
+113,Niger,2020-12-10
+114,Central African Republic,2020-12-10
+115,Korea DPR,2020-12-10
+116,Sierra Leone,2020-12-10
+117,Kosovo,2020-12-10
+131,Guatemala,2020-12-10
+118,New Zealand,2020-12-10
+120,Guinea-Bissau,2020-12-10
+121,Tajikistan,2020-12-10
+122,Kazakhstan,2020-12-10
+123,Malawi,2020-12-10
+124,Philippines,2020-12-10
+125,Angola,2020-12-10
+126,Antigua and Barbuda,2020-12-10
+127,Sudan,2020-12-10
+128,Togo,2020-12-10
+129,Lithuania,2020-12-10
+119,Namibia,2020-12-10
+107,Faroe Islands,2020-12-10
+157,Gambia,2020-12-10
+159,Dominican Republic,2020-12-10
+186,Bangladesh,2020-12-10
+187,São Tomé and Príncipe,2020-12-10
+188,Laos,2020-12-10
+189,Bhutan,2020-12-10
+190,Mongolia,2020-12-10
+191,Brunei Darussalam,2020-12-10
+192,American Samoa,2020-12-10
+193,Cayman Islands,2020-12-10
+194,Samoa,2020-12-10
+195,Gibraltar,2020-12-10
+184,Dominica,2020-12-10
+196,Bahamas,2020-12-10
+197,Timor-Leste,2020-12-10
+199,Guam,2020-12-10
+200,Aruba,2020-12-10
+200,Pakistan,2020-12-10
+202,Seychelles,2020-12-10
+203,Tonga,2020-12-10
+203,Turks and Caicos Islands,2020-12-10
+205,Eritrea,2020-12-10
+206,Sri Lanka,2020-12-10
+207,US Virgin Islands,2020-12-10
+197,Somalia,2020-12-10
+158,Singapore,2020-12-10
+184,Djibouti,2020-12-10
+182,Macau,2020-12-10
+160,Grenada,2020-12-10
+161,Tahiti,2020-12-10
+162,Barbados,2020-12-10
+163,South Sudan,2020-12-10
+164,Fiji,2020-12-10
+164,Vanuatu,2020-12-10
+166,Papua New Guinea,2020-12-10
+167,Guyana,2020-12-10
+168,St. Vincent / Grenadines,2020-12-10
+169,Bermuda,2020-12-10
+183,Montserrat,2020-12-10
+170,Belize,2020-12-10
+172,Mauritius,2020-12-10
+173,Cambodia,2020-12-10
+173,Indonesia,2020-12-10
+175,St. Lucia,2020-12-10
+176,Malta,2020-12-10
+177,Moldova,2020-12-10
+178,Chad,2020-12-10
+179,Puerto Rico,2020-12-10
+180,Cuba,2020-12-10
+181,Liechtenstein,2020-12-10
+171,Nepal,2020-12-10
+106,Mozambique,2020-12-10
+104,India,2020-12-10
+104,Kenya,2020-12-10
+29,IR Iran,2020-12-10
+30,Serbia,2020-12-10
+31,Algeria,2020-12-10
+32,Turkey,2020-12-10
+33,Slovakia,2020-12-10
+34,Paraguay,2020-12-10
+35,Morocco,2020-12-10
+35,Nigeria,2020-12-10
+37,Romania,2020-12-10
+38,Korea Republic,2020-12-10
+28,Venezuela,2020-12-10
+39,Russia,2020-12-10
+41,Australia,2020-12-10
+42,Czech Republic,2020-12-10
+42,Republic of Ireland,2020-12-10
+44,Norway,2020-12-10
+45,Northern Ireland,2020-12-10
+46,Iceland,2020-12-10
+47,Jamaica,2020-12-10
+48,Scotland,2020-12-10
+49,Egypt,2020-12-10
+50,Cameroon,2020-12-10
+40,Hungary,2020-12-10
+51,Costa Rica,2020-12-10
+27,Japan,2020-12-10
+25,Peru,2020-12-10
+3,Brazil,2020-12-10
+4,England,2020-12-10
+5,Portugal,2020-12-10
+6,Spain,2020-12-10
+7,Argentina,2020-12-10
+8,Uruguay,2020-12-10
+9,Mexico,2020-12-10
+10,Italy,2020-12-10
+11,Croatia,2020-12-10
+12,Denmark,2020-12-10
+26,Tunisia,2020-12-10
+13,Germany,2020-12-10
+15,Colombia,2020-12-10
+16,Switzerland,2020-12-10
+17,Chile,2020-12-10
+18,Wales,2020-12-10
+19,Poland,2020-12-10
+20,Senegal,2020-12-10
+20,Sweden,2020-12-10
+22,USA,2020-12-10
+23,Austria,2020-12-10
+24,Ukraine,2020-12-10
+14,Netherlands,2020-12-10
+52,Ghana,2020-12-10
+53,Greece,2020-12-10
+54,Finland,2020-12-10
+82,Oman,2020-12-10
+83,Benin,2020-12-10
+84,Haiti,2020-12-10
+85,Uzbekistan,2020-12-10
+86,Gabon,2020-12-10
+87,Israel,2020-12-10
+88,Belarus,2020-12-10
+89,Georgia,2020-12-10
+90,Zambia,2020-12-10
+91,Congo,2020-12-10
+81,Cabo Verde,2020-12-10
+92,Lebanon,2020-12-10
+94,Madagascar,2020-12-10
+95,Jordan,2020-12-10
+96,Kyrgyz Republic,2020-12-10
+97,Bahrain,2020-12-10
+98,Luxembourg,2020-12-10
+99,Armenia,2020-12-10
+100,Cyprus,2020-12-10
+101,Mauritania,2020-12-10
+102,Palestine,2020-12-10
+103,Trinidad and Tobago,2020-12-10
+93,Vietnam,2020-12-10
+79,Bolivia,2020-12-10
+79,Uganda,2020-12-10
+78,Panama,2020-12-10
+55,Bosnia and Herzegovina,2020-12-10
+56,Ecuador,2020-12-10
+57,Mali,2020-12-10
+58,Burkina Faso,2020-12-10
+58,Qatar,2020-12-10
+60,Congo DR,2020-12-10
+61,Côte d'Ivoire,2020-12-10
+62,Slovenia,2020-12-10
+63,Montenegro,2020-12-10
+64,Honduras,2020-12-10
+65,North Macedonia,2020-12-10
+66,Albania,2020-12-10
+67,Saudi Arabia,2020-12-10
+68,Bulgaria,2020-12-10
+69,Iraq,2020-12-10
+70,El Salvador,2020-12-10
+71,South Africa,2020-12-10
+72,Canada,2020-12-10
+73,Guinea,2020-12-10
+74,United Arab Emirates,2020-12-10
+75,China PR,2020-12-10
+76,Curaçao,2020-12-10
+76,Syria,2020-12-10
+1,Belgium,2020-12-10
+210,San Marino,2020-12-10
+209,Anguilla,2020-12-10
+208,British Virgin Islands,2020-12-10
