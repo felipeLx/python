@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
+from sklearn.pipeline import make_pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn import preprocessing
 
 result = pd.read_csv('data/data_processed.csv', sep=',')
 fixtures = pd.read_csv('data/fixtures.csv', sep=',')
@@ -49,10 +52,14 @@ y = final_result['Winner']
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3, random_state=50)
 
 # initialize model and fitting data
-model = LogisticRegression()
-model.fit(x_train, y_train)
-train_score = model.score(x_train, y_train)
-test_score = model.score(x_test, y_test)
+min_max_scaler = preprocessing.MinMaxScaler()
+X_train_minmax = min_max_scaler.fit_transform(x_train)
+X_test_minmax = min_max_scaler.transform(x_test)
+
+model = LogisticRegression(solver='lbfgs', max_iter=500)
+model.fit(X_train_minmax, y_train)
+train_score = model.score(X_train_minmax, y_train)
+test_score = model.score(X_test_minmax, y_test)
 print('Trainning accurary: ', train_score)
 print('Test accuracy: ', test_score)
 

@@ -15,8 +15,11 @@ df['Winner'] = np.select(conditions, choices)
 df['Points'] = np.where(df['Winner'] == 'Draw', 1, 3)
 df['home_team'] = df['home_team'].replace({'United States': 'USA'})
 df['away_team'] = df['away_team'].replace({'United States': 'USA'})
-df.to_csv('data/data_processed.csv')
-print(df.head())
+
+correlation = df.corr()
+print(correlation)
+# df.to_csv('data/data_processed.csv')
+# print(df.head())
 
 # df_group = df.groupby(['Winner', 'Year'], as_index=False)['Points'].sum().sort_values(by='Year')
                                                                                                                                                                                         
