@@ -18,5 +18,5 @@ df_clean['Ministry'] = df_clean['Ministry'].replace({'Advocacia-Geral da União'
 df_group = df_clean.groupby(['Ministry', 'Unit'], as_index=False)['Budget'].sum().round(2)
 df_group_action = df_clean.groupby(['Ministry', 'Action'], as_index=False)['Budget'].sum().round(2)
 print(df_group.head())
-# df_group.to_csv('data_group.csv', index=False)
-# df_group_action.to_csv('data_group_action.csv', index=False)
+df_group.to_csv('data_group.csv', index=False)
+df_group_action.to_csv('data_group_action.csv', index=False)
