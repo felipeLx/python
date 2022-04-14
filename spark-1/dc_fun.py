@@ -1,5 +1,5 @@
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import col, lead, row_number, sum
+from pyspark.sql.functions import col, row_number, sum
 from pyspark.sql import Window
 
 spark = SparkSession.builder.appName("Datacamp").getOrCreate()
@@ -23,6 +23,6 @@ df_dot.show()
 # window dot notation
 df_window = df.withColumn('id', row_number()
     .over(Window.partitionBy('train_id')
-        .orderBy('time')))
+.orderBy('time')))
 df_window.show()
 
