@@ -64,8 +64,8 @@ load_clf = pickle.load(open('model.pkl', 'rb'))
 
 # apply model to make prediction
 # df = df.dropna()
-prediction = load_clf.predict(df)
-prediction_proba = load_clf.predict_proba(df)
+prediction = load_clf.predict(df.iloc[:,:4].values)
+prediction_proba = load_clf.predict_proba(df.iloc[:,:4].values)
 
 st.subheader('Prediction')
 penguins_species = np.array(['Adelie', 'Chinstrap', 'Gentoo'])

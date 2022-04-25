@@ -21,7 +21,7 @@ def target_encode(val):
 df['species'] = df['species'].apply(target_encode)
 
 # split X and Y
-X = df[['bill_length_mm', 'bill_depth_mm', 'flipper_length_mm', 'body_mass_g']]
+X = df.iloc[:,:4].values
 Y = df['species']
 
 # build model
