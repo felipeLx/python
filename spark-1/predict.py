@@ -13,7 +13,7 @@ print('Right' if x.label == int(x.prediction) else 'Wrong')
 # train call model
 # some evaluation data in df called df_eval
 # to calculate the performance of this classification model: Area Under Curve, AUC
-model_stats = model.evaluate(df_eval) # return BinaryLogisticReressionSummary
+model_stats = model.evaluate(df_eval) # return BinaryLogisticRegressionSummary
 pyspark.ml.classification.BinaryLogisticReressionSummary
 print('\nPerformance: %.2f' % model_stats.areaUnderROC)
 
