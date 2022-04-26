@@ -1,0 +1,7 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["olá", "ola", "oi", "bom dia", "olá, tudo bem?", "ola, tudo bem?", "oi, tudo bem?", "hey, tudo bem?"],
+    "responses": ["Olá!", "Tudo bem e você?", "Bom dia também", "Como posso ajudar?"]
+    }
+    
+]}
