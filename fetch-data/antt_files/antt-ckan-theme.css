@@ -1,0 +1,9 @@
+/* FONTs */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap');
+
+/* COMPONENTS */
+@import './components/typography.css';
+@import './components/header.css';
+@import './components/search.css';
+@import './components/themes.css';
+@import './components/footer.css';
