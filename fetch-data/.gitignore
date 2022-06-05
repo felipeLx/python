@@ -1,3 +1,8 @@
 antt*
 /antt*
 ./antt*
+*.json
+*.pkl
+*.pickle
+*.env
+*.csv
