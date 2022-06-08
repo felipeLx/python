@@ -26,3 +26,29 @@ def extract_tables_from_infomoney():
     return df
 """
 
+"""
+import pandas as pd
+import yfinance as yf
+import datetime
+from datetime import date, timedelta
+today = date.today()
+
+d1 = today.strftime("%Y-%m-%d")
+end_date = d1
+d2 = date.today() - timedelta(days=5000)
+d2 = d2.strftime("%Y-%m-%d")
+start_date = d2
+
+df = yf.download(tickers="AAPL", start=start_date, end=end_date, progress=False)
+df['Date'] = df.index
+df = df[['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume']]
+df.reset_index(inplace=True, drop=True)
+df_print1 = df.tail()
+print(df_print1)
+
+# candlestick chart to have a better view of the increase and decrease of the stock price
+import plotly.graph_objects as go
+figure = go.Figure(data=[go.Candlestick(x=df['Date'], open=df['Open'], high=df['High'], low=df['Low'], close=df['Close'])])
+figure.update_layout(title='AAPL Stock Price Analysis', xaxis_title='Date', yaxis_title='Price', xaxis_rangeslider_visible=False)
+figure.show()
+"""
