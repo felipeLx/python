@@ -1,8 +1,5 @@
-from numpy import iterable
-from sqlalchemy import exists
 import yfinance as yf
 import spacy
-from spacy.lang.pt.examples import sentences
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -37,10 +34,10 @@ def run():
 
     @st.cache
     def convert_df(df):
-        return df.to_csv('rss.csv')
+        return df.to_csv('./data/rss.csv')
 
     def stock_info_from_yfinance(headings):
-        stocks_df = pd.read_csv('stocks.csv')
+        stocks_df = pd.read_csv('./data/stocks.csv')
         for title in headings:
             doc = nlp(title.text)
             for token in doc.ents:

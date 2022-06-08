@@ -10,7 +10,7 @@ st.markdown("# Gráfico das empresas SA do rss-feed")
 st.sidebar.markdown("# Gráfico do Mercado 📈")
 
 def read_dataframe():
-    df_load = pd.read_csv('rss.csv', dtype=str, index_col=0)
+    df_load = pd.read_csv('./data/rss.csv', dtype=str, index_col=0)
     df_business = df_load[['Org','Symbol']].reset_index(drop=True)
     df_business['name'] = df_business['Org'].str.lower()
     df_business['name'] = df_business['name'].str.split( ).str[0]
