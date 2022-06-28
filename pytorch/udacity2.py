@@ -4,4 +4,4 @@
 # test 7 grade 6 bias 1
 # score = 2*7 + 1*6 - 1*18 = 2
 x = 1.5*7 +6 - 18
-print(x) 
+print(x)
